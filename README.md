@@ -16,7 +16,7 @@ The data folder is organized as follows:<br>
 
 ### Which IRS Categories We Looked At
 
-We chose to look at nonprofits labelled with certain IRS Activity Codes in the IRS master file. Below are the codes we looked at, and a description as taken from [a table maintained by the Urban Institute](https://nccs.urban.org/publication/irs-activity-codes).
+We chose to look at nonprofits labeled with certain IRS Activity Codes in the IRS master file. Below are the codes we looked at, and a description as taken from [a table maintained by the Urban Institute](https://nccs.urban.org/publication/irs-activity-codes).
 
 | NTEE Code | Description |
 |----|----|
