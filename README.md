@@ -10,6 +10,27 @@ The data folder is organzied as follows:<br>
 
 | Folder                                               | Description                                                                                                                                                                                              |
 | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `data/nonprofit-websites.csv`                          | TK                                                                                           |
-| `data/oct-13-summary.csv`                          | The summary file generated from our bulk Blacklight scan of nonprofit websites on October 13, 2021.                                                                                           |
-| `data/story-inspections`                             | The `blacklight-collector` inspections for the websites mentioned in our [investigation](TK) |
+| `data/nonprofit-websites.csv`                          | A list of nonprofits along with their websites, as publicly listed on [Charity Navigator](https://www.charitynavigator.org/).                                                                                           |
+| `data/oct-13-summary.csv`                          | The summary file generated from our bulk Blacklight scan of nonprofit websites on Oct. 13, 2021.                                                                                           |
+| `data/story-inspections`                             | The `blacklight-collector` inspections for the websites mentioned in our [story](TK). |
+
+### Which IRS Categories We Looked At
+
+We chose to look at nonprofits labelled with certain IRS Activity Codes in the IRS master file. Below are the codes we looked at, and a description as taken from [a table maintained by the Urban Institute](https://nccs.urban.org/publication/irs-activity-codes).
+
+| NTEE Code | Description |
+|----|----|
+| **R** | Civil Rights, Social Action & Advocacy | 
+| **F** | Mental Health & Crisis Intervention |
+| **G** | Voluntary Health Associations & Medical Disciplines |
+| **H** | Medical Research |
+| **I** |  Crime & Legal-Related |
+| **P47** | Pregnancy Centers |
+| **P45** | Family Services for Adolescent Parents |
+| **E40** | Reproductive Health Care |
+| **B83** |  Student Sororities & Fraternities |
+| **B94** |  Parent & Teacher Groups |
+| **B21** |  Preschools |
+| **B24** |  Primary & Elementary Schools  |
+| **B25** |  Secondary & High Schools  |
+| **B28** |  Special Education |
