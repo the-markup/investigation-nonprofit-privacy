@@ -12,4 +12,4 @@ The data folder is organzied as follows:<br>
 | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `data/nonprofit-websites.csv`                          | TK                                                                                           |
 | `data/oct-13-summary.csv`                          | The summary file generated from our bulk Blacklight scan of nonprofit websites on October 13, 2021.                                                                                           |
-| `data/story-inspections`                             | The `blacklight-collector` inspections for the websites mentioned in our [investigation](https://themarkup.org/blacklight/2020/09/22/blacklight-tracking-advertisers-digital-privacy-sensitive-websites) |
+| `data/story-inspections`                             | The `blacklight-collector` inspections for the websites mentioned in our [investigation](TK) |
