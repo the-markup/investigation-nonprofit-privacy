@@ -1,0 +1,4660 @@
+{
+  "title": "Blacklight - API Request",
+  "uri_ins": "http://plannedparenthood.org",
+  "uri_dest": "https://www.plannedparenthood.org/",
+  "uri_redirects": [
+    "http://plannedparenthood.org/"
+  ],
+  "secure_connection": {},
+  "host": "plannedparenthood.org",
+  "config": {
+    "clearCache": true,
+    "captureHar": true,
+    "captureLinks": false,
+    "enableAdBlock": false,
+    "emulateDevice": "iPhone X",
+    "numPages": 1
+  },
+  "browser": {
+    "name": "Chromium",
+    "version": "HeadlessChrome/85.0.4182.0",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/85.0.4182.0 Safari/537.36",
+    "platform": {
+      "name": "Linux",
+      "version": "4.14.243-194.434.amzn2.x86_64"
+    }
+  },
+  "script": {
+    "host": "169.254.93.105",
+    "version": {
+      "npm": "2.1.10",
+      "commit": null
+    },
+    "node_version": "v12.22.4"
+  },
+  "start_time": "2021-10-18T14:06:56.643Z",
+  "end_time": "2021-10-18T14:07:21.730Z",
+  "deviceEmulated": {
+    "name": "iPhone X",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+    "viewport": {
+      "width": 375,
+      "height": 812,
+      "deviceScaleFactor": 3,
+      "isMobile": true,
+      "hasTouch": true,
+      "isLandscape": false
+    }
+  },
+  "browsing_history": [
+    "https://www.plannedparenthood.org/",
+    "https://www.plannedparenthood.org/about-us/planned-parenthood-global"
+  ],
+  "hosts": {
+    "requests": {
+      "first_party": [
+        "plannedparenthood.org",
+        "www.plannedparenthood.org"
+      ],
+      "third_party": [
+        "fast.fonts.net",
+        "actions.everyaction.com",
+        "try.abtasty.com",
+        "www.google-analytics.com",
+        "www.googletagmanager.com",
+        "dcinfos-cache.abtasty.com",
+        "stats.g.doubleclick.net",
+        "ssl.google-analytics.com",
+        "www.googleadservices.com",
+        "bat.bing.com",
+        "4558437.fls.doubleclick.net",
+        "secure.quantserve.com",
+        "c1.rfihub.net",
+        "s.yimg.com",
+        "static.hotjar.com",
+        "p.teads.tv",
+        "sc-static.net",
+        "analytics.tiktok.com",
+        "ariane.abtasty.com",
+        "googleads.g.doubleclick.net",
+        "20833821p.rfihub.com",
+        "script.hotjar.com",
+        "rules.quantcount.com",
+        "sp.analytics.yahoo.com",
+        "adservice.google.com",
+        "l.teads.tv",
+        "t.teads.tv",
+        "www.google.com",
+        "pixel.quantserve.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "stags.bluekai.com",
+        "pixel.rubiconproject.com",
+        "dpm.demdex.net",
+        "p.rfihub.com",
+        "contextual.media.net",
+        "bs.serving-sys.com",
+        "live.rezync.com",
+        "bpi.rtactivate.com",
+        "dsum-sec.casalemedia.com",
+        "idsync.rlcdn.com",
+        "x.dlx.addthis.com",
+        "sync.search.spotxchange.com",
+        "partners.tremorhub.com",
+        "aa.agkn.com",
+        "beacon.krxd.net",
+        "x.bidswitch.net",
+        "sync-tm.everesttech.net",
+        "tags.tiqcdn.com",
+        "vmss.boldchat.com",
+        "a.rfihub.com",
+        "ps.eyeota.net",
+        "tr.snapchat.com",
+        "d10lpsik1i8c69.cloudfront.net",
+        "connect.facebook.net",
+        "js.adsrvr.org",
+        "cdn.callrail.com",
+        "insight.adsrvr.org",
+        "cdn5.userzoom.com",
+        "ups.analytics.yahoo.com",
+        "i.liadm.com",
+        "vars.hotjar.com",
+        "databridge.tdbtrk.com",
+        "tr6.snapchat.com",
+        "vms.boldchat.com",
+        "visitor-services.boldchat.com",
+        "settings.luckyorange.net",
+        "pippio.com",
+        "collect.tealiumiq.com",
+        "www.facebook.com",
+        "pixel.tapad.com",
+        "in.hotjar.com",
+        "match.adsrvr.org",
+        "simage2.pubmatic.com",
+        "visitor-service-us-east-1.tealiumiq.com",
+        "20787143p.rfihub.com",
+        "bid.g.doubleclick.net"
+      ]
+    }
+  },
+  "reports": {
+    "behaviour_event_listeners": {
+      "MOUSE": {
+        "https://connect.facebook.net/signals/config/433242851216452?v=2.9.47&r=stable": [
+          "click"
+        ],
+        "https://www.plannedparenthood.org/static/js/site.bundle.407fb3d04d19.js": [
+          "scroll",
+          "click"
+        ],
+        "https://script.hotjar.com/modules.a781ddf321f3456bdb6f.js": [
+          "scroll",
+          "mousemove",
+          "click"
+        ],
+        "https://www.googletagmanager.com/gtm.js?id=GTM-N62L8SB&l=dataLayer": [
+          "mousedown"
+        ],
+        "https://www.googletagmanager.com/gtm.js?id=GTM-MZJZ59": [
+          "click"
+        ],
+        "https://www.plannedparenthood.org/static/js/ppfaHomepageMinimal.bundle.af2dee74cc68.js": [
+          "scroll",
+          "click"
+        ]
+      },
+      "TOUCH": {
+        "https://www.plannedparenthood.org/static/js/site.bundle.407fb3d04d19.js": [
+          "touchmove"
+        ]
+      },
+      "KEYBOARD": {
+        "https://script.hotjar.com/modules.a781ddf321f3456bdb6f.js": [
+          "keypress"
+        ],
+        "https://www.googletagmanager.com/gtm.js?id=GTM-N62L8SB&l=dataLayer": [
+          "keyup"
+        ],
+        "https://try.abtasty.com/4a5beb0972e219edcff0400029191b52.js": [
+          "keyup",
+          "keydown"
+        ]
+      }
+    },
+    "canvas_fingerprinters": {
+      "data_url": {},
+      "fingerprinters": [],
+      "styles": {},
+      "texts": {}
+    },
+    "canvas_font_fingerprinters": {
+      "canvas_font": {},
+      "text_measure": {}
+    },
+    "cookies": [
+      {
+        "name": "tdb.iey9i2bw",
+        "value": "%7B%7D",
+        "domain": "tdbtrk.com",
+        "path": "/databridge/iey9i2bw",
+        "expires": "2021-11-17T14:07:01.380Z",
+        "size": 18,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "X-AB",
+        "value": "4ee83e05b9f44b9e856e2f6b402c942e",
+        "domain": "sc-static.net",
+        "path": "/scevent.min.js",
+        "expires": "2021-10-19T14:06:58.966Z",
+        "size": 36,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_li_ss",
+        "value": "MgYIoQEQxRA",
+        "domain": "i.liadm.com",
+        "path": "/s",
+        "expires": "2021-11-17T14:07:14.685Z",
+        "size": 17,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "__cf_bm",
+        "value": "6K521kybXx5Q6VjXtO8YPLWGLWvBxNHH7Vq8XL2QAyE-1634566017-0-ATq08Y5i4ang8dAQ6S9ce2Hpretm5EyyT4YfNpBUsfMbt4LiwsWO7fVSlb5bL9gARhvpqAkKLs8sOYBUzrcjv6s=",
+        "domain": "fonts.net",
+        "path": "/",
+        "expires": "2021-10-18T14:36:57.249Z",
+        "size": 152,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TiPMix",
+        "value": "32.2193257195034",
+        "domain": "actions.everyaction.com",
+        "path": "/",
+        "expires": "2021-10-18T15:06:57.485Z",
+        "size": 22,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "x-ms-routing-name",
+        "value": "self",
+        "domain": "actions.everyaction.com",
+        "path": "/",
+        "expires": "2021-10-18T15:06:57.485Z",
+        "size": 21,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_ga",
+        "value": "GA1.2.1369221122.1634566018",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2023-10-18T14:07:16.000Z",
+        "size": 30,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_gid",
+        "value": "GA1.2.86270156.1634566018",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-19T14:07:16.000Z",
+        "size": 29,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_dc_gtm_UA-8867852-1",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:07:58.000Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.122311494.1634566019",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-01-16T14:06:58.000Z",
+        "size": 31,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "MUID",
+        "value": "309E7CDBA09F6BE118EE6C0FA1D06A9C",
+        "domain": "bing.com",
+        "path": "/",
+        "expires": "2022-11-12T14:06:58.748Z",
+        "size": 36,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "High",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "MR",
+        "value": "0",
+        "domain": "bat.bing.com",
+        "path": "/",
+        "expires": "2021-10-25T14:06:58.748Z",
+        "size": 3,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "__utma",
+        "value": "34810208.1369221122.1634566018.1634566019.1634566019.1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2023-10-18T14:07:12.000Z",
+        "size": 60,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "__utmc",
+        "value": "34810208",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": -1,
+        "size": 14,
+        "httpOnly": false,
+        "secure": false,
+        "session": true,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "test_cookie",
+        "value": "CheckForPermission",
+        "domain": "doubleclick.net",
+        "path": "/",
+        "expires": "2021-10-18T14:21:58.970Z",
+        "size": 29,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "__utmz",
+        "value": "34810208.1634566019.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-04-19T02:07:12.000Z",
+        "size": 75,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "__utmt_UA-8867852-42",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:16:58.000Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "rud",
+        "value": "H4sIAAAAAAAAAOMSMjWxNLY0sjCyNDAyNDW0NDAxF-Iz1M1IrAgu9PBLy8sx9JbiNTQzNjE1MzMwtDQxtAQAytXEdzMAAAA",
+        "domain": "rfihub.com",
+        "path": "/",
+        "expires": "2022-11-12T14:07:14.407Z",
+        "size": 98,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ruds",
+        "value": "H4sIAAAAAAAAAOMSMjWxNLY0sjCyNDAyNDW0NDAxF-Iz1M1IrAgu9PBLy8sx9AYAiFZHlyQAAAA",
+        "domain": "rfihub.com",
+        "path": "/",
+        "expires": -1,
+        "size": 79,
+        "httpOnly": false,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_hjid",
+        "value": "219afb6e-90c5-453b-a57a-1e341d087f20",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-10-18T14:06:59.000Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_hjFirstSeen",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:36:59.000Z",
+        "size": 13,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "__qca",
+        "value": "P0-887868617-1634566019870",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-11-14T14:07:00.000Z",
+        "size": 31,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "demdex",
+        "value": "88756421152281918421608443735348449574",
+        "domain": "demdex.net",
+        "path": "/",
+        "expires": "2022-04-16T14:07:13.468Z",
+        "size": 44,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "uuid2",
+        "value": "4594138377863558903",
+        "domain": "adnxs.com",
+        "path": "/",
+        "expires": "2022-01-16T14:07:13.445Z",
+        "size": 24,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "khaos",
+        "value": "KUWQEL32-1D-G1IU",
+        "domain": "rubiconproject.com",
+        "path": "/",
+        "expires": "2022-10-18T14:07:13.467Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "pxrc",
+        "value": "CAA=",
+        "domain": "rlcdn.com",
+        "path": "/",
+        "expires": "2021-12-17T14:07:13.585Z",
+        "size": 8,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "zync-uuid",
+        "value": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14",
+        "domain": "rezync.com",
+        "path": "/",
+        "expires": "2022-11-12T07:07:13.605Z",
+        "size": 59,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "dpm",
+        "value": "88756421152281918421608443735348449574",
+        "domain": "dpm.demdex.net",
+        "path": "/",
+        "expires": "2022-04-16T14:07:13.468Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "tuuid",
+        "value": "29ec8687-5615-4a9f-9956-06822d8a74a8",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-18T14:07:00.444Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "c",
+        "value": "1634566020",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-18T14:07:00.444Z",
+        "size": 11,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "tuuid_lu",
+        "value": "1634566020",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-18T14:07:00.444Z",
+        "size": 18,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_gat_UA-8867852-26",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:08:00.000Z",
+        "size": 19,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "SERVERID",
+        "value": "19886~DM",
+        "domain": "eyeota.net",
+        "path": "/",
+        "expires": "2021-10-18T14:17:14.408Z",
+        "size": 16,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_scid",
+        "value": "89416a63-dbe3-4ee3-bba2-67f50b37dd4a",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-11-18T06:25:18.000Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "TDID",
+        "value": "0c6ac412-2e2e-42ad-b02b-250f6070001b",
+        "domain": "adsrvr.org",
+        "path": "/",
+        "expires": "2022-10-18T14:07:15.871Z",
+        "size": 40,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "lidid",
+        "value": "5d7e0980-7801-40da-85fc-f927dec9c018",
+        "domain": "liadm.com",
+        "path": "/",
+        "expires": "2023-10-18T14:07:14.685Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "bc.visitor_token",
+        "value": "6855866802296422400",
+        "domain": "boldchat.com",
+        "path": "/",
+        "expires": "2023-10-18T14:07:01.526Z",
+        "size": 35,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "calltrk_referrer",
+        "value": "direct",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-10-18T14:07:15.000Z",
+        "size": 22,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "calltrk_landing",
+        "value": "https%3A//www.plannedparenthood.org/",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-10-18T14:07:15.000Z",
+        "size": 51,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "did",
+        "value": "OEvO0ot4-XE-ja8z",
+        "domain": "pippio.com",
+        "path": "/",
+        "expires": "2022-10-18T14:07:02.285Z",
+        "size": 19,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "didts",
+        "value": "1634566022",
+        "domain": "pippio.com",
+        "path": "/",
+        "expires": "2022-10-18T14:07:02.285Z",
+        "size": 15,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "nnls",
+        "value": "",
+        "domain": "pippio.com",
+        "path": "/",
+        "expires": "2021-12-17T14:07:02.285Z",
+        "size": 4,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "pxrc",
+        "value": "CAA=",
+        "domain": "pippio.com",
+        "path": "/",
+        "expires": "2021-12-17T14:07:14.993Z",
+        "size": 8,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TAPID",
+        "value": "plannedparenthood/main>017c93ba207000172e6ff214f29100087002207f004bb|",
+        "domain": "tealiumiq.com",
+        "path": "/",
+        "expires": "2022-10-18T14:07:16.056Z",
+        "size": 74,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_fbp",
+        "value": "fb.1.1634566022586.1526509537",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-01-16T14:07:16.000Z",
+        "size": 33,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_hjIncludedInPageviewSample",
+        "value": "1",
+        "domain": "www.plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:09:16.000Z",
+        "size": 28,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "_hjAbsoluteSessionInProgress",
+        "value": "0",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:37:16.000Z",
+        "size": 29,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "TapAd_TS",
+        "value": "1634566023000",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-17T14:07:03.085Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TapAd_DID",
+        "value": "95942d4f-270c-4dc1-a059-f4ea9cb2c838",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-17T14:07:03.085Z",
+        "size": 45,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_gat_UA-8867852-25",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:08:03.000Z",
+        "size": 19,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_hjIncludedInSessionSample",
+        "value": "1",
+        "domain": "www.plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:09:16.000Z",
+        "size": 27,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "TapAd_3WAY_SYNCS",
+        "value": "",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-17T14:07:03.085Z",
+        "size": 16,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "sc_at",
+        "value": "v2|H4sIAAAAAAAAAE3GwRHAIAgEwIqY4YSAphsiUIXF+82+dqejq4Jye5Aig+byJi5fMEh/cxwovzDRx4yHnF/5AkoYfKhAAAAA",
+        "domain": "snapchat.com",
+        "path": "/",
+        "expires": "2022-11-12T14:07:03.165Z",
+        "size": 104,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_lo_bn",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-11-17T14:07:03.000Z",
+        "size": 7,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_sctr",
+        "value": "1|1634515200000",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-11-18T06:25:21.000Z",
+        "size": 20,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "bc_pv_end",
+        "value": "undefined",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:07:39.000Z",
+        "size": 18,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "ABTasty",
+        "value": "uid=cdxv2nganxkfvf82&fst=1634566018335&pst=-1&cst=1634566018335&ns=1&pvt=2&pvis=2&th=",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-11-10T14:07:11.000Z",
+        "size": 92,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "ABTastySession",
+        "value": "mrasn=&sen=1&lp=https%253A%252F%252Fwww.plannedparenthood.org%252F",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:37:11.000Z",
+        "size": 80,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "__utmb",
+        "value": "34810208.2.10.1634566019",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-18T14:37:12.000Z",
+        "size": 30,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "anj",
+        "value": "dTM7k!M4/YDYRWSF']wIg2Hbys.EP^!A#FP.TOKA9YfZ'=CB[%ig-!mdX>3DfS(KeidRj.D/m6lm2!b7!AXTO:4=sB!'x9FUnM-i",
+        "domain": "adnxs.com",
+        "path": "/",
+        "expires": "2022-01-16T14:07:13.445Z",
+        "size": 103,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "rlas3",
+        "value": "U6sgfFNRCFQbns21x9cPYpHVHNTJ2AWTR8Lxh3krkf0=",
+        "domain": "rlcdn.com",
+        "path": "/",
+        "expires": "2022-10-18T14:07:13.585Z",
+        "size": 49,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "audit",
+        "value": "1|HAg8hR+kJNaIse/AaXJCvJfzMEAzWRIDqWaMTTShZ3IaZGsygPrjB7f9oyuqNYm9RFQkhFS8WfCM1KxoLazItzgcYyWGKhyqQG8/UFe72uJIqSeuQ92LEAqy13O3uWMLpO9wo9Czu97Bi2on+qT/kP0exc+f0IZt",
+        "domain": "rubiconproject.com",
+        "path": "/",
+        "expires": "2022-10-18T14:07:13.467Z",
+        "size": 167,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "sd-session-id",
+        "value": ".eJwVyk0LgjAcgPGvEv-zh20pNaFDoETQJsYi5kV6GbS5WbhJqPjds-Pz8Jug_qjO3VrVBkhD16sIHlYv5SGdwOvRqQZSSGK6pmRLKCI4wRTFG5gj8Mp7_W5r_fzj1X2BhWCEZ9ZWBxmqrCFMI8TdZX26HnEhZJDmbLmRQyHygTv-KkxO2Fji5X2Z2fdMlDuY5x93jzCk.FE8REQ.2mzPPaxNGFp0ZjYixgDKAustLNU",
+        "domain": "live.rezync.com",
+        "path": "/",
+        "expires": "2022-11-12T14:07:13.605Z",
+        "size": 249,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_uetsid",
+        "value": "a9fb5510301c11eca3d77dc964cec25b",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-19T14:07:14.000Z",
+        "size": 39,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_uetvid",
+        "value": "a9fe7930301c11ec86ad790efd97c087",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-11-12T14:07:14.000Z",
+        "size": 39,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "eud",
+        "value": "H4sIAAAAAAAAAONicjVW4lSJd_KODw31dAniNTQzNjE1MzMwNjE2Ns1C5loYzGJE8I1MLI1WofFPofFfofF_ofEnMaHyZ6HxF6HxV6HxN6Hxd6GrZ0Hl30Ljb2JF08-N5l40_iRhI0tjMxPL1JQ03RRLMyNdE7NUc90kU0sz3SSTVDMzI0tDI7PkRCuYJiMDPUOTWcJIgWhgbL5IGNXQR2h8AI6RSz2SAQAA",
+        "domain": "rfihub.com",
+        "path": "/",
+        "expires": "2022-11-12T14:07:14.407Z",
+        "size": 231,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "euds",
+        "value": "H4sIAAAAAAAAAONicjVW4lSJd_KODw31dGliMbI0NjOxTE1J002xNDPSNTFLNddNMrU0000ySTUzM7I0NDJLTrQyNDM2MTUzMzAy0DM0AQACNOwjRAAAAA",
+        "domain": "rfihub.com",
+        "path": "/",
+        "expires": -1,
+        "size": 122,
+        "httpOnly": false,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TDCPM",
+        "value": "CAESGQoKcmlnaHRtZWRpYRILCNDvpOPSkok6EAUSFgoHcnViaWNvbhILCPj1hfPSkok6EAUSFwoIYXBwbmV4dXMSCwj49YXz0pKJOhAFEhUKBmdvb2dsZRILCJr3yJvz5IY6EAUSFQoGY2FzYWxlEgsI5IDW89KSiToQBRIXCghwdWJtYXRpYxILCOSA1vPSkok6EAUSGAoJYmlkc3dpdGNoEgsI5IDW89KSiToQBRgFKAMyCwj01dCh6pKJOhAFQg8iDQgBEgkKBXRpZXIzEAFaB28zYTEyM25gAQ..",
+        "domain": "adsrvr.org",
+        "path": "/",
+        "expires": "2022-10-18T14:07:15.871Z",
+        "size": 301,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "utag_main",
+        "value": "v_id:017c93ba207000172e6ff214f29100087002207f004bb$_sn:1$_se:2$_ss:0$_st:1634567834815$ses_id:1634566021246%3Bexp-session$_pn:2%3Bexp-session$db_iey9i2bw:true%3Bexp-session$dc_visit:1$dc_event:2%3Bexp-session$dc_region:us-east-1%3Bexp-session",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-10-18T14:07:16.000Z",
+        "size": 251,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      }
+    ],
+    "fb_pixel_events": [
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+        "raw": "https://www.facebook.com/tr/?id=433242851216452&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&rl=&if=false&ts=1634566036975&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=29&fbp=fb.1.1634566022586.1526509537&it=1634566035048&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+        "raw": "https://www.facebook.com/tr/?id=342839232873627&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&rl=&if=false&ts=1634566036588&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634566022586.1526509537&it=1634566035048&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+        "raw": "https://www.facebook.com/tr/?id=1119126068252786&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&rl=&if=false&ts=1634566035981&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634566022586.1526509537&it=1634566035048&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/",
+        "raw": "https://www.facebook.com/tr/?id=433242851216452&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2F&rl=&if=false&ts=1634566023929&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=29&fbp=fb.1.1634566022586.1526509537&it=1634566021715&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/",
+        "raw": "https://www.facebook.com/tr/?id=342839232873627&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2F&rl=&if=false&ts=1634566023531&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634566022586.1526509537&it=1634566021715&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/",
+        "raw": "https://www.facebook.com/tr/?id=1119126068252786&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2F&rl=&if=false&ts=1634566022589&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634566022586.1526509537&it=1634566021715&coo=false&dpo=&tm=1&rqm=GET"
+      }
+    ],
+    "key_logging": {},
+    "session_recorders": {
+      "d10lpsik1i8c69.cloudfront.net": [
+        "d10lpsik1i8c69.cloudfront.net/js/clickstream.js",
+        "d10lpsik1i8c69.cloudfront.net/w.js"
+      ],
+      "script.hotjar.com": [
+        "script.hotjar.com/modules.a781ddf321f3456bdb6f.js"
+      ],
+      "static.hotjar.com": [
+        "static.hotjar.com/c/hotjar-1436451.js"
+      ]
+    },
+    "third_party_trackers": [
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 433242851216452,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "rl": "",
+            "if": false,
+            "ts": 1634566036975,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 29,
+            "fbp": "fb.1.1634566022586.1526509537",
+            "it": 1634566035048,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=433242851216452&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&rl=&if=false&ts=1634566036975&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=29&fbp=fb.1.1634566022586.1526509537&it=1634566035048&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 342839232873627,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "rl": "",
+            "if": false,
+            "ts": 1634566036588,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 28,
+            "fbp": "fb.1.1634566022586.1526509537",
+            "it": 1634566035048,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=342839232873627&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&rl=&if=false&ts=1634566036588&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634566022586.1526509537&it=1634566035048&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/433242851216452?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j93",
+            "a": 296397702,
+            "t": "event",
+            "ni": 1,
+            "_s": 1,
+            "dl": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Planned Parenthood Global | Information and Locations",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "ec": "Debugging",
+            "ea": "optimize.callback",
+            "_utma": "34810208.1369221122.1634566018.1634566019.1634566019.1",
+            "_utmz": "34810208.1634566019.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "_utmht": 1634566036152,
+            "_u": "SCCCAUADQ~",
+            "jid": "",
+            "gjid": "",
+            "cid": 1369221122.1634567,
+            "tid": "UA-8867852-25",
+            "_gid": 86270156.1634566,
+            "gtm": "2wgad0KHVLK6X",
+            "cd38": "UA - Event - Debugging str dLayer",
+            "z": 2061131898
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j93&a=296397702&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&ul=en-us&de=UTF-8&dt=Planned%20Parenthood%20Global%20%7C%20Information%20and%20Locations&sd=24-bit&sr=375x812&vp=375x812&je=0&ec=Debugging&ea=optimize.callback&_utma=34810208.1369221122.1634566018.1634566019.1634566019.1&_utmz=34810208.1634566019.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1634566036152&_u=SCCCAUADQ~&jid=&gjid=&cid=1369221122.1634566018&tid=UA-8867852-25&_gid=86270156.1634566018&gtm=2wgad0KHVLK6X&cd38=UA%20-%20Event%20-%20Debugging%20str%20dLayer&z=2061131898"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 6
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://in.hotjar.com/api/v2/client/sites/1436451/visit-data?sv=6"
+      },
+      {
+        "data": {
+          "filter": "||tealiumiq.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://collect.tealiumiq.com/plannedparenthood/main/2/i.gif"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 1119126068252786,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "rl": "",
+            "if": false,
+            "ts": 1634566035981,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 28,
+            "fbp": "fb.1.1634566022586.1526509537",
+            "it": 1634566035048,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=1119126068252786&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&rl=&if=false&ts=1634566035981&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634566022586.1526509537&it=1634566035048&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/342839232873627?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||d10lpsik1i8c69.cloudfront.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "6ea758b"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d10lpsik1i8c69.cloudfront.net/js/clickstream.js?v=6ea758b"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/1119126068252786?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||luckyorange.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "u": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "s": 83480
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://settings.luckyorange.net/?u=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&s=83480"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "/pippio.",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "it": 1,
+            "pid": 500040,
+            "iv": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pippio.com/api/sync?it=1&pid=500040&iv=93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14"
+      },
+      {
+        "data": {
+          "filter": "/pippio.",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "it": 1,
+            "pid": 500040,
+            "iv": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pippio.com/api/sync?it=1&pid=500040&iv=93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "bidder_id": 200442,
+            "bidder_uuid": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14",
+            "pid": 500040,
+            "it": 1,
+            "iv": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://i.liadm.com/s/56409?bidder_id=200442&bidder_uuid=93649edf-d962-46e7-b596-b4e6629126ca%3A1634566020.14&pid=500040&it=1&iv=93649edf-d962-46e7-b596-b4e6629126ca%3A1634566020.14"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "bidder_id": 200442,
+            "bidder_uuid": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14",
+            "pid": 500040,
+            "it": 1,
+            "iv": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://i.liadm.com/s/56409?bidder_id=200442&bidder_uuid=93649edf-d962-46e7-b596-b4e6629126ca%3A1634566020.14&pid=500040&it=1&iv=93649edf-d962-46e7-b596-b4e6629126ca%3A1634566020.14"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://vars.hotjar.com/box-3333a05ac05419926bfc064e06a742b1.html"
+      },
+      {
+        "data": {
+          "filter": "||eyeota.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "uid": 549392829021519040,
+            "bid": "omt9pi0"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ps.eyeota.net/match?uid=549392829021519047&bid=omt9pi0"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 5061699,
+            "tm": "gtm002",
+            "Ver": 2,
+            "mid": "5c340f61-658b-46a2-9676-e91d7b4efae1",
+            "sid": "a9fb5510301c11eca3d77dc964cec25b",
+            "vid": "a9fe7930301c11ec86ad790efd97c087",
+            "vids": 0,
+            "pi": 0,
+            "lg": "en-US",
+            "sw": 375,
+            "sh": 812,
+            "sc": 24,
+            "tl": "Planned Parenthood Global | Information and Locations",
+            "p": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "r": "",
+            "lt": 4066,
+            "evt": "pageLoad",
+            "msclkid": "N",
+            "sv": 1,
+            "rn": 865810
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/action/0?ti=5061699&tm=gtm002&Ver=2&mid=5c340f61-658b-46a2-9676-e91d7b4efae1&sid=a9fb5510301c11eca3d77dc964cec25b&vid=a9fe7930301c11ec86ad790efd97c087&vids=0&pi=0&lg=en-US&sw=375&sh=812&sc=24&tl=Planned%20Parenthood%20Global%20%7C%20Information%20and%20Locations&p=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&r=&lt=4066&evt=pageLoad&msclkid=N&sv=1&rn=865810"
+      },
+      {
+        "data": {
+          "filter": "||eyeota.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "uid": 549392829021519040,
+            "bid": "omt9pi0"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ps.eyeota.net/match?uid=549392829021519047&bid=omt9pi0"
+      },
+      {
+        "data": {
+          "filter": "||callrail.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.callrail.com/group/629580986/6c39c9f2947171b095c6b447/12/swap.js"
+      },
+      {
+        "data": {
+          "filter": "/fbevents.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "data": {
+          "filter": "||d10lpsik1i8c69.cloudfront.net^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d10lpsik1i8c69.cloudfront.net/w.js"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://p.rfihub.com/cm?in=1&pub=21653&userid=${TM_USER_ID}",
+            "_test": "YW1-kQAAAmYSoAA6"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D&_test=YW1-kQAAAmYSoAA6"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://p.rfihub.com/cm?in=1&pub=21653&userid=${TM_USER_ID}",
+            "_test": "YW1-kQAKBUig-wAR"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D&_test=YW1-kQAKBUig-wAR"
+      },
+      {
+        "data": {
+          "filter": "||bid.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d": "KAE"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bid.g.doubleclick.net/xbbe/pixel?d=KAE"
+      },
+      {
+        "data": {
+          "filter": "||bid.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d": "KAE"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bid.g.doubleclick.net/xbbe/pixel?d=KAE"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/api/v2/pixel"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/api/v2/pixel"
+      },
+      {
+        "data": {
+          "filter": "||tremorhub.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "UIRF": 549392829021519040,
+            "r": "UKwRu-43qpuN"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://partners.tremorhub.com/sync?UIRF=549392829021519047&r=UKwRu-43qpuN"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://p.rfihub.com/cm?in=1&pub=21653&userid=${TM_USER_ID}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dsp_id": 119,
+            "user_id": 549392829021519040,
+            "expires": 30
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/sync?dsp_id=119&user_id=549392829021519047&expires=30"
+      },
+      {
+        "data": {
+          "filter": "||krxd.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "partner_id": "rfuel",
+            "partner_user_id": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://beacon.krxd.net/usermatch.gif?partner_id=rfuel&partner_user_id=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||agkn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sid": 9212192898,
+            "rf": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://aa.agkn.com/adscores/g.pixel?sid=9212192898&rf=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||rlcdn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "partner_uid": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://idsync.rlcdn.com/360947.gif?partner_uid=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||rezync.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "c": "bd8618c307ae9885a12561b7191e2cea",
+            "cid": 549392829021519040,
+            "referrer": "https://www.plannedparenthood.org/about-us/planned-parenthood-global"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://live.rezync.com/pixel?c=bd8618c307ae9885a12561b7191e2cea&cid=549392829021519047&referrer=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global"
+      },
+      {
+        "data": {
+          "filter": "||serving-sys.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "cn": "um",
+            "dpid": 12,
+            "rtu": "https://p.rfihub.com/cm?in=1&pub=17945&userid=[%tp_UserID%]"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bs.serving-sys.com/serving?cn=um&dpid=12&rtu=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D17945%26userid%3D%5B%25tp_UserID%25%5D"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=549392829021519047&redir="
+      },
+      {
+        "data": {
+          "filter": "||bluekai.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 549392829021519040,
+            "redir": "https://p.rfihub.com/cm?bk_uuid=$_BK_UUID&forward="
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stags.bluekai.com/site/4722?id=549392829021519047&redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fbk_uuid%3D%24_BK_UUID%26forward%3D"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "entity": 18,
+            "code": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/setuid?entity=18&code=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "": null,
+            "in": 0,
+            "google_nid": "zeta_interactive",
+            "google_cm": "",
+            "google_sc": "",
+            "google_hm": "NTQ5MzkyODI5MDIxNTE5MDQ3",
+            "forward": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?&in=0&google_nid=zeta_interactive&google_cm=&google_sc=&google_hm=NTQ5MzkyODI5MDIxNTE5MDQ3&forward="
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://p.rfihub.com/cm?in=1&pub=21653&userid=${TM_USER_ID}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dsp_id": 119,
+            "user_id": 549392829021519040,
+            "expires": 30
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/sync?dsp_id=119&user_id=549392829021519047&expires=30"
+      },
+      {
+        "data": {
+          "filter": "||krxd.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "partner_id": "rfuel",
+            "partner_user_id": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://beacon.krxd.net/usermatch.gif?partner_id=rfuel&partner_user_id=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||agkn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sid": 9212192898,
+            "rf": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://aa.agkn.com/adscores/g.pixel?sid=9212192898&rf=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||tremorhub.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "UIRF": 549392829021519040,
+            "r": "ed5E8VIhY_h3"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://partners.tremorhub.com/sync?UIRF=549392829021519047&r=ed5E8VIhY_h3"
+      },
+      {
+        "data": {
+          "filter": "||rlcdn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "partner_uid": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://idsync.rlcdn.com/360947.gif?partner_uid=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||rezync.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "c": "bd8618c307ae9885a12561b7191e2cea",
+            "cid": 549392829021519040,
+            "referrer": "https://www.plannedparenthood.org/about-us/planned-parenthood-global"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://live.rezync.com/pixel?c=bd8618c307ae9885a12561b7191e2cea&cid=549392829021519047&referrer=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global"
+      },
+      {
+        "data": {
+          "filter": "||serving-sys.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "cn": "um",
+            "dpid": 12,
+            "rtu": "https://p.rfihub.com/cm?in=1&pub=17945&userid=[%tp_UserID%]"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bs.serving-sys.com/serving?cn=um&dpid=12&rtu=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D17945%26userid%3D%5B%25tp_UserID%25%5D"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=549392829021519047&redir="
+      },
+      {
+        "data": {
+          "filter": "||bluekai.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 549392829021519040,
+            "redir": "https://p.rfihub.com/cm?bk_uuid=$_BK_UUID&forward="
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stags.bluekai.com/site/4722?id=549392829021519047&redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fbk_uuid%3D%24_BK_UUID%26forward%3D"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "entity": 18,
+            "code": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/setuid?entity=18&code=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "": null,
+            "in": 0,
+            "google_nid": "zeta_interactive",
+            "google_cm": "",
+            "google_sc": "",
+            "google_hm": "NTQ5MzkyODI5MDIxNTE5MDQ3",
+            "forward": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?&in=0&google_nid=zeta_interactive&google_cm=&google_sc=&google_hm=NTQ5MzkyODI5MDIxNTE5MDQ3&forward="
+      },
+      {
+        "data": {
+          "filter": "||quantserve.com/pixel;",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pixel.quantserve.com/pixel;r=1516766684;event=refresh;labels=_fp.event.About%20Us;source=gtm;rf=0;a=p-f83mnHGect3fW;url=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global;uh=65ce955d6ae6;uht=2;fpan=0;fpa=P0-887868617-1634566019870;pbc=;ns=0;ce=1;qjs=1;qv=00a3769c-20210929173447;cm=;gdpr=0;ref=;d=plannedparenthood.org;je=0;sr=375x812x24;dst=0;et=1634566032931;tzo=0;ogl=url.https%3A%2F%2Fwww%252Eplannedparenthood%252Eorg%2Fabout-us%2Fplanned-parenthood-global%2Ctitle.Planned%20Parenthood%20Global%20%7C%20Information%20and%20Locations%2Cdescription.We%20are%20the%20Planned%20Parenthood%20Federation%20of%20America%20(PPFA)%20Global%20Program%252C%20headq"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sdkid": "C25EUNFMU8Q03RAI4CE0",
+            "hostname": "www.plannedparenthood.org"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=C25EUNFMU8Q03RAI4CE0&hostname=www.plannedparenthood.org"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/identify.js"
+      },
+      {
+        "data": {
+          "filter": "/track?*http$image",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "action": "pageView",
+            "env": "js-web",
+            "tag_version": "4.0.0_450e737",
+            "buyer_pixel_id": 1842,
+            "referer": "https://www.plannedparenthood.org/about-us/planned-parenthood-global"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=4.0.0_450e737&buyer_pixel_id=1842&referer=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": 10000,
+            "b": "Planned Parenthood Global | Information and Locations",
+            ".yp": 10095773,
+            "f": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "enc": "UTF-8",
+            "yv": "1.10.1",
+            "tagmgr": "gtm"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&b=Planned%20Parenthood%20Global%20%7C%20Information%20and%20Locations&.yp=10095773&f=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&enc=UTF-8&yv=1.10.1&tagmgr=gtm"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": 10000,
+            "d": "Mon, 18 Oct 2021 14:07:12 GMT",
+            "n": 0,
+            "b": "Planned Parenthood Global | Information and Locations",
+            ".yp": 10015862,
+            "f": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "enc": "UTF-8",
+            "yv": "1.10.1",
+            "tagmgr": "gtm"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Mon%2C%2018%20Oct%202021%2014%3A07%3A12%20GMT&n=0&b=Planned%20Parenthood%20Global%20%7C%20Information%20and%20Locations&.yp=10015862&f=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&enc=UTF-8&yv=1.10.1&tagmgr=gtm"
+      },
+      {
+        "data": {
+          "filter": "||ariane.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ariane.abtasty.com/"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/p/action/5061699.js"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://script.hotjar.com/modules.a781ddf321f3456bdb6f.js"
+      },
+      {
+        "data": {
+          "filter": "||rfihub.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ver": 9,
+            "rb": 24009,
+            "ca": 20787143,
+            "_o": 24009,
+            "_t": 20787143,
+            "pe": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "pf": "",
+            "ra": 6450918001508885
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://20787143p.rfihub.com/ca.html?ver=9&rb=24009&ca=20787143&_o=24009&_t=20787143&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=6450918001508885"
+      },
+      {
+        "data": {
+          "filter": "||rfihub.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ver": 9,
+            "rb": 24009,
+            "ca": 20833821,
+            "_o": 24009,
+            "_t": 20833821,
+            "pe": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "pf": "",
+            "ra": 2837765397488421
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global&pf=&ra=2837765397488421"
+      },
+      {
+        "data": {
+          "filter": "||quantcount.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://rules.quantcount.com/rules-p-f83mnHGect3fW.js"
+      },
+      {
+        "data": {
+          "filter": "/__utm.gif",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "utmwv": "5.7.2",
+            "utms": 2,
+            "utmn": 1759806699,
+            "utmhn": "www.plannedparenthood.org",
+            "utmcs": "UTF-8",
+            "utmsr": "375x812",
+            "utmvp": "375x812",
+            "utmsc": "24-bit",
+            "utmul": "en-us",
+            "utmje": 0,
+            "utmfl": "-",
+            "utmdt": "Planned Parenthood Global | Information and Locations",
+            "utmhid": 296397702,
+            "utmr": "-",
+            "utmp": "/about-us/planned-parenthood-global",
+            "utmht": 1634566032234,
+            "utmac": "UA-8867852-42",
+            "utmgtm": "2wgad0N62L8SB",
+            "utmcc": "__utma=34810208.1369221122.1634566018.1634566019.1634566019.1;+__utmz=34810208.1634566019.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none);",
+            "utmjid": "",
+            "utmu": "qmAgAABAAAGBAAAAAgAAAAAE~"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ssl.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=2&utmn=1759806699&utmhn=www.plannedparenthood.org&utmcs=UTF-8&utmsr=375x812&utmvp=375x812&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Planned%20Parenthood%20Global%20%7C%20Information%20and%20Locations&utmhid=296397702&utmr=-&utmp=%2Fabout-us%2Fplanned-parenthood-global&utmht=1634566032234&utmac=UA-8867852-42&utmgtm=2wgad0N62L8SB&utmcc=__utma%3D34810208.1369221122.1634566018.1634566019.1634566019.1%3B%2B__utmz%3D34810208.1634566019.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qmAgAABAAAGBAAAAAgAAAAAE~"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sdkid": "C25EUNFMU8Q03RAI4CE0",
+            "lib": "ttq"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C25EUNFMU8Q03RAI4CE0&lib=ttq"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/scevent.min.js"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 6
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://static.hotjar.com/c/hotjar-1436451.js?sv=6"
+      },
+      {
+        "data": {
+          "filter": "||yimg.com/wi/ytc.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://s.yimg.com/wi/ytc.js"
+      },
+      {
+        "data": {
+          "filter": "/quant.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://secure.quantserve.com/quant.js"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://4558437.fls.doubleclick.net/activityi;src=4558437;type=plann0;cat=pporg001;ord=6970932829905;gtm=2wgad0;auiddc=122311494.1634566019;u20=%2Fabout-us%2Fplanned-parenthood-global;~oref=https%3A%2F%2Fwww.plannedparenthood.org%2Fabout-us%2Fplanned-parenthood-global?"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/bat.js"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/ga.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ssl.google-analytics.com/ga.js"
+      },
+      {
+        "data": {
+          "filter": "||tealiumiq.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "callback": "ABTasty.TealiumCallback",
+            "rnd": 1634566031509
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://visitor-service-us-east-1.tealiumiq.com/plannedparenthood/main/017c93ba207000172e6ff214f29100087002207f004bb?callback=ABTasty.TealiumCallback&rnd=1634566031509"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-KHVLK6X",
+            "l": "dataLayer"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHVLK6X&l=dataLayer"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-N62L8SB",
+            "l": "dataLayer"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N62L8SB&l=dataLayer"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/gtm/js?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-WW77R9R",
+            "cid": 1369221122.1634567
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/gtm/js?id=GTM-WW77R9R&cid=1369221122.1634566018"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-MZJZ59"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MZJZ59"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "||try.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://try.abtasty.com/cross-domain-iframe.html"
+      },
+      {
+        "data": {
+          "filter": "||try.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/about-us/planned-parenthood-global",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://try.abtasty.com/4a5beb0972e219edcff0400029191b52.js"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 433242851216452,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/",
+            "rl": "",
+            "if": false,
+            "ts": 1634566023929,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 29,
+            "fbp": "fb.1.1634566022586.1526509537",
+            "it": 1634566021715,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=433242851216452&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2F&rl=&if=false&ts=1634566023929&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=29&fbp=fb.1.1634566022586.1526509537&it=1634566021715&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dsp_id": 93,
+            "user_group": 1,
+            "user_id": "0c6ac412-2e2e-42ad-b02b-250f6070001b",
+            "expires": 30,
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=bidswitch"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/syncd?dsp_id=93&user_group=1&user_id=0c6ac412-2e2e-42ad-b02b-250f6070001b&expires=30&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dbidswitch"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "TheTradeDesk",
+            "google_cm": null,
+            "google_sc": null,
+            "google_hm": "MGM2YWM0MTItMmUyZS00MmFkLWIwMmItMjUwZjYwNzAwMDFi",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "ttd_tdid": "0c6ac412-2e2e-42ad-b02b-250f6070001b"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=MGM2YWM0MTItMmUyZS00MmFkLWIwMmItMjUwZjYwNzAwMDFi&gdpr=0&gdpr_consent=&ttd_tdid=0c6ac412-2e2e-42ad-b02b-250f6070001b"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID": null,
+            "ttd_tdid": "0c6ac412-2e2e-42ad-b02b-250f6070001b"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=0c6ac412-2e2e-42ad-b02b-250f6070001b"
+      },
+      {
+        "data": {
+          "filter": "||stats.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "t": "dc",
+            "aip": 1,
+            "_r": 3,
+            "v": 1,
+            "_v": "j93",
+            "tid": "UA-8867852-25",
+            "cid": 1369221122.1634567,
+            "jid": 1169919148,
+            "gjid": 2112718480,
+            "_gid": 86270156.1634566,
+            "_u": "aGDCAUADQAAAAG~",
+            "z": 1637317555
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j93&tid=UA-8867852-25&cid=1369221122.1634566018&jid=1169919148&gjid=2112718480&_gid=86270156.1634566018&_u=aGDCAUADQAAAAG~&z=1637317555"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 342839232873627,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/",
+            "rl": "",
+            "if": false,
+            "ts": 1634566023531,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 28,
+            "fbp": "fb.1.1634566022586.1526509537",
+            "it": 1634566021715,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=342839232873627&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2F&rl=&if=false&ts=1634566023531&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634566022586.1526509537&it=1634566021715&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/433242851216452?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "rand": 1634563533433,
+            "pnid": 140,
+            "pcid": "95942d4f-270c-4dc1-a059-f4ea9cb2c838"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/cm/p?rand=1634563533433&pnid=140&pcid=95942d4f-270c-4dc1-a059-f4ea9cb2c838"
+      },
+      {
+        "data": {
+          "filter": "/collect?*&cid=",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j93",
+            "a": 408167322,
+            "t": "event",
+            "ni": 1,
+            "_s": 1,
+            "dl": "https://www.plannedparenthood.org/",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Planned Parenthood | Official Site",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "ec": "Debugging",
+            "ea": "optimize.callback",
+            "_utma": "34810208.1369221122.1634566018.1634566019.1634566019.1",
+            "_utmz": "34810208.1634566019.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "_utmht": 1634566023012,
+            "_u": "aGDCAUADQAAAAG~",
+            "jid": 1169919148,
+            "gjid": 2112718480,
+            "cid": 1369221122.1634567,
+            "tid": "UA-8867852-25",
+            "_gid": 86270156.1634566,
+            "_r": 1,
+            "gtm": "2wgad0KHVLK6X",
+            "cd38": "UA - Event - Debugging str dLayer",
+            "z": 1358779395
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j93&a=408167322&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.plannedparenthood.org%2F&ul=en-us&de=UTF-8&dt=Planned%20Parenthood%20%7C%20Official%20Site&sd=24-bit&sr=375x812&vp=375x812&je=0&ec=Debugging&ea=optimize.callback&_utma=34810208.1369221122.1634566018.1634566019.1634566019.1&_utmz=34810208.1634566019.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1634566023012&_u=aGDCAUADQAAAAG~&jid=1169919148&gjid=2112718480&cid=1369221122.1634566018&tid=UA-8867852-25&_gid=86270156.1634566018&_r=1&gtm=2wgad0KHVLK6X&cd38=UA%20-%20Event%20-%20Debugging%20str%20dLayer&z=1358779395"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 6
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://in.hotjar.com/api/v2/client/sites/1436451/visit-data?sv=6"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pnid": 140,
+            "cb": 1634566022494
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/cm/s?pnid=140&cb=1634566022494"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 1119126068252786,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/",
+            "rl": "",
+            "if": false,
+            "ts": 1634566022589,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 28,
+            "fbp": "fb.1.1634566022586.1526509537",
+            "it": 1634566021715,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=1119126068252786&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2F&rl=&if=false&ts=1634566022589&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634566022586.1526509537&it=1634566021715&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/342839232873627?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||d10lpsik1i8c69.cloudfront.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "6ea758b"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d10lpsik1i8c69.cloudfront.net/js/clickstream.js?v=6ea758b"
+      },
+      {
+        "data": {
+          "filter": "||tealiumiq.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://collect.tealiumiq.com/plannedparenthood/main/2/i.gif"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "/pippio.",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "it": 1,
+            "pid": 500040,
+            "iv": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pippio.com/api/sync?it=1&pid=500040&iv=93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14"
+      },
+      {
+        "data": {
+          "filter": "||userzoom.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn5.userzoom.com/voc/files/841FA81D388EEA11AA61BDA55D26A69B/voc.js"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://tr.snapchat.com/cm/i?pid=e28abec5-490a-43ca-a207-2bb7cf6e0a47",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/scevent.min.js"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/1119126068252786?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||luckyorange.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "u": "https://www.plannedparenthood.org/",
+            "s": 83480
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://settings.luckyorange.net/?u=https%3A%2F%2Fwww.plannedparenthood.org%2F&s=83480"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "bidder_id": 200442,
+            "it": 1,
+            "bidder_uuid": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14",
+            "pid": 500040,
+            "_li_chk": true,
+            "iv": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14",
+            "previous_uuid": "5d7e0980780140da85fcf927dec9c018"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://i.liadm.com/s/56409?bidder_id=200442&it=1&bidder_uuid=93649edf-d962-46e7-b596-b4e6629126ca%3A1634566020.14&pid=500040&_li_chk=true&iv=93649edf-d962-46e7-b596-b4e6629126ca%3A1634566020.14&previous_uuid=5d7e0980780140da85fcf927dec9c018"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://vars.hotjar.com/box-3333a05ac05419926bfc064e06a742b1.html"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "bidder_id": 200442,
+            "bidder_uuid": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14",
+            "pid": 500040,
+            "it": 1,
+            "iv": "93649edf-d962-46e7-b596-b4e6629126ca:1634566020.14"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://i.liadm.com/s/56409?bidder_id=200442&bidder_uuid=93649edf-d962-46e7-b596-b4e6629126ca%3A1634566020.14&pid=500040&it=1&iv=93649edf-d962-46e7-b596-b4e6629126ca%3A1634566020.14"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "uid": "0c6ac412-2e2e-42ad-b02b-250f6070001b",
+            "_origin": 1,
+            "gdpr": 0,
+            "gdpr_consent": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ups.analytics.yahoo.com/ups/55953/sync?uid=0c6ac412-2e2e-42ad-b02b-250f6070001b&_origin=1&gdpr=0&gdpr_consent="
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 5061699,
+            "tm": "gtm002",
+            "Ver": 2,
+            "mid": "a9d061cb-0998-4f75-9249-8d18bd19bc6c",
+            "sid": "a9fb5510301c11eca3d77dc964cec25b",
+            "vid": "a9fe7930301c11ec86ad790efd97c087",
+            "vids": 1,
+            "pi": 0,
+            "lg": "en-US",
+            "sw": 375,
+            "sh": 812,
+            "sc": 24,
+            "tl": "Planned Parenthood | Official Site",
+            "p": "https://www.plannedparenthood.org/",
+            "r": "",
+            "lt": 3318,
+            "evt": "pageLoad",
+            "msclkid": "N",
+            "sv": 1,
+            "rn": 32184
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/action/0?ti=5061699&tm=gtm002&Ver=2&mid=a9d061cb-0998-4f75-9249-8d18bd19bc6c&sid=a9fb5510301c11eca3d77dc964cec25b&vid=a9fe7930301c11ec86ad790efd97c087&vids=1&pi=0&lg=en-US&sw=375&sh=812&sc=24&tl=Planned%20Parenthood%20%7C%20Official%20Site&p=https%3A%2F%2Fwww.plannedparenthood.org%2F&r=&lt=3318&evt=pageLoad&msclkid=N&sv=1&rn=32184"
+      },
+      {
+        "data": {
+          "filter": "||userzoom.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "cuid": "501712756BCDE41180C90050569444FB"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn5.userzoom.com/feedback/js/uz_feed_us.js?cuid=501712756BCDE41180C90050569444FB"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://p.rfihub.com/cm?in=1&pub=21653&userid=${TM_USER_ID}",
+            "_test": "YW1-hAAKFJvSFQA6"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D&_test=YW1-hAAKFJvSFQA6"
+      },
+      {
+        "data": {
+          "filter": "||callrail.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.callrail.com/group/629580986/6c39c9f2947171b095c6b447/12/swap.js"
+      },
+      {
+        "data": {
+          "filter": "/fbevents.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "data": {
+          "filter": "||d10lpsik1i8c69.cloudfront.net^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d10lpsik1i8c69.cloudfront.net/w.js"
+      },
+      {
+        "data": {
+          "filter": "/collect?*&cid=",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j93",
+            "a": 408167322,
+            "t": "event",
+            "ni": 1,
+            "_s": 1,
+            "dl": "https://www.plannedparenthood.org/",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Planned Parenthood | Official Site",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "ec": "Page Load Time",
+            "ea": "03 seconds",
+            "el": "/",
+            "ev": 3318,
+            "_utma": "34810208.1369221122.1634566018.1634566019.1634566019.1",
+            "_utmz": "34810208.1634566019.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "_utmht": 1634566020470,
+            "_u": "aGDCAUADQAAAAG~",
+            "jid": 1504536314,
+            "gjid": 2048099031,
+            "cid": 1369221122.1634567,
+            "tid": "UA-8867852-26",
+            "_gid": 86270156.1634566,
+            "_r": 1,
+            "gtm": "2wgad0MZJZ59",
+            "cd4": "https://www.plannedparenthood.org/",
+            "cd5": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+            "cd7": 240,
+            "cd8": 1634566017094,
+            "cd1": 1369221122.1634567,
+            "cd3": "",
+            "cd2": "Mon Oct 18 2021 14:07:00 GMT+0000 (Coordinated Universal Time)",
+            "cm1": 2933,
+            "cm2": 3318,
+            "cm3": 1,
+            "z": 1670912547
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j93&a=408167322&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.plannedparenthood.org%2F&ul=en-us&de=UTF-8&dt=Planned%20Parenthood%20%7C%20Official%20Site&sd=24-bit&sr=375x812&vp=375x812&je=0&ec=Page%20Load%20Time&ea=03%20seconds&el=%2F&ev=3318&_utma=34810208.1369221122.1634566018.1634566019.1634566019.1&_utmz=34810208.1634566019.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1634566020470&_u=aGDCAUADQAAAAG~&jid=1504536314&gjid=2048099031&cid=1369221122.1634566018&tid=UA-8867852-26&_gid=86270156.1634566018&_r=1&gtm=2wgad0MZJZ59&cd4=https%3A%2F%2Fwww.plannedparenthood.org%2F&cd5=Mozilla%2F5.0%20(iPhone%3B%20CPU%20iPhone%20OS%2011_0%20like%20Mac%20OS%20X)%20AppleWebKit%2F604.1.38%20(KHTML%2C%20like%20Gecko)%20Version%2F11.0%20Mobile%2F15A372%20Safari%2F604.1&cd7=240&cd8=1634566017094&cd1=1369221122.1634566018&cd3=&cd2=Mon%20Oct%2018%202021%2014%3A07%3A00%20GMT%2B0000%20(Coordinated%20Universal%20Time)&cm1=2933&cm2=3318&cm3=1&z=1670912547"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pid": "e28abec5-490a-43ca-a207-2bb7cf6e0a47"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/cm/i?pid=e28abec5-490a-43ca-a207-2bb7cf6e0a47"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "%2Fsetuid%3Fentity%3D18%26code%3D549392829021519047": null
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/bounce?%2Fsetuid%3Fentity%3D18%26code%3D549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||eyeota.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "uid": 549392829021519040,
+            "bid": "omt9pi0"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ps.eyeota.net/match?uid=549392829021519047&bid=omt9pi0"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "et:ibs%7cdata:dpid": 1121,
+            "dpuuid": 549392829021519040,
+            "redir": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=1121&dpuuid=549392829021519047&redir="
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/api/v2/pixel"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/api/v2/pixel"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://p.rfihub.com/cm?in=1&pub=21653&userid=${TM_USER_ID}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dsp_id": 119,
+            "user_id": 549392829021519040,
+            "expires": 30
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/sync?dsp_id=119&user_id=549392829021519047&expires=30"
+      },
+      {
+        "data": {
+          "filter": "||krxd.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "partner_id": "rfuel",
+            "partner_user_id": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://beacon.krxd.net/usermatch.gif?partner_id=rfuel&partner_user_id=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||agkn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sid": 9212192898,
+            "rf": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://aa.agkn.com/adscores/g.pixel?sid=9212192898&rf=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||tremorhub.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "UIRF": 549392829021519040,
+            "r": "HMoaQA6F4saF"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://partners.tremorhub.com/sync?UIRF=549392829021519047&r=HMoaQA6F4saF"
+      },
+      {
+        "data": {
+          "filter": "||rlcdn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "partner_uid": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://idsync.rlcdn.com/360947.gif?partner_uid=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||rezync.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "c": "bd8618c307ae9885a12561b7191e2cea",
+            "cid": 549392829021519040,
+            "referrer": "https://www.plannedparenthood.org/"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://live.rezync.com/pixel?c=bd8618c307ae9885a12561b7191e2cea&cid=549392829021519047&referrer=https%3A%2F%2Fwww.plannedparenthood.org%2F"
+      },
+      {
+        "data": {
+          "filter": "||serving-sys.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "cn": "um",
+            "dpid": 12,
+            "rtu": "https://p.rfihub.com/cm?in=1&pub=17945&userid=[%tp_UserID%]"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bs.serving-sys.com/serving?cn=um&dpid=12&rtu=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D17945%26userid%3D%5B%25tp_UserID%25%5D"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=549392829021519047&redir="
+      },
+      {
+        "data": {
+          "filter": "||bluekai.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 549392829021519040,
+            "redir": "https://p.rfihub.com/cm?bk_uuid=$_BK_UUID&forward="
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stags.bluekai.com/site/4722?id=549392829021519047&redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fbk_uuid%3D%24_BK_UUID%26forward%3D"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "entity": 18,
+            "code": 549392829021519040
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/setuid?entity=18&code=549392829021519047"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "": null,
+            "in": 0,
+            "google_nid": "zeta_interactive",
+            "google_cm": "",
+            "google_sc": "",
+            "google_hm": "NTQ5MzkyODI5MDIxNTE5MDQ3",
+            "forward": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?&in=0&google_nid=zeta_interactive&google_cm=&google_sc=&google_hm=NTQ5MzkyODI5MDIxNTE5MDQ3&forward="
+      },
+      {
+        "data": {
+          "filter": "||quantserve.com/pixel;",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pixel.quantserve.com/pixel;r=471069027;event=refresh;labels=_fp.event.Homepage;source=gtm;rf=0;a=p-f83mnHGect3fW;url=https%3A%2F%2Fwww.plannedparenthood.org%2F;uh=65ce955d6ae6;uht=2;fpan=1;fpa=P0-887868617-1634566019870;pbc=;ns=0;ce=1;qjs=1;qv=00a3769c-20210929173447;cm=;gdpr=0;ref=;d=plannedparenthood.org;je=0;sr=375x812x24;dst=0;et=1634566019870;tzo=0;ogl=url.https%3A%2F%2Fwww%252Eplannedparenthood%252Eorg%2Ctitle.Planned%20Parenthood%20%7C%20Official%20Site%2Cdescription.Planned%20Parenthood%20Federation%20of%20America%20is%20a%20nonprofit%20organization%20that%20provid%2Cimage.https%3A%2F%2Fwww%252Eplannedparenthood%252Eorg%2Fuploads%2Ffiler_public_thumbnails%2Ffiler_public%2Fb"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sdkid": "C25EUNFMU8Q03RAI4CE0",
+            "hostname": "www.plannedparenthood.org"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=C25EUNFMU8Q03RAI4CE0&hostname=www.plannedparenthood.org"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/identify.js"
+      },
+      {
+        "data": {
+          "filter": "/track?*http$image",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "action": "pageView",
+            "env": "js-web",
+            "tag_version": "4.0.0_450e737",
+            "buyer_pixel_id": 1842,
+            "referer": "https://www.plannedparenthood.org/"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=4.0.0_450e737&buyer_pixel_id=1842&referer=https%3A%2F%2Fwww.plannedparenthood.org%2F"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": 10000,
+            "b": "Planned Parenthood | Official Site",
+            ".yp": 10095773,
+            "f": "https://www.plannedparenthood.org/",
+            "enc": "UTF-8",
+            "yv": "1.10.1",
+            "tagmgr": "gtm"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&b=Planned%20Parenthood%20%7C%20Official%20Site&.yp=10095773&f=https%3A%2F%2Fwww.plannedparenthood.org%2F&enc=UTF-8&yv=1.10.1&tagmgr=gtm"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": 10000,
+            "d": "Mon, 18 Oct 2021 14:06:59 GMT",
+            "n": 0,
+            "b": "Planned Parenthood | Official Site",
+            ".yp": 10015862,
+            "f": "https://www.plannedparenthood.org/",
+            "enc": "UTF-8",
+            "yv": "1.10.1",
+            "tagmgr": "gtm"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Mon%2C%2018%20Oct%202021%2014%3A06%3A59%20GMT&n=0&b=Planned%20Parenthood%20%7C%20Official%20Site&.yp=10015862&f=https%3A%2F%2Fwww.plannedparenthood.org%2F&enc=UTF-8&yv=1.10.1&tagmgr=gtm"
+      },
+      {
+        "data": {
+          "filter": "||quantcount.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://rules.quantcount.com/rules-p-f83mnHGect3fW.js"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://script.hotjar.com/modules.a781ddf321f3456bdb6f.js"
+      },
+      {
+        "data": {
+          "filter": "||rfihub.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ver": 9,
+            "rb": 24009,
+            "ca": 20833821,
+            "_o": 24009,
+            "_t": 20833821,
+            "pe": "https://www.plannedparenthood.org/",
+            "pf": "",
+            "ra": 6324848347721592
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2F&pf=&ra=6324848347721592"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/p/action/5061699.js"
+      },
+      {
+        "data": {
+          "filter": "/__utm.gif",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "utmwv": "5.7.2",
+            "utms": 1,
+            "utmn": 1980825839,
+            "utmhn": "www.plannedparenthood.org",
+            "utmcs": "UTF-8",
+            "utmsr": "375x812",
+            "utmvp": "375x812",
+            "utmsc": "24-bit",
+            "utmul": "en-us",
+            "utmje": 0,
+            "utmfl": "-",
+            "utmdt": "Planned Parenthood | Official Site",
+            "utmhid": 408167322,
+            "utmr": "-",
+            "utmp": "/",
+            "utmht": 1634566018994,
+            "utmac": "UA-8867852-42",
+            "utmgtm": "2wgad0N62L8SB",
+            "utmcc": "__utma=34810208.1369221122.1634566018.1634566019.1634566019.1;+__utmz=34810208.1634566019.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none);",
+            "utmjid": 1537026517,
+            "utmredir": 1,
+            "utmu": "qmAgAABAAAGBAAAAAgABAAAE~"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ssl.google-analytics.com/j/__utm.gif?utmwv=5.7.2&utms=1&utmn=1980825839&utmhn=www.plannedparenthood.org&utmcs=UTF-8&utmsr=375x812&utmvp=375x812&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Planned%20Parenthood%20%7C%20Official%20Site&utmhid=408167322&utmr=-&utmp=%2F&utmht=1634566018994&utmac=UA-8867852-42&utmgtm=2wgad0N62L8SB&utmcc=__utma%3D34810208.1369221122.1634566018.1634566019.1634566019.1%3B%2B__utmz%3D34810208.1634566019.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1537026517&utmredir=1&utmu=qmAgAABAAAGBAAAAAgABAAAE~"
+      },
+      {
+        "data": {
+          "filter": "||ariane.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ariane.abtasty.com/"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sdkid": "C25EUNFMU8Q03RAI4CE0",
+            "lib": "ttq"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C25EUNFMU8Q03RAI4CE0&lib=ttq"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/scevent.min.js"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 6
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://static.hotjar.com/c/hotjar-1436451.js?sv=6"
+      },
+      {
+        "data": {
+          "filter": "||yimg.com/wi/ytc.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://s.yimg.com/wi/ytc.js"
+      },
+      {
+        "data": {
+          "filter": "/quant.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://secure.quantserve.com/quant.js"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://4558437.fls.doubleclick.net/activityi;src=4558437;type=plann0;cat=ppfahome;ord=9011710393417;gtm=2wgad0;auiddc=122311494.1634566019;u20=%2F;~oref=https%3A%2F%2Fwww.plannedparenthood.org%2F?"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/bat.js"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/ga.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ssl.google-analytics.com/ga.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||stats.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "t": "dc",
+            "aip": 1,
+            "_r": 3,
+            "v": 1,
+            "_v": "j93",
+            "tid": "UA-8867852-1",
+            "cid": 1369221122.1634567,
+            "jid": 847145397,
+            "gjid": 1022041190,
+            "_gid": 86270156.1634566,
+            "_u": "aGDAgUADQAAAAE~",
+            "z": 1361739711
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j93&tid=UA-8867852-1&cid=1369221122.1634566018&jid=847145397&gjid=1022041190&_gid=86270156.1634566018&_u=aGDAgUADQAAAAE~&z=1361739711"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-KHVLK6X",
+            "l": "dataLayer"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHVLK6X&l=dataLayer"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-N62L8SB",
+            "l": "dataLayer"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N62L8SB&l=dataLayer"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/gtm/js?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-WW77R9R",
+            "cid": 1369221122.1634567
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/gtm/js?id=GTM-WW77R9R&cid=1369221122.1634566018"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-MZJZ59"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MZJZ59"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "||try.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://try.abtasty.com/cross-domain-iframe.html"
+      },
+      {
+        "data": {
+          "filter": "||try.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://try.abtasty.com/4a5beb0972e219edcff0400029191b52.js"
+      }
+    ]
+  }
+}

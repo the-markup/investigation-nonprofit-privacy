@@ -1,0 +1,3535 @@
+{
+  "title": "Blacklight - API Request",
+  "uri_ins": "http://theclinickc.org",
+  "uri_dest": "https://theclinickc.org/",
+  "uri_redirects": [
+    "http://theclinickc.org/"
+  ],
+  "secure_connection": {},
+  "host": "theclinickc.org",
+  "config": {
+    "clearCache": true,
+    "captureHar": true,
+    "captureLinks": false,
+    "enableAdBlock": false,
+    "emulateDevice": "iPhone X",
+    "numPages": 1
+  },
+  "browser": {
+    "name": "Chromium",
+    "version": "HeadlessChrome/85.0.4182.0",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/85.0.4182.0 Safari/537.36",
+    "platform": {
+      "name": "Linux",
+      "version": "4.14.243-194.434.amzn2.x86_64"
+    }
+  },
+  "script": {
+    "host": "169.254.202.197",
+    "version": {
+      "npm": "2.1.10",
+      "commit": null
+    },
+    "node_version": "v12.22.4"
+  },
+  "start_time": "2021-10-14T21:18:18.631Z",
+  "end_time": "2021-10-14T21:18:36.969Z",
+  "deviceEmulated": {
+    "name": "iPhone X",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+    "viewport": {
+      "width": 375,
+      "height": 812,
+      "deviceScaleFactor": 3,
+      "isMobile": true,
+      "hasTouch": true,
+      "isLandscape": false
+    }
+  },
+  "browsing_history": [
+    "https://theclinickc.org/",
+    "https://theclinickc.org/about-us/frequently-asked-questions/"
+  ],
+  "hosts": {
+    "requests": {
+      "first_party": [
+        "theclinickc.org"
+      ],
+      "third_party": [
+        "www.googletagmanager.com",
+        "275e6917v2wn2cfxus3bsh59-wpengine.netdna-ssl.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "translate.google.com",
+        "www.google-analytics.com",
+        "translate.googleapis.com",
+        "player.vimeo.com",
+        "fonts.gstatic.com",
+        "www.kansascity.com",
+        "www.gstatic.com",
+        "www.google.com",
+        "i.vimeocdn.com",
+        "f.vimeocdn.com",
+        "imasdk.googleapis.com",
+        "24vod-adaptive.akamaized.net",
+        "dpm.demdex.net",
+        "mcclatchy.demdex.net",
+        "mcclatchy.sc.omtrdc.net",
+        "cm.everesttech.net",
+        "mcclatchy.tt.omtrdc.net",
+        "edge.api.brightcove.com",
+        "static.scroll.com",
+        "geolocation.onetrust.com",
+        "ats.rlcdn.com",
+        "d15kdpgjg3unno.cloudfront.net",
+        "dyv1bugovvq1g.cloudfront.net",
+        "confiant-integrations.global.ssl.fastly.net",
+        "mcclatchy-kansascity.zeustechnology.com",
+        "ad.crwdcntrl.net",
+        "s3.amazonaws.com",
+        "cdn.parsely.com",
+        "sb.scorecardresearch.com",
+        "manifest.prod.boltdns.net",
+        "pubads.g.doubleclick.net",
+        "publicapi.misitemgr.com",
+        "s0.2mdn.net",
+        "adservice.google.com",
+        "cf-images.us-east-1.prod.boltdns.net",
+        "s.ntv.io",
+        "tags.crwdcntrl.net",
+        "check.analytics.rlcdn.com",
+        "static.criteo.net",
+        "js-sec.indexww.com",
+        "ads.pubmatic.com",
+        "ib.3lift.com",
+        "securepubads.g.doubleclick.net",
+        "sponsorship-lines.zeustechnology.com",
+        "geo.privacymanager.io",
+        "cm.g.doubleclick.net",
+        "c.amazon-adsystem.com",
+        "sqs.us-east-1.amazonaws.com",
+        "sync-tm.everesttech.net",
+        "pagead2.googlesyndication.com",
+        "api.rlcdn.com",
+        "match.adsrvr.org",
+        "idx.liadm.com",
+        "jadserve.postrelease.com",
+        "as-sec.casalemedia.com",
+        "image6.pubmatic.com",
+        "simage4.pubmatic.com",
+        "mathid.mathtag.com",
+        "eb2.3lift.com",
+        "gum.criteo.com",
+        "s.amazon-adsystem.com",
+        "connect.facebook.net",
+        "cdn.keywee.co",
+        "b-code.liadm.com",
+        "secure-us.imrworldwide.com",
+        "tags.srv.stackadapt.com",
+        "edge.quantserve.com",
+        "bcp.crwdcntrl.net",
+        "px.ads.linkedin.com",
+        "pr-bh.ybp.yahoo.com",
+        "x.bidswitch.net",
+        "c.bing.com",
+        "b1sync.zemanta.com",
+        "ad.turn.com",
+        "odr.mookie1.com",
+        "stags.bluekai.com",
+        "rp.liadm.com",
+        "rules.quantcount.com",
+        "p.adsymptotic.com",
+        "pixel.tapad.com",
+        "www.facebook.com",
+        "i.liadm.com",
+        "pixel.quantserve.com",
+        "pixel.keywee.co",
+        "sync.mathtag.com",
+        "x.dlx.addthis.com",
+        "trc.taboola.com",
+        "tags.bluekai.com",
+        "ssum-sec.casalemedia.com",
+        "u.openx.net",
+        "global.ib-ibi.com",
+        "aa.agkn.com",
+        "i6.liadm.com",
+        "sync.crwdcntrl.net",
+        "ib.mookie1.com",
+        "csm.va.us.criteo.net",
+        "p1.parsely.com"
+      ]
+    }
+  },
+  "reports": {
+    "behaviour_event_listeners": {
+      "MOUSE": {
+        "https://275e6917v2wn2cfxus3bsh59-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0": [
+          "scroll"
+        ],
+        "https://connect.facebook.net/signals/config/719489158431061?v=2.9.47&r=stable": [
+          "click"
+        ],
+        "https://cdn.keywee.co/dist/sp-2.9.1.js": [
+          "scroll",
+          "mousemove",
+          "mousedown",
+          "mouseup",
+          "click"
+        ],
+        "https://connect.facebook.net/signals/config/1081709588515684?v=2.9.47&r=stable": [
+          "click"
+        ],
+        "https://imasdk.googleapis.com/js/core/bridge3.485.1_en.html": [
+          "mousedown"
+        ],
+        "https://s.ntv.io/serve/load.js": [
+          "click",
+          "scroll"
+        ],
+        "https://s0.2mdn.net/instream/video/client.js": [
+          "mousemove",
+          "scroll",
+          "mousedown"
+        ],
+        "https://cdn.parsely.com/keys/kansascity.com/p.js": [
+          "scroll",
+          "mousemove",
+          "mouseup",
+          "mousedown"
+        ],
+        "https://d15kdpgjg3unno.cloudfront.net/oPS.js?cid=11": [
+          "click"
+        ],
+        "https://imasdk.googleapis.com/js/sdkloader/ima3.js": [
+          "mousemove",
+          "scroll",
+          "mousedown"
+        ],
+        "https://www.kansascity.com/static/yozons-lib/performance.9c47a680f222b6c417fc.js": [
+          "click"
+        ],
+        "https://www.kansascity.com/static/yozons-lib/halzid.aec8abbf84446d89b9dc.js": [
+          "mousedown"
+        ],
+        "https://www.kansascity.com/wps/build/webpack/videoStory.bundle-ebf6fae87170ecd55ce3.js": [
+          "scroll"
+        ],
+        "https://f.vimeocdn.com/p/3.44.1/js/player.js": [
+          "click"
+        ]
+      },
+      "KEYBOARD": {
+        "https://275e6917v2wn2cfxus3bsh59-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0": [
+          "keyup"
+        ],
+        "https://cdn.keywee.co/dist/sp-2.9.1.js": [
+          "keyup",
+          "keydown",
+          "keypress"
+        ],
+        "https://s.ntv.io/serve/load.js": [
+          "keypress"
+        ],
+        "https://cdn.parsely.com/keys/kansascity.com/p.js": [
+          "keydown",
+          "keyup"
+        ],
+        "https://imasdk.googleapis.com/js/sdkloader/ima3.js": [
+          "keydown"
+        ],
+        "https://www.kansascity.com/static/yozons-lib/performance.9c47a680f222b6c417fc.js": [
+          "keydown"
+        ],
+        "https://www.kansascity.com/wps/build/webpack/videoStory.bundle-ebf6fae87170ecd55ce3.js": [
+          "keydown"
+        ],
+        "https://f.vimeocdn.com/p/3.44.1/js/player.js": [
+          "keyup",
+          "keypress",
+          "keydown"
+        ]
+      },
+      "TOUCH": {
+        "https://s0.2mdn.net/instream/video/client.js": [
+          "touchstart"
+        ],
+        "https://imasdk.googleapis.com/js/sdkloader/ima3.js": [
+          "touchmove"
+        ],
+        "https://f.vimeocdn.com/p/3.44.1/js/player.js": [
+          "touchend"
+        ]
+      },
+      "SENSOR": {
+        "https://f.vimeocdn.com/p/3.44.1/js/player.js": [
+          "orientationchange"
+        ]
+      }
+    },
+    "canvas_fingerprinters": {
+      "data_url": {
+        "https://theclinickc.org/about-us/frequently-asked-questions/": [
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAAFSUlEQVR4Xu3dsa1kVRRE0TsiGgwc4iGQyYBUyIMkcMkDA380gj/Sd/ap1fbrp1OrpDK7vzwfAgQIRAS+fHPnP++9n37w9p/fe3995zuf+a4fPMnjBAhcFPjeYP393vvzA2F/ee/9+t77r8H6rHd94ByPECBwXeB7g/XHe++3DwT/+t77/X8G67Pe9YFzPEKAwHUBg3W9YfkIHBIwWIfKFIXAdQGDdb1h+QgcEjBYh8oUhcB1AYN1vWH5CBwSMFiHyhSFwHUBg3W9YfkIHBIwWIfKFIXAdQGDdb1h+QgcEjBYh8oUhcB1AYN1vWH5CBwSMFiHyhSFwHUBg3W9YfkIHBIwWIfKFIXAdQGDdb1h+QgcEjBYh8oUhcB1AYN1vWH5CBwSMFiHyhSFwHUBv+l+vWH5CBwS8K85h8oUhcB1gW8H63pe+QgQCAsYrHB5TiewJmCw1hqXl0BYwGCFy3M6gTUBg7XWuLwEwgIGK1ye0wmsCRistcblJRAWMFjh8pxOYE3AYK01Li+BsIDBCpfndAJrAgZrrXF5CYQFDFa4PKcTWBMwWGuNy0sgLGCwwuU5ncCagMFaa1xeAmEBgxUuz+kE1gQM1lrj8hIICxiscHlOJ7AmYLDWGpeXQFjAYIXLczqBNQGDtda4vATCAgYrXJ7TCawJGKy1xuUlEBYwWOHynE5gTcBgrTUuL4GwgMEKl+d0AmsCBmutcXkJhAUMVrg8pxNYEzBYa43LSyAsYLDC5TmdwJqAwVprXF4CYQGDFS7P6QTWBAzWWuPyEggLGKxweU4nsCZgsNYal5dAWMBghctzOoE1AYO11ri8BMICBitcntMJrAkYrLXG5SUQFjBY4fKcTmBNwGCtNS4vgbCAwQqX53QCawIGa61xeQmEBQxWuDynE1gTMFhrjctLICxgsMLlOZ3AmoDBWmtcXgJhAYMVLs/pBNYEDNZa4/ISCAsYrHB5TiewJmCw1hqXl0BYwGCFy3M6gTUBg7XWuLwEwgIGK1ye0wmsCRistcblJRAWMFjh8pxOYE3AYK01Li+BsIDBCpfndAJrAgZrrXF5CYQFDFa4PKcTWBMwWGuNy0sgLGCwwuU5ncCagMFaa1xeAmEBgxUuz+kE1gQM1lrj8hIICxiscHlOJ7AmYLDWGpeXQFjAYIXLczqBNQGDtda4vATCAgYrXJ7TCawJGKy1xuUlEBYwWOHynE5gTcBgrTUuL4GwgMEKl+d0AmsCBmutcXkJhAUMVrg8pxNYEzBYa43LSyAsYLDC5TmdwJqAwVprXF4CYQGDFS7P6QTWBAzWWuPyEggLGKxweU4nsCZgsNYal5dAWMBghctzOoE1AYO11ri8BMICBitcntMJrAkYrLXG5SUQFjBY4fKcTmBNwGCtNS4vgbCAwQqX53QCawIGa61xeQmEBQxWuDynE1gTMFhrjctLICxgsMLlOZ3AmoDBWmtcXgJhAYMVLs/pBNYEDNZa4/ISCAsYrHB5TiewJmCw1hqXl0BYwGCFy3M6gTUBg7XWuLwEwgIGK1ye0wmsCRistcblJRAWMFjh8pxOYE3AYK01Li+BsIDBCpfndAJrAgZrrXF5CYQFDFa4PKcTWBMwWGuNy0sgLGCwwuU5ncCagMFaa1xeAmEBgxUuz+kE1gQM1lrj8hIICxiscHlOJ7AmYLDWGpeXQFjAYIXLczqBNQGDtda4vATCAgYrXJ7TCawJGKy1xuUlEBYwWOHynE5gTcBgrTUuL4GwgMEKl+d0AmsCBmutcXkJhAUMVrg8pxNYEzBYa43LSyAsYLDC5TmdwJrAvx6tsJfFcSVeAAAAAElFTkSuQmCC"
+        ],
+        "https://www.kansascity.com/akam/11/516fa85c": [
+          "data:image/png;base64,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"
+        ],
+        "https://f.vimeocdn.com/p/3.44.1/js/player.js": [
+          "data:image/webp;base64,UklGRrgAAABXRUJQVlA4WAoAAAAQAAAAKwEAlQAAQUxQSBIAAAABBxARERCQJP7/H0X0P+1/QwBWUDgggAAAAHANAJ0BKiwBlgA+bTaZSaQjIqEgKACADYlpbuF2sRtACewD32ych77ZOQ99snIe+2TkPfbJyHvtk5D32ych77ZOQ99snIe+2TkPfbJyHvtk5D32ych77ZOQ99snIe+2TkPfbJyHvtk5D32ych77ZOQ99qwAAP7/1gAAAAAAAAAA"
+        ],
+        "https://theclinickc.org/": [
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAAFSUlEQVR4Xu3dsa1kVRRE0TsiGgwc4iGQyYBUyIMkcMkDA380gj/Sd/ap1fbrp1OrpDK7vzwfAgQIRAS+fHPnP++9n37w9p/fe3995zuf+a4fPMnjBAhcFPjeYP393vvzA2F/ee/9+t77r8H6rHd94ByPECBwXeB7g/XHe++3DwT/+t77/X8G67Pe9YFzPEKAwHUBg3W9YfkIHBIwWIfKFIXAdQGDdb1h+QgcEjBYh8oUhcB1AYN1vWH5CBwSMFiHyhSFwHUBg3W9YfkIHBIwWIfKFIXAdQGDdb1h+QgcEjBYh8oUhcB1AYN1vWH5CBwSMFiHyhSFwHUBg3W9YfkIHBIwWIfKFIXAdQGDdb1h+QgcEjBYh8oUhcB1AYN1vWH5CBwSMFiHyhSFwHUBv+l+vWH5CBwS8K85h8oUhcB1gW8H63pe+QgQCAsYrHB5TiewJmCw1hqXl0BYwGCFy3M6gTUBg7XWuLwEwgIGK1ye0wmsCRistcblJRAWMFjh8pxOYE3AYK01Li+BsIDBCpfndAJrAgZrrXF5CYQFDFa4PKcTWBMwWGuNy0sgLGCwwuU5ncCagMFaa1xeAmEBgxUuz+kE1gQM1lrj8hIICxiscHlOJ7AmYLDWGpeXQFjAYIXLczqBNQGDtda4vATCAgYrXJ7TCawJGKy1xuUlEBYwWOHynE5gTcBgrTUuL4GwgMEKl+d0AmsCBmutcXkJhAUMVrg8pxNYEzBYa43LSyAsYLDC5TmdwJqAwVprXF4CYQGDFS7P6QTWBAzWWuPyEggLGKxweU4nsCZgsNYal5dAWMBghctzOoE1AYO11ri8BMICBitcntMJrAkYrLXG5SUQFjBY4fKcTmBNwGCtNS4vgbCAwQqX53QCawIGa61xeQmEBQxWuDynE1gTMFhrjctLICxgsMLlOZ3AmoDBWmtcXgJhAYMVLs/pBNYEDNZa4/ISCAsYrHB5TiewJmCw1hqXl0BYwGCFy3M6gTUBg7XWuLwEwgIGK1ye0wmsCRistcblJRAWMFjh8pxOYE3AYK01Li+BsIDBCpfndAJrAgZrrXF5CYQFDFa4PKcTWBMwWGuNy0sgLGCwwuU5ncCagMFaa1xeAmEBgxUuz+kE1gQM1lrj8hIICxiscHlOJ7AmYLDWGpeXQFjAYIXLczqBNQGDtda4vATCAgYrXJ7TCawJGKy1xuUlEBYwWOHynE5gTcBgrTUuL4GwgMEKl+d0AmsCBmutcXkJhAUMVrg8pxNYEzBYa43LSyAsYLDC5TmdwJqAwVprXF4CYQGDFS7P6QTWBAzWWuPyEggLGKxweU4nsCZgsNYal5dAWMBghctzOoE1AYO11ri8BMICBitcntMJrAkYrLXG5SUQFjBY4fKcTmBNwGCtNS4vgbCAwQqX53QCawIGa61xeQmEBQxWuDynE1gTMFhrjctLICxgsMLlOZ3AmoDBWmtcXgJhAYMVLs/pBNYEDNZa4/ISCAsYrHB5TiewJmCw1hqXl0BYwGCFy3M6gTUBg7XWuLwEwgIGK1ye0wmsCRistcblJRAWMFjh8pxOYE3AYK01Li+BsIDBCpfndAJrAgZrrXF5CYQFDFa4PKcTWBMwWGuNy0sgLGCwwuU5ncCagMFaa1xeAmEBgxUuz+kE1gQM1lrj8hIICxiscHlOJ7AmYLDWGpeXQFjAYIXLczqBNQGDtda4vATCAgYrXJ7TCawJGKy1xuUlEBYwWOHynE5gTcBgrTUuL4GwgMEKl+d0AmsCBmutcXkJhAUMVrg8pxNYEzBYa43LSyAsYLDC5TmdwJrAvx6tsJfFcSVeAAAAAElFTkSuQmCC"
+        ]
+      },
+      "fingerprinters": [
+        "https://www.kansascity.com/akam/11/516fa85c"
+      ],
+      "styles": {
+        "https://www.kansascity.com/akam/11/516fa85c": [
+          "#FF3333",
+          "#E0E0E0",
+          "#0000FF",
+          "rgba(255,153,153, 0.5)"
+        ]
+      },
+      "texts": {
+        "https://www.kansascity.com/akam/11/516fa85c": [
+          "!H71JCaj)]# 1@#",
+          "Soft Ruddy Foothold 2"
+        ]
+      }
+    },
+    "canvas_font_fingerprinters": {
+      "canvas_font": {},
+      "text_measure": {}
+    },
+    "cookies": [
+      {
+        "name": "sync",
+        "value": "CgoIgQIQjtmuhcgvCgoI4gEQjtmuhcgvCgoI5gEQjtmuhcgvCgoIhwIQjtmuhcgvCgkICRCO2a6FyC8KCQg6EI7ZroXILwoJCAsQjtmuhcgvCgoIjAIQjtmuhcgvCgoIzgEQjtmuhcgvCgkIXxCO2a6FyC8=",
+        "domain": "3lift.com",
+        "path": "/sync",
+        "expires": "2022-01-12T21:18:26.962Z",
+        "size": 160,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_li_ss",
+        "value": "MgUIBhDQEDIFCAoQ0BAyBQh-EM8QMgYIiwEQ0BAyBQgLENAQMgUIDBDQEDIFCHkQzxAyCQj_____BxDQEA",
+        "domain": "i.liadm.com",
+        "path": "/s",
+        "expires": "2021-11-13T21:18:29.285Z",
+        "size": 88,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_ga",
+        "value": "GA1.2.1658926138.1634246301",
+        "domain": "theclinickc.org",
+        "path": "/",
+        "expires": "2023-10-14T21:18:32.000Z",
+        "size": 30,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_gid",
+        "value": "GA1.2.1217131287.1634246301",
+        "domain": "theclinickc.org",
+        "path": "/",
+        "expires": "2021-10-15T21:18:32.000Z",
+        "size": 31,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_gat_gtag_UA_28149468_2",
+        "value": "1",
+        "domain": "theclinickc.org",
+        "path": "/",
+        "expires": "2021-10-14T21:19:21.000Z",
+        "size": 24,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "demdex",
+        "value": "09507570327351006483640713563166566245",
+        "domain": "demdex.net",
+        "path": "/",
+        "expires": "2022-04-12T21:18:28.842Z",
+        "size": 44,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "dpm",
+        "value": "09507570327351006483640713563166566245",
+        "domain": "dpm.demdex.net",
+        "path": "/",
+        "expires": "2022-04-12T21:18:28.842Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "test_cookie",
+        "value": "CheckForPermission",
+        "domain": "doubleclick.net",
+        "path": "/",
+        "expires": "2021-10-14T21:33:24.043Z",
+        "size": 29,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TDID",
+        "value": "4daef441-9662-4eec-a433-bb0664e81100",
+        "domain": "adsrvr.org",
+        "path": "/",
+        "expires": "2022-10-14T21:18:28.841Z",
+        "size": 40,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "lidid",
+        "value": "d913a9ff-5cb7-4285-9934-5a6f93d67cc1",
+        "domain": "liadm.com",
+        "path": "/",
+        "expires": "2023-10-14T21:18:29.285Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "status",
+        "value": "0",
+        "domain": "postrelease.com",
+        "path": "/",
+        "expires": "2022-10-14T21:18:25.725Z",
+        "size": 7,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "visitor",
+        "value": "02111b4e-8861-4887-b70c-3ffe78c39b38",
+        "domain": "postrelease.com",
+        "path": "/",
+        "expires": "2022-10-14T21:18:25.725Z",
+        "size": 43,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ver",
+        "value": "1",
+        "domain": "postrelease.com",
+        "path": "/",
+        "expires": "2022-10-14T21:18:25.725Z",
+        "size": 4,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "dextp",
+        "value": "771-1-1634246304447|144230-1-1634246304787|144231-1-1634246305281|144232-1-1634246305543|144233-1-1634246305762|144234-1-1634246305901|144235-1-1634246306249|144236-1-1634246306383|144237-1-1634246306488",
+        "domain": "demdex.net",
+        "path": "/",
+        "expires": "2022-04-12T21:18:26.000Z",
+        "size": 208,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "tluid",
+        "value": "6796245068989734250",
+        "domain": "3lift.com",
+        "path": "/",
+        "expires": "2022-01-12T21:18:28.625Z",
+        "size": 24,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "SSCVER",
+        "value": "v1",
+        "domain": "imrworldwide.com",
+        "path": "/",
+        "expires": "2022-11-08T21:18:27.163Z",
+        "size": 8,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "IMRID",
+        "value": "45a2cfd0-2d34-11ec-95a6-3592e8dd24d5",
+        "domain": "imrworldwide.com",
+        "path": "/",
+        "expires": "2022-11-08T21:18:27.163Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "sa-user-id",
+        "value": "s%3A0-488732ff-6efb-4bc2-7177-1c74ba873863.hehCAAzOdRYCJbI6virWz32kvwnJVo20B%2Fl2TG1pmaI",
+        "domain": "tags.srv.stackadapt.com",
+        "path": "/",
+        "expires": "2022-10-14T21:18:27.181Z",
+        "size": 98,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "sa-user-id-v2",
+        "value": "s%3A0-488732ff-6efb-4bc2-7177-1c74ba873863%24ip%243.145.9.156.Sw%2FAPy4EGMHF20EET5aczJgNaBrYNVB7Mi1NljOI4hg",
+        "domain": "srv.stackadapt.com",
+        "path": "/",
+        "expires": "2022-10-14T21:18:27.181Z",
+        "size": 120,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_cc_dc",
+        "value": "0",
+        "domain": "crwdcntrl.net",
+        "path": "/",
+        "expires": "2022-07-11T21:07:00.201Z",
+        "size": 7,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_cc_domain",
+        "value": ".cc.kansascity.com",
+        "domain": "crwdcntrl.net",
+        "path": "/",
+        "expires": "2022-07-11T21:07:00.201Z",
+        "size": 28,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_cc_id",
+        "value": "fb367f5eb581fc0a7b81dcbd7b8f47f",
+        "domain": "crwdcntrl.net",
+        "path": "/",
+        "expires": "2022-07-11T21:07:00.201Z",
+        "size": 37,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_cc_cc",
+        "value": "\"ACZ4XmOQT0syNjNPM01NMrUwTEs2SDRPsjBMSU5KAdJpJuZpDECQmDFvMYiGAKG9T77wMU6wYvjPyMhw9eBiHhh7yXF1GPPeB0sYc%2FmfQhjz8uI5LDD2uaOHmGHsR1N7GGHs7lkHmGDsDw33BeDqTz1ig7En358tDmNfX%2FuUG8Zu%2BK8JYx5cNhVu1f8uLZjwvHNPhWHsFUsQrgEA60FR%2FQ%3D%3D\"",
+        "domain": "crwdcntrl.net",
+        "path": "/",
+        "expires": "2022-07-11T21:18:27.201Z",
+        "size": 236,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_cc_aud",
+        "value": "\"ABR4XmNgYGBIzJi3GEhBABMD492jICbjXRUgCQBNkASy\"",
+        "domain": "crwdcntrl.net",
+        "path": "/",
+        "expires": "2022-07-11T21:18:27.201Z",
+        "size": 53,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "li_sugr",
+        "value": "84f36512-b33a-4458-9795-6ac82c07d5cb",
+        "domain": "linkedin.com",
+        "path": "/",
+        "expires": "2022-01-12T21:18:27.521Z",
+        "size": 43,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "lang",
+        "value": "v=2&lang=en-us",
+        "domain": "ads.linkedin.com",
+        "path": "/",
+        "expires": -1,
+        "size": 18,
+        "httpOnly": false,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "bcookie",
+        "value": "\"v=2&dec9093e-b2d7-40cb-8aa3-8c17c4d6748e\"",
+        "domain": "linkedin.com",
+        "path": "/",
+        "expires": "2023-10-15T08:55:59.521Z",
+        "size": 49,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "lidc",
+        "value": "\"b=VGST08:s=V:r=V:a=V:p=V:g=2159:u=1:x=1:i=1634246307:t=1634332707:v=2:sig=AQHKpp8j9Z0QlzDqqg7gj_TMcO8_SWWO\"",
+        "domain": "linkedin.com",
+        "path": "/",
+        "expires": "2021-10-15T21:18:27.522Z",
+        "size": 112,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "MUID",
+        "value": "144A39A0CC69698C1B7A2970CD06687D",
+        "domain": "bing.com",
+        "path": "/",
+        "expires": "2022-11-08T21:18:28.524Z",
+        "size": 36,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "High",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "MR",
+        "value": "0",
+        "domain": "c.bing.com",
+        "path": "/",
+        "expires": "2021-10-21T21:18:28.524Z",
+        "size": 3,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "tuuid",
+        "value": "3839ae32-521c-496e-ad37-f530f14a5f7b",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-14T21:18:27.529Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "c",
+        "value": "1634246307",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-14T21:18:27.530Z",
+        "size": 11,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "tuuid_lu",
+        "value": "1634246307",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-14T21:18:27.529Z",
+        "size": 18,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "uid",
+        "value": "2542305343972154440",
+        "domain": "turn.com",
+        "path": "/",
+        "expires": "2022-04-12T21:18:27.542Z",
+        "size": 22,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "A3",
+        "value": "d=AQABBKOeaGECEJVKIG9-YwhbwLJjHn6biogFEgEBAQHwaWFyYQAAAAAA_SMAAA&S=AQAAArr8TjFDdzGisUtPDWT2xjE",
+        "domain": "yahoo.com",
+        "path": "/",
+        "expires": "2022-10-15T03:18:27.542Z",
+        "size": 96,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "zuid",
+        "value": "xM63qVQ-VID1h7cmhmng",
+        "domain": "zemanta.com",
+        "path": "/",
+        "expires": "2022-10-14T21:18:28.185Z",
+        "size": 24,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TapAd_TS",
+        "value": "1634246307977",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-13T21:18:28.201Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TapAd_DID",
+        "value": "092f8460-3b6e-41ed-a180-5d7d4c025d96",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-13T21:18:28.201Z",
+        "size": 45,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TapAd_3WAY_SYNCS",
+        "value": "",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-13T21:18:28.201Z",
+        "size": 16,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TDCPM",
+        "value": "CAESFgoHc3Z4OXQ1MBILCOaksaTG2Ic6EAUSGQoKbGl2ZWludGVudBILCN7ZvLDG2Ic6EAUYASABKAIyCwje0b_d3NiHOhAFOAFaCmxpdmVpbnRlbnRgAg..",
+        "domain": "adsrvr.org",
+        "path": "/",
+        "expires": "2022-10-14T21:18:28.841Z",
+        "size": 125,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "uuid",
+        "value": "d2b96168-9ea5-4e00-8399-a650e16e688c",
+        "domain": "mathtag.com",
+        "path": "/",
+        "expires": "2022-11-11T21:18:29.982Z",
+        "size": 40,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "na_id",
+        "value": "2021101421182800017157385351",
+        "domain": "addthis.com",
+        "path": "/",
+        "expires": "2022-11-14T21:18:29.304Z",
+        "size": 33,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "na_tc",
+        "value": "Y",
+        "domain": "addthis.com",
+        "path": "/",
+        "expires": "2022-11-14T21:18:29.304Z",
+        "size": 6,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "uid",
+        "value": "61689ea49a2f5844",
+        "domain": "addthis.com",
+        "path": "/",
+        "expires": "2022-11-14T21:18:29.304Z",
+        "size": 19,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ouid",
+        "value": "61689ea4000170306a9129baed935f9c3d7f4c1a49465bb6a234",
+        "domain": "addthis.com",
+        "path": "/",
+        "expires": "2022-11-14T21:18:29.304Z",
+        "size": 56,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "na_sc_x",
+        "value": "1",
+        "domain": "dlx.addthis.com",
+        "path": "/",
+        "expires": "2021-11-13T21:18:29.304Z",
+        "size": 8,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ab",
+        "value": "0001%3AqaIYCGYKCWfUXZzAQZ49cmebFIHjXWJR",
+        "domain": "agkn.com",
+        "path": "/",
+        "expires": "2022-10-14T21:18:29.382Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ASP.NET_SessionId",
+        "value": "z40awavvgki0fokio2vhytxb",
+        "domain": "global.ib-ibi.com",
+        "path": "/",
+        "expires": -1,
+        "size": 41,
+        "httpOnly": true,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ASP.NET_SessionId",
+        "value": "2p1d33f52isgmnsd2r2xp0ca",
+        "domain": "ib.mookie1.com",
+        "path": "/",
+        "expires": -1,
+        "size": 41,
+        "httpOnly": true,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ibkukiuno",
+        "value": "s=51571c5a-a493-4499-8203-41472c68b652&h=&v=0&l=-8585673605640917742&op=&hl=0&vlu=0&tcs=1&dcc=-8585673605640917742",
+        "domain": "ib.mookie1.com",
+        "path": "/",
+        "expires": "2022-10-14T21:18:30.495Z",
+        "size": 123,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ibkukinet",
+        "value": "59836828=-8585673605640917742",
+        "domain": "ib.mookie1.com",
+        "path": "/",
+        "expires": "2022-10-14T21:18:30.495Z",
+        "size": 38,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "AMCV_3B6E35F15A82BBB00A495D91%40AdobeOrg",
+        "value": "-1124106680%7CMCIDTS%7C18915%7CMCMID%7C10040509313924939193627850475200614610%7CMCAAMLH-1634851103%7C7%7CMCAAMB-1634851103%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1634253503s%7CNONE%7CMCAID%7CNONE%7CMCCIDH%7C-1236474718%7CMCSYNCSOP%7C411-18922%7CvVersion%7C5.2.0",
+        "domain": "kansascity.com",
+        "path": "/",
+        "expires": "2023-10-14T21:18:23.000Z",
+        "size": 328,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "AMCVS_3B6E35F15A82BBB00A495D91%40AdobeOrg",
+        "value": "1",
+        "domain": "kansascity.com",
+        "path": "/",
+        "expires": -1,
+        "size": 42,
+        "httpOnly": false,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      }
+    ],
+    "fb_pixel_events": [
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [
+          {
+            "key": "cd[noad30]",
+            "value": 1,
+            "cleanKey": "noad30"
+          },
+          {
+            "key": "cd[noadcm]",
+            "value": 1,
+            "cleanKey": "noadcm"
+          },
+          {
+            "key": "cd[nokart]",
+            "value": 0,
+            "cleanKey": "nokart"
+          },
+          {
+            "key": "cd[pvps]",
+            "value": 1,
+            "cleanKey": "pvps"
+          },
+          {
+            "key": "cd[slensec]",
+            "value": 0,
+            "cleanKey": "slensec"
+          },
+          {
+            "key": "cd[ar30d]",
+            "value": 1,
+            "cleanKey": "ar30d"
+          },
+          {
+            "key": "cd[arcm]",
+            "value": 1,
+            "cleanKey": "arcm"
+          },
+          {
+            "key": "cd[kar30d]",
+            "value": 0,
+            "cleanKey": "kar30d"
+          },
+          {
+            "key": "cd[karcm]",
+            "value": 0,
+            "cleanKey": "karcm"
+          },
+          {
+            "key": "cd[ts30d]",
+            "value": 0,
+            "cleanKey": "ts30d"
+          },
+          {
+            "key": "cd[tscm]",
+            "value": 0,
+            "cleanKey": "tscm"
+          },
+          {
+            "key": "cd[kru]",
+            "value": 0,
+            "cleanKey": "kru"
+          }
+        ],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+        "raw": "https://www.facebook.com/tr/?id=719489158431061&ev=PageView&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&rl=&if=true&ts=1634246309146&sw=375&sh=812&v=2.9.47&r=stable&ec=1&o=30&it=1634246308350&coo=false&dpo=LDU&dpoco=0&dpost=0&tm=1&exp=p0&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [
+          {
+            "key": "cd[noad30]",
+            "value": 1,
+            "cleanKey": "noad30"
+          },
+          {
+            "key": "cd[noadcm]",
+            "value": 1,
+            "cleanKey": "noadcm"
+          },
+          {
+            "key": "cd[nokart]",
+            "value": 0,
+            "cleanKey": "nokart"
+          },
+          {
+            "key": "cd[pvps]",
+            "value": 1,
+            "cleanKey": "pvps"
+          },
+          {
+            "key": "cd[slensec]",
+            "value": 0,
+            "cleanKey": "slensec"
+          },
+          {
+            "key": "cd[ar30d]",
+            "value": 1,
+            "cleanKey": "ar30d"
+          },
+          {
+            "key": "cd[arcm]",
+            "value": 1,
+            "cleanKey": "arcm"
+          },
+          {
+            "key": "cd[kar30d]",
+            "value": 0,
+            "cleanKey": "kar30d"
+          },
+          {
+            "key": "cd[karcm]",
+            "value": 0,
+            "cleanKey": "karcm"
+          },
+          {
+            "key": "cd[ts30d]",
+            "value": 0,
+            "cleanKey": "ts30d"
+          },
+          {
+            "key": "cd[tscm]",
+            "value": 0,
+            "cleanKey": "tscm"
+          },
+          {
+            "key": "cd[kru]",
+            "value": 0,
+            "cleanKey": "kru"
+          }
+        ],
+        "eventDescription": "",
+        "eventName": "KWCEPV",
+        "isStandardEvent": false,
+        "pageUrl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+        "raw": "https://www.facebook.com/tr/?id=719489158431061&ev=KWCEPV&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&rl=&if=true&ts=1634246309127&cd[noad30]=1&cd[noadcm]=1&cd[nokart]=0&cd[pvps]=1&cd[slensec]=0&cd[ar30d]=1&cd[arcm]=1&cd[kar30d]=0&cd[karcm]=0&cd[ts30d]=0&cd[tscm]=0&cd[kru]=0&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&it=1634246308350&coo=false&dpo=LDU&dpoco=0&dpost=0&tm=2&exp=p0&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [
+          {
+            "key": "cd[noad30]",
+            "value": 1,
+            "cleanKey": "noad30"
+          },
+          {
+            "key": "cd[noadcm]",
+            "value": 1,
+            "cleanKey": "noadcm"
+          },
+          {
+            "key": "cd[nokart]",
+            "value": 0,
+            "cleanKey": "nokart"
+          },
+          {
+            "key": "cd[pvps]",
+            "value": 1,
+            "cleanKey": "pvps"
+          },
+          {
+            "key": "cd[slensec]",
+            "value": 0,
+            "cleanKey": "slensec"
+          },
+          {
+            "key": "cd[ar30d]",
+            "value": 1,
+            "cleanKey": "ar30d"
+          },
+          {
+            "key": "cd[arcm]",
+            "value": 1,
+            "cleanKey": "arcm"
+          },
+          {
+            "key": "cd[kar30d]",
+            "value": 0,
+            "cleanKey": "kar30d"
+          },
+          {
+            "key": "cd[karcm]",
+            "value": 0,
+            "cleanKey": "karcm"
+          },
+          {
+            "key": "cd[ts30d]",
+            "value": 0,
+            "cleanKey": "ts30d"
+          },
+          {
+            "key": "cd[tscm]",
+            "value": 0,
+            "cleanKey": "tscm"
+          },
+          {
+            "key": "cd[kru]",
+            "value": 0,
+            "cleanKey": "kru"
+          }
+        ],
+        "eventDescription": "A visit to a web page you care about (for example, a product page or landing page). ViewContent tells you if someone visits a web page's URL, but not what they see or do on that page. For example - A person lands on a product details page",
+        "eventName": "ViewContent",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+        "raw": "https://www.facebook.com/tr/?id=1081709588515684&ev=ViewContent&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&rl=&if=true&ts=1634246308062&sw=375&sh=812&v=2.9.47&r=stable&ec=1&o=30&it=1634246307348&coo=false&exp=p1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [
+          {
+            "key": "cd[noad30]",
+            "value": 1,
+            "cleanKey": "noad30"
+          },
+          {
+            "key": "cd[noadcm]",
+            "value": 1,
+            "cleanKey": "noadcm"
+          },
+          {
+            "key": "cd[nokart]",
+            "value": 0,
+            "cleanKey": "nokart"
+          },
+          {
+            "key": "cd[pvps]",
+            "value": 1,
+            "cleanKey": "pvps"
+          },
+          {
+            "key": "cd[slensec]",
+            "value": 0,
+            "cleanKey": "slensec"
+          },
+          {
+            "key": "cd[ar30d]",
+            "value": 1,
+            "cleanKey": "ar30d"
+          },
+          {
+            "key": "cd[arcm]",
+            "value": 1,
+            "cleanKey": "arcm"
+          },
+          {
+            "key": "cd[kar30d]",
+            "value": 0,
+            "cleanKey": "kar30d"
+          },
+          {
+            "key": "cd[karcm]",
+            "value": 0,
+            "cleanKey": "karcm"
+          },
+          {
+            "key": "cd[ts30d]",
+            "value": 0,
+            "cleanKey": "ts30d"
+          },
+          {
+            "key": "cd[tscm]",
+            "value": 0,
+            "cleanKey": "tscm"
+          },
+          {
+            "key": "cd[kru]",
+            "value": 0,
+            "cleanKey": "kru"
+          }
+        ],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+        "raw": "https://www.facebook.com/tr/?id=1081709588515684&ev=PageView&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&rl=&if=true&ts=1634246308043&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&it=1634246307348&coo=false&exp=p1&rqm=GET"
+      }
+    ],
+    "key_logging": {},
+    "session_recorders": {},
+    "third_party_trackers": [
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j93",
+            "a": 637752582,
+            "t": "pageview",
+            "_s": 1,
+            "dl": "https://theclinickc.org/about-us/frequently-asked-questions/",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Frequently Asked Questions - The Clinic at Sharma-Crawford Attorneys at Law",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "_u": "QACAAUAB~",
+            "jid": "",
+            "gjid": "",
+            "cid": 1658926138.1634247,
+            "tid": "UA-28149468-2",
+            "_gid": 1217131287.1634247,
+            "gtm": "2ouad0",
+            "did": "dZGIzZG",
+            "z": 1997955732
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://theclinickc.org/about-us/frequently-asked-questions/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j93&a=637752582&t=pageview&_s=1&dl=https%3A%2F%2Ftheclinickc.org%2Fabout-us%2Ffrequently-asked-questions%2F&ul=en-us&de=UTF-8&dt=Frequently%20Asked%20Questions%20-%20The%20Clinic%20at%20Sharma-Crawford%20Attorneys%20at%20Law&sd=24-bit&sr=375x812&vp=375x812&je=0&_u=QACAAUAB~&jid=&gjid=&cid=1658926138.1634246301&tid=UA-28149468-2&_gid=1217131287.1634246301&gtm=2ouad0&did=dZGIzZG&z=1997955732"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://theclinickc.org/about-us/frequently-asked-questions/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "/google-analytics-$~image",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ver": "8.1.0"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://theclinickc.org/about-us/frequently-asked-questions/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://275e6917v2wn2cfxus3bsh59-wpengine.netdna-ssl.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.1.0"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "UA-28149468-2"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://theclinickc.org/about-us/frequently-asked-questions/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=UA-28149468-2"
+      },
+      {
+        "data": {
+          "filter": "||parsely.com/plogger/",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "rand": 1634246312186,
+            "plid": 86016273,
+            "idsite": "kansascity.com",
+            "url": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "urlref": "https://theclinickc.org/",
+            "screen": "375x812|375x812|24",
+            "data": {
+              "subscriber": false
+            },
+            "sid": 1,
+            "surl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "sref": "https://theclinickc.org/",
+            "sts": 1634246304628,
+            "slts": 0,
+            "date": "Thu+Oct+14+2021+21:18:32+GMT+0000+(Coordinated+Universal+Time)",
+            "action": "heartbeat",
+            "inc": 5,
+            "tt": 4901,
+            "u": "pid=91482c3cf1163d6c2986ad9de863fcf4"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://p1.parsely.com/plogger/?rand=1634246312186&plid=86016273&idsite=kansascity.com&url=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&urlref=https%3A%2F%2Ftheclinickc.org%2F&screen=375x812%7C375x812%7C24&data=%7B%22subscriber%22%3Afalse%7D&sid=1&surl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&sref=https%3A%2F%2Ftheclinickc.org%2F&sts=1634246304628&slts=0&date=Thu+Oct+14+2021+21%3A18%3A32+GMT%2B0000+(Coordinated+Universal+Time)&action=heartbeat&inc=5&tt=4901&u=pid%3D91482c3cf1163d6c2986ad9de863fcf4"
+      },
+      {
+        "data": {
+          "filter": "||criteo.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "entry": "h~Gum.SafariSyncframe.CookieSyncSuccessDuration~560"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://gum.criteo.com/syncframe?origin=publishertag&topUrl=theclinickc.org",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://csm.va.us.criteo.net/iev?entry=c~Gum.SafariSyncframe.InitCookieSync~1&entry=c~Gum.SafariSyncframe.SidReadSuccess~1&entry=h~Gum.SafariSyncframe.SidReadSuccessDuration~524&entry=c~Gum.SafariSyncframe.StorageWriting.Cname.Disabled~1&entry=c~Gum.SafariSyncframe.CookieSyncSuccess~1&entry=h~Gum.SafariSyncframe.CookieSyncSuccessDuration~560"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "cd[DataLayer]": [],
+            "cd[JSON-LD]": [],
+            "cd[Meta]": {
+              "title": "Keywee Pixel"
+            },
+            "cd[OpenGraph]": {},
+            "cd[Schema.org]": [],
+            "coo": false,
+            "dl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "dpo": "LDU",
+            "dpoco": 0,
+            "dpost": 0,
+            "ec": 2,
+            "es": "automatic",
+            "ev": "Microdata",
+            "exp": "p0",
+            "id": 719489158431061,
+            "if": true,
+            "it": 1634246308350,
+            "o": 30,
+            "r": "stable",
+            "redirect": 0,
+            "rl": "",
+            "rqm": "GET",
+            "sh": 812,
+            "sw": 375,
+            "tm": 3,
+            "ts": 1634246310638,
+            "v": "2.9.47"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?cd[DataLayer]=%5B%5D&cd[JSON-LD]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Keywee%20Pixel%22%7D&cd[OpenGraph]=%7B%7D&cd[Schema.org]=%5B%5D&coo=false&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&dpo=LDU&dpoco=0&dpost=0&ec=2&es=automatic&ev=Microdata&exp=p0&id=719489158431061&if=true&it=1634246308350&o=30&r=stable&redirect=0&rl=&rqm=GET&sh=812&sw=375&tm=3&ts=1634246310638&v=2.9.47"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 719489158431061,
+            "ev": "Microdata",
+            "dl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "rl": "",
+            "if": true,
+            "ts": 1634246310638,
+            "cd[DataLayer]": [],
+            "cd[Meta]": {
+              "title": "Keywee Pixel"
+            },
+            "cd[OpenGraph]": {},
+            "cd[Schema.org]": [],
+            "cd[JSON-LD]": [],
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 2,
+            "o": 30,
+            "it": 1634246308350,
+            "coo": false,
+            "dpo": "LDU",
+            "dpoco": 0,
+            "dpost": 0,
+            "es": "automatic",
+            "tm": 3,
+            "exp": "p0",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=719489158431061&ev=Microdata&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&rl=&if=true&ts=1634246310638&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Keywee%20Pixel%22%7D&cd[OpenGraph]=%7B%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=375&sh=812&v=2.9.47&r=stable&ec=2&o=30&it=1634246308350&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&exp=p0&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 1081709588515684,
+            "ev": "Microdata",
+            "dl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "rl": "",
+            "if": true,
+            "ts": 1634246309790,
+            "cd[DataLayer]": [],
+            "cd[Meta]": {
+              "title": "Facebook Pixel"
+            },
+            "cd[OpenGraph]": {},
+            "cd[Schema.org]": [],
+            "cd[JSON-LD]": [],
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 2,
+            "o": 30,
+            "it": 1634246307348,
+            "coo": false,
+            "es": "automatic",
+            "tm": 3,
+            "exp": "p1",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=1081709588515684&ev=Microdata&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&rl=&if=true&ts=1634246309790&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Facebook%20Pixel%22%7D&cd[OpenGraph]=%7B%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=375&sh=812&v=2.9.47&r=stable&ec=2&o=30&it=1634246307348&coo=false&es=automatic&tm=3&exp=p1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||agkn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sid": 9202507693
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://bcp.crwdcntrl.net/pixels?s=12%2C67%2C108%2C58%2C78%2C8&c=7440",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://aa.agkn.com/adscores/g.json?sid=9202507693"
+      },
+      {
+        "data": {
+          "filter": "||ib-ibi.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "go": 262106,
+            "pid": 420,
+            "xid": "fb367f5eb581fc0a7b81dcbd7b8f47f"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://bcp.crwdcntrl.net/pixels?s=12%2C67%2C108%2C58%2C78%2C8&c=7440",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://global.ib-ibi.com/image.sbxx?go=262106&pid=420&xid=fb367f5eb581fc0a7b81dcbd7b8f47f"
+      },
+      {
+        "data": {
+          "filter": "||bluekai.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "limit": 0,
+            "id": "5007cc134d1b14738d8e35c17784a692"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://bcp.crwdcntrl.net/pixels?s=12%2C67%2C108%2C58%2C78%2C8&c=7440",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tags.bluekai.com/site/5907?limit=0&id=5007cc134d1b14738d8e35c17784a692"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "bidswitch_dbm",
+            "google_cm": null,
+            "google_sc": null,
+            "ssp": "liveintent",
+            "bsw_param": "3839ae32-521c-496e-ad37-f530f14a5f7b",
+            "google_hm": "MzgzOWFlMzItNTIxYy00OTZlLWFkMzctZjUzMGYxNGE1Zjdi"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://i.liadm.com/s/c/a-01e4?s=&cim=&ps=true&ls=true&duid=null&ppid=0&euns=0&ci=0&version=sc-v0.2.0&nosync=false&monitorExternalSyncs=false&",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=bidswitch_dbm&google_cm&google_sc&ssp=liveintent&bsw_param=3839ae32-521c-496e-ad37-f530f14a5f7b&google_hm=MzgzOWFlMzItNTIxYy00OTZlLWFkMzctZjUzMGYxNGE1Zjdi"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 719489158431061,
+            "ev": "PageView",
+            "dl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "rl": "",
+            "if": true,
+            "ts": 1634246309146,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 1,
+            "o": 30,
+            "it": 1634246308350,
+            "coo": false,
+            "dpo": "LDU",
+            "dpoco": 0,
+            "dpost": 0,
+            "tm": 1,
+            "exp": "p0",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=719489158431061&ev=PageView&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&rl=&if=true&ts=1634246309146&sw=375&sh=812&v=2.9.47&r=stable&ec=1&o=30&it=1634246308350&coo=false&dpo=LDU&dpoco=0&dpost=0&tm=1&exp=p0&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 719489158431061,
+            "ev": "KWCEPV",
+            "dl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "rl": "",
+            "if": true,
+            "ts": 1634246309127,
+            "cd[noad30]": 1,
+            "cd[noadcm]": 1,
+            "cd[nokart]": 0,
+            "cd[pvps]": 1,
+            "cd[slensec]": 0,
+            "cd[ar30d]": 1,
+            "cd[arcm]": 1,
+            "cd[kar30d]": 0,
+            "cd[karcm]": 0,
+            "cd[ts30d]": 0,
+            "cd[tscm]": 0,
+            "cd[kru]": 0,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "it": 1634246308350,
+            "coo": false,
+            "dpo": "LDU",
+            "dpoco": 0,
+            "dpost": 0,
+            "tm": 2,
+            "exp": "p0",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=719489158431061&ev=KWCEPV&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&rl=&if=true&ts=1634246309127&cd[noad30]=1&cd[noadcm]=1&cd[nokart]=0&cd[pvps]=1&cd[slensec]=0&cd[ar30d]=1&cd[arcm]=1&cd[kar30d]=0&cd[karcm]=0&cd[ts30d]=0&cd[tscm]=0&cd[kru]=0&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&it=1634246308350&coo=false&dpo=LDU&dpoco=0&dpost=0&tm=2&exp=p0&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ssp": "liveintent",
+            "user_id": "d913a9ff-5cb7-4285-9934-5a6f93d67cc1"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://i.liadm.com/s/c/a-01e4?s=&cim=&ps=true&ls=true&duid=null&ppid=0&euns=0&ci=0&version=sc-v0.2.0&nosync=false&monitorExternalSyncs=false&",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/sync?ssp=liveintent&user_id=d913a9ff-5cb7-4285-9934-5a6f93d67cc1"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dsp_id": 256,
+            "user_group": 2,
+            "user_id": "d913a9ff-5cb7-4285-9934-5a6f93d67cc1",
+            "redir": "//i.liadm.com/s/52176?bidder_id=5298&bidder_uuid=${BSW_UID}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://i.liadm.com/s/c/a-01e4?s=&cim=&ps=true&ls=true&duid=null&ppid=0&euns=0&ci=0&version=sc-v0.2.0&nosync=false&monitorExternalSyncs=false&",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/syncd?dsp_id=256&user_group=2&user_id=d913a9ff-5cb7-4285-9934-5a6f93d67cc1&redir=%2F%2Fi.liadm.com%2Fs%2F52176%3Fbidder_id%3D5298%26bidder_uuid%3D%24%7BBSW_UID%7D"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://i.liadm.com/s/c/a-01e4?s=&cim=&ps=true&ls=true&duid=null&ppid=0&euns=0&ci=0&version=sc-v0.2.0&nosync=false&monitorExternalSyncs=false&",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/ibs:dpid=127444&dpuuid=d913a9ff-5cb7-4285-9934-5a6f93d67cc1&redir=https%3A%2F%2Fi.liadm.com%2Fs%2Fe%2Fa-01e4%2F0%2F8026115c6e5741c49205e9401fd11abf%3Fmpid%3D82775%26muid%3D%24%7BDD_UUID%7D"
+      },
+      {
+        "data": {
+          "filter": "||mathtag.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "mt_exid": 36,
+            "redir": "https://i.liadm.com/s/e/a-01e4/0/8026115c6e5741c49205e9401fd11abf?mpid=7156&muid=[MM_UUID]",
+            "d913a9ff-5cb7-4285-9934-5a6f93d67cc1": null
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://i.liadm.com/s/c/a-01e4?s=&cim=&ps=true&ls=true&duid=null&ppid=0&euns=0&ci=0&version=sc-v0.2.0&nosync=false&monitorExternalSyncs=false&",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync.mathtag.com/sync/img?mt_exid=36&redir=https%3A%2F%2Fi.liadm.com%2Fs%2Fe%2Fa-01e4%2F0%2F8026115c6e5741c49205e9401fd11abf%3Fmpid%3D7156%26muid%3D%5BMM_UUID%5D&d913a9ff-5cb7-4285-9934-5a6f93d67cc1"
+      },
+      {
+        "data": {
+          "filter": "||keywee.co^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "stm": 1634246308541,
+            "e": "pv",
+            "url": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "page": "Keywee Pixel",
+            "refr": "https://theclinickc.org/",
+            "tv": "js-2.9.1",
+            "tna": "cf",
+            "aid": 858,
+            "p": "web",
+            "tz": "UTC",
+            "lang": "en-US",
+            "cs": "UTF-8",
+            "res": "375x812",
+            "cd": 24,
+            "cookie": 1,
+            "f_passive": 1,
+            "f_wheel": "wheel",
+            "eid": "58ac52b7-1a76-4834-a467-9279709b4b93",
+            "dtm": 1634246308526,
+            "vp": "0x0",
+            "ds": "0x0",
+            "vid": 1,
+            "sid": "8cf841f0-8fab-4e6e-8515-c7117f3ab036",
+            "duid": "a1852c60-6c7f-4e65-94c0-d2b07ccc6d97",
+            "fp": 1466940846
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pixel.keywee.co/i?stm=1634246308541&e=pv&url=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&page=Keywee%20Pixel&refr=https%3A%2F%2Ftheclinickc.org%2F&tv=js-2.9.1&tna=cf&aid=858&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=375x812&cd=24&cookie=1&f_passive=1&f_wheel=wheel&eid=58ac52b7-1a76-4834-a467-9279709b4b93&dtm=1634246308526&vp=0x0&ds=0x0&vid=1&sid=8cf841f0-8fab-4e6e-8515-c7117f3ab036&duid=a1852c60-6c7f-4e65-94c0-d2b07ccc6d97&fp=1466940846"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dsp_id": 419,
+            "user_id": 10596899556600621000,
+            "ssp": "triplelift",
+            "gdpr": 0,
+            "gdpr_consent": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://eb2.3lift.com/sync?&ld=1",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/sync?dsp_id=419&user_id=10596899556600621604&ssp=triplelift&gdpr=0&gdpr_consent="
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/719489158431061?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/plugins/identity.js?v=2.9.47"
+      },
+      {
+        "data": {
+          "filter": "||quantserve.com/pixel;",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pixel.quantserve.com/pixel;r=2122588554;labels=KSC;rf=0;a=p-50B2Fi6bBqYto;url=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed;uht=2;fpan=1;fpa=P0-12976274-1634246308284;pbc=;ns=1;ce=1;qjs=1;qv=00a3769c-20210929173447;cm=;gdpr=0;ref=;d=www.kansascity.com;je=0;sr=375x812x24;dst=0;et=1634246308284;tzo=0;ogl="
+      },
+      {
+        "data": {
+          "filter": "/fbevents.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "data": {
+          "filter": "||keywee.co^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.keywee.co/dist/sp-2.9.1.js"
+      },
+      {
+        "data": {
+          "filter": "||adsymptotic.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "_pid": 16218,
+            "_psign": "0aa5badf92527f7732e22463d6fa4dbc",
+            "coopa": 0,
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "_puuid": "84f36512-b33a-4458-9795-6ac82c07d5cb",
+            "_noobservation": 1,
+            "_expected_cookie": "adde5ae68eeb92037ddcb45c6edac92c"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://eb2.3lift.com/sync?&ld=1",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://p.adsymptotic.com/d/px/?_pid=16218&_psign=0aa5badf92527f7732e22463d6fa4dbc&coopa=0&gdpr=0&gdpr_consent=&_puuid=84f36512-b33a-4458-9795-6ac82c07d5cb&_noobservation=1&_expected_cookie=adde5ae68eeb92037ddcb45c6edac92c"
+      },
+      {
+        "data": {
+          "filter": "/bluekai/*",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d": "NB2HI4DTHIXS6ZLCGIXDG3DJMZ2C4Y3PNUXXQ5LJMQ7WI33OM5WGKPLEMJQTQJTFPBRWQYLOM5ST25DSNFYGYZLMNFTHIJTHMRYHEPJQEZWWSZB5GI2DMMBGPB2WSZB5PBGTMM3RKZIS2VSJIQYWQN3DNVUG23TH"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://eb2.3lift.com/sync?&ld=1",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://b1sync.zemanta.com/usersync/bluekai/callback/?d=NB2HI4DTHIXS6ZLCGIXDG3DJMZ2C4Y3PNUXXQ5LJMQ7WI33OM5WGKPLEMJQTQJTFPBRWQYLOM5ST25DSNFYGYZLMNFTHIJTHMRYHEPJQEZWWSZB5GI2DMMBGPB2WSZB5PBGTMM3RKZIS2VSJIQYWQN3DNVUG23TH"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "s": "",
+            "cim": "",
+            "ps": true,
+            "ls": true,
+            "duid": null,
+            "ppid": 0,
+            "euns": 0,
+            "ci": 0,
+            "version": "sc-v0.2.0",
+            "nosync": false,
+            "monitorExternalSyncs": false,
+            "": null
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://i.liadm.com/s/c/a-01e4?s=&cim=&ps=true&ls=true&duid=null&ppid=0&euns=0&ci=0&version=sc-v0.2.0&nosync=false&monitorExternalSyncs=false&"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 1081709588515684,
+            "ev": "ViewContent",
+            "dl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "rl": "",
+            "if": true,
+            "ts": 1634246308062,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 1,
+            "o": 30,
+            "it": 1634246307348,
+            "coo": false,
+            "exp": "p1",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=1081709588515684&ev=ViewContent&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&rl=&if=true&ts=1634246308062&sw=375&sh=812&v=2.9.47&r=stable&ec=1&o=30&it=1634246307348&coo=false&exp=p1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 1081709588515684,
+            "ev": "PageView",
+            "dl": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "rl": "",
+            "if": true,
+            "ts": 1634246308043,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "it": 1634246307348,
+            "coo": false,
+            "exp": "p1",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=1081709588515684&ev=PageView&dl=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&rl=&if=true&ts=1634246308043&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&it=1634246307348&coo=false&exp=p1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||adsymptotic.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "_pid": 16218,
+            "_psign": "0aa5badf92527f7732e22463d6fa4dbc",
+            "coopa": 0,
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "_puuid": "84f36512-b33a-4458-9795-6ac82c07d5cb",
+            "_noobservation": 1
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://eb2.3lift.com/sync?&ld=1",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://p.adsymptotic.com/d/px/?_pid=16218&_psign=0aa5badf92527f7732e22463d6fa4dbc&coopa=0&gdpr=0&gdpr_consent=&_puuid=84f36512-b33a-4458-9795-6ac82c07d5cb&_noobservation=1"
+      },
+      {
+        "data": {
+          "filter": "||keywee.co^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.keywee.co/config/858.js"
+      },
+      {
+        "data": {
+          "filter": "||quantcount.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://rules.quantcount.com/rules-p-50B2Fi6bBqYto.js"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "tna": "v2.0.1",
+            "aid": "a-01e4",
+            "wpn": "lc-bundle",
+            "pu": "https://theclinickc.org/",
+            "ext_IXWRAPPERLiveIntentIp": {
+              "t": 1634246305364,
+              "d": {
+                "response": "pass",
+                "version": "1.1.1"
+              },
+              "e": 1634332705364
+            },
+            "se": "e30",
+            "dtstmp": 1634246307805
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://rp.liadm.com/j?tna=v2.0.1&aid=a-01e4&wpn=lc-bundle&pu=https%3A%2F%2Ftheclinickc.org%2F&ext_IXWRAPPERLiveIntentIp=%7B%22t%22%3A1634246305364%2C%22d%22%3A%7B%22response%22%3A%22pass%22%2C%22version%22%3A%221.1.1%22%7D%2C%22e%22%3A1634332705364%7D&se=e30&dtstmp=1634246307805"
+      },
+      {
+        "data": {
+          "filter": "||bluekai.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "xM63qVQ-VID1h7cmhmng",
+            "redir": "https://b1sync.zemanta.com/usersync/bluekai/callback/?d=NB2HI4DTHIXS6ZLCGIXDG3DJMZ2C4Y3PNUXXQ5LJMQ7WI33OM5WGKPLEMJQTQJTFPBRWQYLOM5ST25DSNFYGYZLMNFTHIJTHMRYHEPJQEZWWSZB5GI2DMMBGPB2WSZB5PBGTMM3RKZIS2VSJIQYWQN3DNVUG23TH",
+            "gdpr": 0
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://eb2.3lift.com/sync?&ld=1",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stags.bluekai.com/site/23178?id=xM63qVQ-VID1h7cmhmng&redir=https%3A%2F%2Fb1sync.zemanta.com%2Fusersync%2Fbluekai%2Fcallback%2F%3Fd%3DNB2HI4DTHIXS6ZLCGIXDG3DJMZ2C4Y3PNUXXQ5LJMQ7WI33OM5WGKPLEMJQTQJTFPBRWQYLOM5ST25DSNFYGYZLMNFTHIJTHMRYHEPJQEZWWSZB5GI2DMMBGPB2WSZB5PBGTMM3RKZIS2VSJIQYWQN3DNVUG23TH&gdpr=0"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "triplelift",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "us_privacy": "",
+            "google_hm": "Njc5NjI0NTA2ODk4OTczNDI1MA=="
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://eb2.3lift.com/sync?&ld=1",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=triplelift&gdpr=0&gdpr_consent=&us_privacy=&google_hm=Njc5NjI0NTA2ODk4OTczNDI1MA%3D%3D"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://b-code.liadm.com/sync-container.js"
+      },
+      {
+        "data": {
+          "filter": "://c.*/c.gif?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "xid": 6796245068989734000,
+            "Red3": "TLMS_pd"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://eb2.3lift.com/sync?&ld=1",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://c.bing.com/c.gif?xid=6796245068989734250&Red3=TLMS_pd"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ssp": "triplelift",
+            "user_id": 6796245068989734000,
+            "gdpr": 0,
+            "gdpr_consent": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://eb2.3lift.com/sync?&ld=1",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/sync?ssp=triplelift&user_id=6796245068989734250&gdpr=0&gdpr_consent="
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "triplelift",
+            "google_cm": null,
+            "google_sc": null,
+            "gdpr": 0,
+            "gdpr_consent": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://eb2.3lift.com/sync?&ld=1",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=triplelift&google_cm&google_sc&gdpr=0&gdpr_consent="
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/1081709588515684?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||crwdcntrl.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "c": 7440
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tags.crwdcntrl.net/lt/shared/2/lt.iframe.html?c=7440"
+      },
+      {
+        "data": {
+          "filter": "||imrworldwide.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ci": "us-203838h",
+            "cg": 0,
+            "cc": 1,
+            "si": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "rp": "https://theclinickc.org/",
+            "ts": "compact",
+            "rnd": 1634246303628,
+            "ja": 1
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-203838h&cg=0&cc=1&si=https%3A//www.kansascity.com/latest-news/article214391484.html/video-embed&rp=https%3A//theclinickc.org/&ts=compact&rnd=1634246303628&ja=1"
+      },
+      {
+        "data": {
+          "filter": "||keywee.co^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.keywee.co/dist/analytics-1.5.12.min.js"
+      },
+      {
+        "data": {
+          "filter": "||rlcdn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pid": 1405
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://api.rlcdn.com/api/identity/envelope?pid=1405"
+      },
+      {
+        "data": {
+          "filter": "||crwdcntrl.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bcp.crwdcntrl.net/6/data"
+      },
+      {
+        "data": {
+          "filter": "/quant.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://edge.quantserve.com/quant.js"
+      },
+      {
+        "data": {
+          "filter": "||imrworldwide.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ci": "us-203838h",
+            "cg": 0,
+            "cc": 1,
+            "si": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "rp": "https://theclinickc.org/",
+            "ts": "compact",
+            "rnd": 1634246303628
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-203838h&cg=0&cc=1&si=https%3A//www.kansascity.com/latest-news/article214391484.html/video-embed&rp=https%3A//theclinickc.org/&ts=compact&rnd=1634246303628"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://b-code.liadm.com/a-01e4.min.js"
+      },
+      {
+        "data": {
+          "filter": "||keywee.co^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.keywee.co/dist/analytics.min.js"
+      },
+      {
+        "data": {
+          "filter": "/fbevents.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "data": {
+          "filter": "||criteo.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "origin": "publishertag",
+            "topUrl": "theclinickc.org"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://gum.criteo.com/syncframe?origin=publishertag&topUrl=theclinickc.org"
+      },
+      {
+        "data": {
+          "filter": "||crwdcntrl.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tags.crwdcntrl.net/lt/c/7440/optimus_rules.json"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://www.facebook.com/fr/b.php?p=1531105787105294&e=${TM_USER_ID}&t=2592000&o=0",
+            "_test": "YWieogAAAFdqJwAT"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/r7ifn0SL?redir=https%3A%2F%2Fwww.facebook.com%2Ffr%2Fb.php%3Fp%3D1531105787105294%26e%3D%24%7BTM_USER_ID%7D%26t%3D2592000%26o%3D0&_test=YWieogAAAFdqJwAT"
+      },
+      {
+        "data": {
+          "filter": "||mathtag.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://ads.pubmatic.com/AdServer/js/cl_partner.html?pid=2&rdu=https%3A%2F%2Fsimage4.pubmatic.com%2FAdServer%2FSPug%3Fo%3D3%26u%3D48B6491E-C199-4A7E-BCEA-BF1A73C30EB7%26vcode%3Dbz0yJnR5cGU9MSZjb2RlPTM2MiZ0bD00MzIwMA%3D%3D%26piggybackCookie%3Duid%3A%23%23P_UID",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://mathid.mathtag.com/d/i.js"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://www.facebook.com/fr/b.php?p=1531105787105294&e=${TM_USER_ID}&t=2592000&o=0"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/r7ifn0SL?redir=https%3A%2F%2Fwww.facebook.com%2Ffr%2Fb.php%3Fp%3D1531105787105294%26e%3D%24%7BTM_USER_ID%7D%26t%3D2592000%26o%3D0"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://sync.search.spotxchange.com/partner?adv_id=6409&uid=${USER_ID}&img=1",
+            "_test": "YWieogAAAJuO5AA6"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/h0r58thg?redir=https%3A%2F%2Fsync.search.spotxchange.com%2Fpartner%3Fadv_id%3D6409%26uid%3D%24%7BUSER_ID%7D%26img%3D1&_test=YWieogAAAJuO5AA6"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://sync.search.spotxchange.com/partner?adv_id=6409&uid=${USER_ID}&img=1"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/h0r58thg?redir=https%3A%2F%2Fsync.search.spotxchange.com%2Fpartner%3Fadv_id%3D6409%26uid%3D%24%7BUSER_ID%7D%26img%3D1"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=${USER_ID}",
+            "_test": "YWieogAJJK6MRQA6"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/b9pj45k4?redir=https%3A%2F%2Fimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA%3D%26piggybackCookie%3D%24%7BUSER_ID%7D&_test=YWieogAJJK6MRQA6"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=${USER_ID}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/b9pj45k4?redir=https%3A%2F%2Fimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA%3D%26piggybackCookie%3D%24%7BUSER_ID%7D"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://us-u.openx.net/w/1.0/sd?id=537148856&val=${TM_USER_ID}",
+            "_test": "YWieoQAAAlOGUAA6"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/ny75r2x0?redir=https%3A%2F%2Fus-u.openx.net%2Fw%2F1.0%2Fsd%3Fid%3D537148856%26val%3D%24%7BTM_USER_ID%7D&_test=YWieoQAAAlOGUAA6"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://us-u.openx.net/w/1.0/sd?id=537148856&val=${TM_USER_ID}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/ny75r2x0?redir=https%3A%2F%2Fus-u.openx.net%2Fw%2F1.0%2Fsd%3Fid%3D537148856%26val%3D%24%7BTM_USER_ID%7D"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://ib.adnxs.com/setuid?entity=158&code=${TM_USER_ID}",
+            "_test": "YWieoQAAAagcigAR"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/UH6TUt9n?redir=https%3A%2F%2Fib.adnxs.com%2Fsetuid%3Fentity%3D158%26code%3D%24%7BTM_USER_ID%7D&_test=YWieoQAAAagcigAR"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://ib.adnxs.com/setuid?entity=158&code=${TM_USER_ID}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/UH6TUt9n?redir=https%3A%2F%2Fib.adnxs.com%2Fsetuid%3Fentity%3D158%26code%3D%24%7BTM_USER_ID%7D"
+      },
+      {
+        "data": {
+          "filter": "/trk.gif?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ntv_at": 394,
+            "ntv_usid": 711445,
+            "ntv_pl": 745264,
+            "prx_referrer": "https://theclinickc.org/"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://jadserve.postrelease.com/trk.gif?ntv_at=394&ntv_usid=711445&ntv_pl=745264&prx_referrer=https%3A%2F%2Ftheclinickc.org%2F"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=88&external_user_id=${TM_USER_ID}",
+            "_test": "YWieoQAJHt5VrQAT"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/ZMAwryCI?redir=https%3A%2F%2Fdsum-sec.casalemedia.com%2Frum%3Fcm_dsp_id%3D88%26external_user_id%3D%24%7BTM_USER_ID%7D&_test=YWieoQAJHt5VrQAT"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=88&external_user_id=${TM_USER_ID}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/ZMAwryCI?redir=https%3A%2F%2Fdsum-sec.casalemedia.com%2Frum%3Fcm_dsp_id%3D88%26external_user_id%3D%24%7BTM_USER_ID%7D"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://pixel.rubiconproject.com/tap.php?v=7941&nid=2243&put=${USER_ID}&expires=90",
+            "_test": "YWieoQAJJF53nAA6"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/btu4jd3a?redir=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D7941%26nid%3D2243%26put%3D%24%7BUSER_ID%7D%26expires%3D90&_test=YWieoQAJJF53nAA6"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://pixel.rubiconproject.com/tap.php?v=7941&nid=2243&put=${USER_ID}&expires=90"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/btu4jd3a?redir=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D7941%26nid%3D2243%26put%3D%24%7BUSER_ID%7D%26expires%3D90"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://cm.g.doubleclick.net/pixel?google_nid=g8f47s39e399f3fe&google_push&google_sc&google_hm=${TM_USER_ID_BASE64ENC_URLENC}",
+            "_test": "YWieoAAAAJlG0AAT"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/5w3jqr4k?redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dg8f47s39e399f3fe%26google_push%26google_sc%26google_hm%3D%24%7BTM_USER_ID_BASE64ENC_URLENC%7D&_test=YWieoAAAAJlG0AAT"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://idx.liadm.com/idex/ie/any"
+      },
+      {
+        "data": {
+          "filter": "||rlcdn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pid": 2,
+            "rt": "envelope"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://api.rlcdn.com/api/identity?pid=2&rt=envelope"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://cm.g.doubleclick.net/pixel?google_nid=g8f47s39e399f3fe&google_push&google_sc&google_hm=${TM_USER_ID_BASE64ENC_URLENC}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/5w3jqr4k?redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dg8f47s39e399f3fe%26google_push%26google_sc%26google_hm%3D%24%7BTM_USER_ID_BASE64ENC_URLENC%7D"
+      },
+      {
+        "data": {
+          "filter": "||amazonaws.com^*/Test_oPS_Script_Loads?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "Action": "SendMessage",
+            "MessageBody": "cid=11&bt=null"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sqs.us-east-1.amazonaws.com/397719490216/Test_oPS_Script_Loads?Action=SendMessage&MessageBody=cid%3D11%26bt%3Dnull"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "adobe_dmp",
+            "google_cm": null,
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "google_hm": "MDk1MDc1NzAzMjczNTEwMDY0ODM2NDA3MTM1NjMxNjY1NjYyNDU="
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=adobe_dmp&google_cm&gdpr=0&gdpr_consent=&google_hm=MDk1MDc1NzAzMjczNTEwMDY0ODM2NDA3MTM1NjMxNjY1NjYyNDU="
+      },
+      {
+        "data": {
+          "filter": "||scorecardresearch.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "c1": 2,
+            "c2": 6035363,
+            "ns__t": 1634246304428,
+            "ns_c": "UTF-8",
+            "ns_if": 1,
+            "cv": 3.5,
+            "c8": "Meet The Clinic, a nonprofit immigration law firm in KC | The Kansas City Star",
+            "c7": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "c9": "https://theclinickc.org/"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sb.scorecardresearch.com/b?c1=2&c2=6035363&ns__t=1634246304428&ns_c=UTF-8&ns_if=1&cv=3.5&c8=Meet%20The%20Clinic%2C%20a%20nonprofit%20immigration%20law%20firm%20in%20KC%20%7C%20The%20Kansas%20City%20Star&c7=https%3A%2F%2Fwww.kansascity.com%2Flatest-news%2Farticle214391484.html%2Fvideo-embed&c9=https%3A%2F%2Ftheclinickc.org%2F"
+      },
+      {
+        "data": {
+          "filter": "||zeustechnology.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sponsorship-lines.zeustechnology.com/mcclatchy/kansascity/lineItems.json"
+      },
+      {
+        "data": {
+          "filter": "||criteo.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://static.criteo.net/js/ld/publishertag.js"
+      },
+      {
+        "data": {
+          "filter": "||rlcdn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://check.analytics.rlcdn.com/check/1405"
+      },
+      {
+        "data": {
+          "filter": "||crwdcntrl.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tags.crwdcntrl.net/lt/c/7440/lt.min.js"
+      },
+      {
+        "data": {
+          "filter": "||confiant-integrations.global.ssl.fastly.net^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://confiant-integrations.global.ssl.fastly.net/gptprebidnative/202110141220/wrap.js"
+      },
+      {
+        "data": {
+          "filter": "/akam/*/pixel_",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.kansascity.com/akam/11/pixel_516fa85c"
+      },
+      {
+        "data": {
+          "filter": "||scorecardresearch.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sb.scorecardresearch.com/beacon.js"
+      },
+      {
+        "data": {
+          "filter": "||parsely.com/keys/$script,third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.parsely.com/keys/kansascity.com/p.js"
+      },
+      {
+        "data": {
+          "filter": "||crwdcntrl.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ad.crwdcntrl.net/5/c=7436/pe=y/callback=mi.ads.extractPid"
+      },
+      {
+        "data": {
+          "filter": "/yozons-lib/*$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.kansascity.com/static/yozons-lib/sponsored.2893704b2090a6ee0f5c.js"
+      },
+      {
+        "data": {
+          "filter": "||zeustechnology.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://mcclatchy-kansascity.zeustechnology.com/main.js"
+      },
+      {
+        "data": {
+          "filter": "||confiant-integrations.global.ssl.fastly.net^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://confiant-integrations.global.ssl.fastly.net/awMxVZLpNW6K6EG6WC5S8oR_a68/gpt_and_prebid/config.js"
+      },
+      {
+        "data": {
+          "filter": "||d15kdpgjg3unno.cloudfront.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "cid": 11
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d15kdpgjg3unno.cloudfront.net/oPS.js?cid=11"
+      },
+      {
+        "data": {
+          "filter": "||rlcdn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ats.rlcdn.com/ats.js"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d_visid_ver": "5.2.0",
+            "d_fieldgroup": "AAM",
+            "d_rtbd": "json",
+            "d_ver": 2,
+            "d_orgid": "3B6E35F15A82BBB00A495D91@AdobeOrg",
+            "d_nsid": 0,
+            "d_mid": 1.0040509313924939e+37,
+            "d_coop_safe": 1,
+            "d_blob": "6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y",
+            "d_cid_ic": "mcid\u000110040509313924939193627850475200614610",
+            "ts": 1634246303025
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/id?d_visid_ver=5.2.0&d_fieldgroup=AAM&d_rtbd=json&d_ver=2&d_orgid=3B6E35F15A82BBB00A495D91%40AdobeOrg&d_nsid=0&d_mid=10040509313924939193627850475200614610&d_coop_safe=1&d_blob=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&d_cid_ic=mcid%0110040509313924939193627850475200614610&ts=1634246303025"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/ibs:dpid=411&dpuuid=YWiengAAAJRcdgPl"
+      },
+      {
+        "data": {
+          "filter": "/yozons-lib/*$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.kansascity.com/static/yozons-lib/video.04e7a7632d61889c477d.js"
+      },
+      {
+        "data": {
+          "filter": "/yozons-lib/*$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.kansascity.com/static/yozons-lib/quarantine.d8718a0bb9dd8941f95d.js"
+      },
+      {
+        "data": {
+          "filter": "/yozons-lib/*$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.kansascity.com/static/yozons-lib/parsely.938ea414d92d0509557c.js"
+      },
+      {
+        "data": {
+          "filter": "/yozons-lib/*$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.kansascity.com/static/yozons-lib/performance.9c47a680f222b6c417fc.js"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d_uuid": "09507570327351006483640713563166566245"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.everesttech.net/cm/dd?d_uuid=09507570327351006483640713563166566245"
+      },
+      {
+        "data": {
+          "filter": "||omtrdc.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d_visid_ver": "5.2.0",
+            "d_fieldgroup": "A",
+            "mcorgid": "3B6E35F15A82BBB00A495D91@AdobeOrg",
+            "mid": 1.0040509313924939e+37,
+            "ts": 1634246302508
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://mcclatchy.sc.omtrdc.net/id?d_visid_ver=5.2.0&d_fieldgroup=A&mcorgid=3B6E35F15A82BBB00A495D91%40AdobeOrg&mid=10040509313924939193627850475200614610&ts=1634246302508"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d_nsid": 0
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://mcclatchy.demdex.net/dest5.html?d_nsid=0"
+      },
+      {
+        "data": {
+          "filter": "/yozons-lib/*$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.kansascity.com/static/yozons-lib/halzid.aec8abbf84446d89b9dc.js"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d_visid_ver": "5.2.0",
+            "d_fieldgroup": "MC",
+            "d_rtbd": "json",
+            "d_ver": 2,
+            "d_orgid": "3B6E35F15A82BBB00A495D91@AdobeOrg",
+            "d_nsid": 0,
+            "d_coop_safe": 1,
+            "ts": 1634246302221
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/id?d_visid_ver=5.2.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=3B6E35F15A82BBB00A495D91%40AdobeOrg&d_nsid=0&d_coop_safe=1&ts=1634246302221"
+      },
+      {
+        "data": {
+          "filter": "/yozons-lib/*$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.kansascity.com/static/yozons-lib/kansascity.c6b0399bf2e9c22aba93.js"
+      },
+      {
+        "data": {
+          "filter": "/yozons-lib/*$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.kansascity.com/static/yozons-lib/netdale.5d1fc77a16dd336d8eda.js"
+      },
+      {
+        "data": {
+          "filter": "/akam/11/*",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.kansascity.com/latest-news/article214391484.html/video-embed",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.kansascity.com/akam/11/516fa85c"
+      },
+      {
+        "data": {
+          "filter": "/collect?*&cid=",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j93",
+            "a": 1086616277,
+            "t": "pageview",
+            "_s": 1,
+            "dl": "https://theclinickc.org/",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "The Clinic at Sharma-Crawford Attorneys at Law | Immigration Support",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "_u": "YEBAAUABAAAAAC~",
+            "jid": 1917749215,
+            "gjid": 1191468267,
+            "cid": 1658926138.1634247,
+            "tid": "UA-28149468-2",
+            "_gid": 1217131287.1634247,
+            "_r": 1,
+            "gtm": "2ouad0",
+            "did": "dZGIzZG",
+            "z": 120450619
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://theclinickc.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1086616277&t=pageview&_s=1&dl=https%3A%2F%2Ftheclinickc.org%2F&ul=en-us&de=UTF-8&dt=The%20Clinic%20at%20Sharma-Crawford%20Attorneys%20at%20Law%20%7C%20Immigration%20Support&sd=24-bit&sr=375x812&vp=375x812&je=0&_u=YEBAAUABAAAAAC~&jid=1917749215&gjid=1191468267&cid=1658926138.1634246301&tid=UA-28149468-2&_gid=1217131287.1634246301&_r=1&gtm=2ouad0&did=dZGIzZG&z=120450619"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://theclinickc.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "/google-analytics-$~image",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ver": "8.1.0"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://theclinickc.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://275e6917v2wn2cfxus3bsh59-wpengine.netdna-ssl.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.1.0"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "UA-28149468-2"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://theclinickc.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=UA-28149468-2"
+      }
+    ]
+  }
+}

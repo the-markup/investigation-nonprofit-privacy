@@ -1,0 +1,4556 @@
+{
+  "title": "Blacklight - API Request",
+  "uri_ins": "http://www.ppgulfcoast.org",
+  "uri_dest": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+  "uri_redirects": [
+    "http://www.ppgulfcoast.org/"
+  ],
+  "secure_connection": {},
+  "host": "www.ppgulfcoast.org",
+  "config": {
+    "clearCache": true,
+    "captureHar": true,
+    "captureLinks": false,
+    "enableAdBlock": false,
+    "emulateDevice": "iPhone X",
+    "numPages": 1
+  },
+  "browser": {
+    "name": "Chromium",
+    "version": "HeadlessChrome/85.0.4182.0",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/85.0.4182.0 Safari/537.36",
+    "platform": {
+      "name": "Linux",
+      "version": "4.14.243-194.434.amzn2.x86_64"
+    }
+  },
+  "script": {
+    "host": "169.254.157.137",
+    "version": {
+      "npm": "2.1.10",
+      "commit": null
+    },
+    "node_version": "v12.22.4"
+  },
+  "start_time": "2021-10-14T20:20:12.737Z",
+  "end_time": "2021-10-14T20:20:35.816Z",
+  "deviceEmulated": {
+    "name": "iPhone X",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+    "viewport": {
+      "width": 375,
+      "height": 812,
+      "deviceScaleFactor": 3,
+      "isMobile": true,
+      "hasTouch": true,
+      "isLandscape": false
+    }
+  },
+  "browsing_history": [
+    "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+    "https://www.plannedparenthood.org/es/planned-parenthood-gulf-coast-inc"
+  ],
+  "hosts": {
+    "requests": {
+      "first_party": [
+        "www.ppgulfcoast.org",
+        "www.plannedparenthood.org"
+      ],
+      "third_party": [
+        "fast.fonts.net",
+        "try.abtasty.com",
+        "www.google-analytics.com",
+        "www.googletagmanager.com",
+        "dcinfos-cache.abtasty.com",
+        "stats.g.doubleclick.net",
+        "tags.tiqcdn.com",
+        "ssl.google-analytics.com",
+        "www.googleadservices.com",
+        "bat.bing.com",
+        "4558437.fls.doubleclick.net",
+        "secure.quantserve.com",
+        "c1.rfihub.net",
+        "s.yimg.com",
+        "static.hotjar.com",
+        "p.teads.tv",
+        "sc-static.net",
+        "analytics.tiktok.com",
+        "www.google.com",
+        "d10lpsik1i8c69.cloudfront.net",
+        "connect.facebook.net",
+        "js.adsrvr.org",
+        "cdn.callrail.com",
+        "pixel.sitescout.com",
+        "insight.adsrvr.org",
+        "ariane.abtasty.com",
+        "ib.adnxs.com",
+        "databridge.tdbtrk.com",
+        "googleads.g.doubleclick.net",
+        "bid.g.doubleclick.net",
+        "20833821p.rfihub.com",
+        "script.hotjar.com",
+        "rules.quantcount.com",
+        "settings.luckyorange.net",
+        "match.adsrvr.org",
+        "adservice.google.com",
+        "sp.analytics.yahoo.com",
+        "tr.snapchat.com",
+        "vars.hotjar.com",
+        "cm.teads.tv",
+        "ups.analytics.yahoo.com",
+        "pixel.quantserve.com",
+        "www.facebook.com",
+        "collect.tealiumiq.com",
+        "t.teads.tv",
+        "cm.g.doubleclick.net",
+        "stags.bluekai.com",
+        "pixel.rubiconproject.com",
+        "dpm.demdex.net",
+        "p.rfihub.com",
+        "contextual.media.net",
+        "bs.serving-sys.com",
+        "live.rezync.com",
+        "bpi.rtactivate.com",
+        "dsum-sec.casalemedia.com",
+        "idsync.rlcdn.com",
+        "x.dlx.addthis.com",
+        "sync.search.spotxchange.com",
+        "partners.tremorhub.com",
+        "aa.agkn.com",
+        "beacon.krxd.net",
+        "x.bidswitch.net",
+        "sync-tm.everesttech.net",
+        "tr6.snapchat.com",
+        "a.rfihub.com",
+        "ps.eyeota.net",
+        "in.hotjar.com",
+        "i.liadm.com",
+        "pixel.tapad.com",
+        "pippio.com",
+        "visitor-service-us-east-1.tealiumiq.com",
+        "simage2.pubmatic.com"
+      ]
+    }
+  },
+  "reports": {
+    "behaviour_event_listeners": {
+      "MOUSE": {
+        "https://connect.facebook.net/signals/config/433242851216452?v=2.9.47&r=stable": [
+          "click"
+        ],
+        "https://www.plannedparenthood.org/static/js/site.bundle.407fb3d04d19.js": [
+          "scroll",
+          "click"
+        ],
+        "https://script.hotjar.com/modules.1ead97d9cbfc02c8212d.js": [
+          "scroll",
+          "mousemove",
+          "click"
+        ],
+        "https://www.googletagmanager.com/gtm.js?id=GTM-N62L8SB&l=dataLayer": [
+          "mousedown"
+        ],
+        "https://www.googletagmanager.com/gtm.js?id=GTM-MZJZ59": [
+          "click"
+        ]
+      },
+      "TOUCH": {
+        "https://www.plannedparenthood.org/static/js/site.bundle.407fb3d04d19.js": [
+          "touchmove"
+        ]
+      },
+      "SENSOR": {
+        "https://www.plannedparenthood.org/static/js/site.bundle.407fb3d04d19.js": [
+          "orientationchange"
+        ]
+      },
+      "KEYBOARD": {
+        "https://script.hotjar.com/modules.1ead97d9cbfc02c8212d.js": [
+          "keypress"
+        ],
+        "https://www.googletagmanager.com/gtm.js?id=GTM-N62L8SB&l=dataLayer": [
+          "keyup"
+        ],
+        "https://try.abtasty.com/4a5beb0972e219edcff0400029191b52.js": [
+          "keyup",
+          "keydown"
+        ]
+      }
+    },
+    "canvas_fingerprinters": {
+      "data_url": {},
+      "fingerprinters": [],
+      "styles": {},
+      "texts": {}
+    },
+    "canvas_font_fingerprinters": {
+      "canvas_font": {},
+      "text_measure": {}
+    },
+    "cookies": [
+      {
+        "name": "tdb.iey9i2bw",
+        "value": "%7B%7D",
+        "domain": "tdbtrk.com",
+        "path": "/databridge/iey9i2bw",
+        "expires": "2021-11-13T20:20:16.768Z",
+        "size": 18,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "X-AB",
+        "value": "0d6e407936704bd380072f5891d28b0e",
+        "domain": "sc-static.net",
+        "path": "/scevent.min.js",
+        "expires": "2021-10-15T20:20:15.836Z",
+        "size": 36,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_li_ss",
+        "value": "MgYIoQEQwRA",
+        "domain": "i.liadm.com",
+        "path": "/s",
+        "expires": "2021-11-13T20:20:28.116Z",
+        "size": 17,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "__cf_bm",
+        "value": "UA5360aX73Z0mxlM30qb28dKuBTq3I9iYfiKxIRzvrw-1634242814-0-AQysxf3SGwyLUFF4aVQLDhi7lz3r67siIQC86+S65LKlnOmXndu6SHn9oaD0wSruhFdAUp4oFRQ06XXQqI0DPiE=",
+        "domain": "fonts.net",
+        "path": "/",
+        "expires": "2021-10-14T20:50:14.030Z",
+        "size": 152,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_ga",
+        "value": "GA1.2.821379171.1634242815",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2023-10-14T20:20:30.000Z",
+        "size": 29,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_gid",
+        "value": "GA1.2.1829447741.1634242815",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-15T20:20:30.000Z",
+        "size": 31,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_dc_gtm_UA-8867852-1",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-14T20:21:15.000Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_gat_UA-8867852-25",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-14T20:21:15.000Z",
+        "size": 19,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.1313107708.1634242816",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-01-12T20:20:15.000Z",
+        "size": 32,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "MUID",
+        "value": "04D58BC48FFC66570E1D9B148E016776",
+        "domain": "bing.com",
+        "path": "/",
+        "expires": "2022-11-08T20:20:15.659Z",
+        "size": 36,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "High",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "MR",
+        "value": "0",
+        "domain": "bat.bing.com",
+        "path": "/",
+        "expires": "2021-10-21T20:20:15.660Z",
+        "size": 3,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "test_cookie",
+        "value": "CheckForPermission",
+        "domain": "doubleclick.net",
+        "path": "/",
+        "expires": "2021-10-14T20:35:15.776Z",
+        "size": 29,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_gat_UA-8867852-26",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-14T20:21:15.000Z",
+        "size": 19,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "TDID",
+        "value": "b45df9a7-2740-47ff-8cc2-5bb8ae2fe470",
+        "domain": "adsrvr.org",
+        "path": "/",
+        "expires": "2022-10-14T20:20:29.537Z",
+        "size": 40,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "uuid2",
+        "value": "2036683589812568587",
+        "domain": "adnxs.com",
+        "path": "/",
+        "expires": "2022-01-12T20:20:27.455Z",
+        "size": 24,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "__utma",
+        "value": "34810208.821379171.1634242815.1634242817.1634242817.1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2023-10-14T20:20:26.000Z",
+        "size": 59,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "__utmc",
+        "value": "34810208",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": -1,
+        "size": 14,
+        "httpOnly": false,
+        "secure": false,
+        "session": true,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "__utmz",
+        "value": "34810208.1634242817.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-04-15T08:20:26.000Z",
+        "size": 75,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "__utmt_UA-8867852-42",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-14T20:30:16.000Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "rud",
+        "value": "H4sIAAAAAAAAAOMSNjcyNjU3MTWwMDG1tDQ0NTc2MBTiM9R1LMzz9jMPLM61yM-X4jU0MzYxMjGyMDQ3NDUAACrSCoI0AAAA",
+        "domain": "rfihub.com",
+        "path": "/",
+        "expires": "2022-11-08T20:20:27.936Z",
+        "size": 99,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ruds",
+        "value": "H4sIAAAAAAAAAOMSNjcyNjU3MTWwMDG1tDQ0NTc2MBTiM9R1LMzz9jMPLM61yM8HAL-GBb8lAAAA",
+        "domain": "rfihub.com",
+        "path": "/",
+        "expires": -1,
+        "size": 80,
+        "httpOnly": false,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "calltrk_referrer",
+        "value": "direct",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-10-14T20:20:28.000Z",
+        "size": 22,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "calltrk_landing",
+        "value": "https%3A//www.plannedparenthood.org/planned-parenthood-gulf-coast",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-10-14T20:20:28.000Z",
+        "size": 80,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_scid",
+        "value": "24cfeb7b-5448-4277-9f09-1b809887db00",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-11-14T12:38:35.000Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "A3",
+        "value": "d=AQABBAKRaGECEA-eUid1iS9PgshebAKW194FEgEBAQHiaWFyYQAAAAAA_eMAAA&S=AQAAAi78_uGUEHXdB3hunS7W87M",
+        "domain": "yahoo.com",
+        "path": "/",
+        "expires": "2022-10-15T02:20:18.536Z",
+        "size": 96,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_hjid",
+        "value": "d428ba3a-44a7-4ac7-b5eb-2effb6047268",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-10-14T20:20:18.000Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_hjFirstSeen",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-14T20:50:18.000Z",
+        "size": 13,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_fbp",
+        "value": "fb.1.1634242818481.1744717003",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-01-12T20:20:30.000Z",
+        "size": 33,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "IDSYNC",
+        "value": "1769~20yk",
+        "domain": "analytics.yahoo.com",
+        "path": "/",
+        "expires": "2022-10-15T20:20:18.536Z",
+        "size": 15,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TAPID",
+        "value": "plannedparenthood/main>017c80766a9400144a19d2565fc000087003f07f004bb|",
+        "domain": "tealiumiq.com",
+        "path": "/",
+        "expires": "2022-10-14T20:20:29.739Z",
+        "size": 74,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "__qca",
+        "value": "P0-540050623-1634242818380",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-11-10T20:20:18.000Z",
+        "size": 31,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "demdex",
+        "value": "39587976308259096183642531208196403215",
+        "domain": "demdex.net",
+        "path": "/",
+        "expires": "2022-04-12T20:20:27.518Z",
+        "size": 44,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "khaos",
+        "value": "KURDZ9MY-X-BI4T",
+        "domain": "rubiconproject.com",
+        "path": "/",
+        "expires": "2022-10-14T20:20:27.481Z",
+        "size": 20,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "zync-uuid",
+        "value": "8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25",
+        "domain": "rezync.com",
+        "path": "/",
+        "expires": "2022-11-08T13:20:27.636Z",
+        "size": 59,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "pxrc",
+        "value": "CAA=",
+        "domain": "rlcdn.com",
+        "path": "/",
+        "expires": "2021-12-13T20:20:27.597Z",
+        "size": 8,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "tuuid",
+        "value": "52cdf6de-8332-4b8f-9d46-0fa841ad88d7",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-14T20:20:19.596Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "c",
+        "value": "1634242819",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-14T20:20:19.596Z",
+        "size": 11,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "tuuid_lu",
+        "value": "1634242819",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-14T20:20:19.596Z",
+        "size": 18,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "dpm",
+        "value": "39587976308259096183642531208196403215",
+        "domain": "dpm.demdex.net",
+        "path": "/",
+        "expires": "2022-04-12T20:20:27.518Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "SERVERID",
+        "value": "20816~DM",
+        "domain": "eyeota.net",
+        "path": "/",
+        "expires": "2021-10-14T20:30:27.661Z",
+        "size": 16,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_lo_bn",
+        "value": "1",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-11-13T20:20:19.000Z",
+        "size": 7,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_hjIncludedInPageviewSample",
+        "value": "1",
+        "domain": "www.plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-14T20:22:30.000Z",
+        "size": 28,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "_hjAbsoluteSessionInProgress",
+        "value": "0",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-14T20:50:30.000Z",
+        "size": 29,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_hjIncludedInSessionSample",
+        "value": "1",
+        "domain": "www.plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-14T20:22:30.000Z",
+        "size": 27,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "lidid",
+        "value": "e8e4855d-c77c-44d4-bf76-f542f8ac9457",
+        "domain": "liadm.com",
+        "path": "/",
+        "expires": "2023-10-14T20:20:28.116Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "sc_at",
+        "value": "v2|H4sIAAAAAAAAAE3GwQ3AMAgEsImQ4HIKpNsAolNk+H7rl6HtdEDerS2sdIleIacmZ4xnKq9RH9uLIAJ6f9UP9cWgfkAAAAA=",
+        "domain": "snapchat.com",
+        "path": "/",
+        "expires": "2022-11-08T20:20:20.776Z",
+        "size": 104,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TapAd_TS",
+        "value": "1634242820650",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-13T20:20:20.702Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TapAd_DID",
+        "value": "cee5015d-8886-4054-991e-8a3f44caca3e",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-13T20:20:20.702Z",
+        "size": 45,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TapAd_3WAY_SYNCS",
+        "value": "",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-13T20:20:20.702Z",
+        "size": 16,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "did",
+        "value": "3z0gYbNv38UfBWBh",
+        "domain": "pippio.com",
+        "path": "/",
+        "expires": "2022-10-14T20:20:20.779Z",
+        "size": 19,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "didts",
+        "value": "1634242820",
+        "domain": "pippio.com",
+        "path": "/",
+        "expires": "2022-10-14T20:20:20.779Z",
+        "size": 15,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "nnls",
+        "value": "",
+        "domain": "pippio.com",
+        "path": "/",
+        "expires": "2021-12-13T20:20:20.779Z",
+        "size": 4,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "pxrc",
+        "value": "CAA=",
+        "domain": "pippio.com",
+        "path": "/",
+        "expires": "2021-12-13T20:20:28.860Z",
+        "size": 8,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_sctr",
+        "value": "1|1634169600000",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-11-14T12:38:39.000Z",
+        "size": 20,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "ABTasty",
+        "value": "uid=rva90x9f9q082xvx&fst=1634242815141&pst=-1&cst=1634242815141&ns=1&pvt=2&pvis=2&th=",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-11-06T20:20:25.000Z",
+        "size": 92,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "ABTastySession",
+        "value": "mrasn=&sen=1&lp=https%253A%252F%252Fwww.plannedparenthood.org%252Fplanned-parenthood-gulf-coast",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-14T20:50:25.000Z",
+        "size": 109,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "__utmb",
+        "value": "34810208.2.10.1634242817",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-14T20:50:26.000Z",
+        "size": 30,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "anj",
+        "value": "dTM7k!M4/YErk#WF']wIg2HaRoR)2!!A#Fu.TOKQ9YfZ8=E('Dk`WbujE2wBjG+iqjH2bq>s[3dY5HovP(hw9P-HC_#tt3I'zYHk",
+        "domain": "adnxs.com",
+        "path": "/",
+        "expires": "2022-01-12T20:20:27.455Z",
+        "size": 103,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "audit",
+        "value": "1|CJLsPaoZidqNtbYcTmXAzK/DYi/1gZoH9+ZpZLHirMspSxUaqU55JBwurgZrpR3yTF2+p1Uzyflw0S94mtzOH4CVCjP3BXfGHpZJ7Hh4QMZVx7w8XGeNtA0rfuLyU40sjzV5dMiSaVTBi2on+qT/kP0exc+f0IZt",
+        "domain": "rubiconproject.com",
+        "path": "/",
+        "expires": "2022-10-14T20:20:27.481Z",
+        "size": 167,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "rlas3",
+        "value": "2hZmgFrhYSI6+QVUXQV4om8GaA25noly6zBMvFJ5k+I=",
+        "domain": "rlcdn.com",
+        "path": "/",
+        "expires": "2022-10-14T20:20:27.597Z",
+        "size": 49,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "sd-session-id",
+        "value": ".eJwVysEKgjAYAOBXif_sYc4NU-imh0n_JJhIXaRs0GazcEqk-O7Z8YNvgeatB3ftdT9COg6TDqB9mk0e0gW8mZ3uIIWYRjxmnOwZT5KQxxEJYQ3Aa-_Nq2_M_b93t22WGRKpug9SMSItnDSEoG2jY11YVNVY1oKdlXxcnKCyzmlpc4rz6SszwVB1E9rqAOv6A35HL-0.FEoiiw.BoU5Y4VVkbVMyx4WR4bQzuZcIb0",
+        "domain": "live.rezync.com",
+        "path": "/",
+        "expires": "2022-11-08T20:20:27.636Z",
+        "size": 248,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "eud",
+        "value": "H4sIAAAAAAAAAF3OsQ3CMBAFUBFBA6LyHEb2ne9s07MAG9hIGShlypQpUzICI1BSMgIVFSL-5ZP-v_v77sLXo1cOFChRFHHj5m9Vl2bwA_wGf8BD13oET-AZvIDvmN-2fq4cQ-ZlB_0D7AUPhhIHyY6r5dqrDRSjrTcvNtdUuPRVpej5V_L5RDKa1dPsaDLt0Rf4CzD9hb14AQAA",
+        "domain": "rfihub.com",
+        "path": "/",
+        "expires": "2022-11-08T20:20:27.936Z",
+        "size": 211,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "euds",
+        "value": "H4sIAAAAAAAAAAXB0Q2AMAgFwMT45S4Y4QEF_x0EmnQQJ-_ddXz4Twmo5YMm9HJSGYN6slF2FGq1W_nLDhWV4LzFNp5YBgQ5AAAA",
+        "domain": "rfihub.com",
+        "path": "/",
+        "expires": -1,
+        "size": 104,
+        "httpOnly": false,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_uetsid",
+        "value": "25c694d02d2c11ecab9479cef1c3ed5b",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2021-10-15T20:20:28.000Z",
+        "size": 39,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_uetvid",
+        "value": "25c948602d2c11eca2c2e5217a240f03",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-11-08T20:20:28.000Z",
+        "size": 39,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "TDCPM",
+        "value": "CAESFwoIYXBwbmV4dXMSCwjopeyjwtaHOhAFEhkKCnJpZ2h0bWVkaWESCwjopeyjwtaHOhAFEhYKB3J1Ymljb24SCwim2bepwtaHOhAFEhUKBmdvb2dsZRILCOTdmNTiqIU6EAUSFQoGY2FzYWxlEgsIptm3qcLWhzoQBRIYCgliaWRzd2l0Y2gSCwjk1p-Fw9aHOhAFEhcKCHB1Ym1hdGljEgsIvKb0jsPWhzoQBRgFIAEoAzILCNTX2r_Z1oc6EAVCDyINCAESCQoFdGllcjMQAVoHbzNhMTIzbmAB",
+        "domain": "adsrvr.org",
+        "path": "/",
+        "expires": "2022-10-14T20:20:29.537Z",
+        "size": 301,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "utag_main",
+        "value": "v_id:017c80766a9400144a19d2565fc000087003f07f004bb$_sn:1$_se:2$_ss:0$_st:1634244627976$ses_id:1634242816665%3Bexp-session$_pn:2%3Bexp-session$db_iey9i2bw:true%3Bexp-session$dc_visit:1$dc_event:2%3Bexp-session$dc_region:us-east-1%3Bexp-session",
+        "domain": "plannedparenthood.org",
+        "path": "/",
+        "expires": "2022-10-14T20:20:29.000Z",
+        "size": 251,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      }
+    ],
+    "fb_pixel_events": [
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+        "raw": "https://www.facebook.com/tr/?id=433242851216452&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242830743&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=29&fbp=fb.1.1634242818481.1744717003&it=1634242828163&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+        "raw": "https://www.facebook.com/tr/?id=342839232873627&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242830202&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634242818481.1744717003&it=1634242828163&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+        "raw": "https://www.facebook.com/tr/?id=1119126068252786&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242829618&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634242818481.1744717003&it=1634242828163&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+        "raw": "https://www.facebook.com/tr/?id=433242851216452&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242820398&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=29&fbp=fb.1.1634242818481.1744717003&it=1634242817266&coo=false&dpo=&tm=1&exp=p1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+        "raw": "https://www.facebook.com/tr/?id=342839232873627&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242819081&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634242818481.1744717003&it=1634242817266&coo=false&dpo=&tm=1&exp=p1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+        "raw": "https://www.facebook.com/tr/?id=1119126068252786&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242818497&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634242818481.1744717003&it=1634242817266&coo=false&dpo=&tm=1&exp=p1&rqm=GET"
+      }
+    ],
+    "key_logging": {},
+    "session_recorders": {
+      "d10lpsik1i8c69.cloudfront.net": [
+        "d10lpsik1i8c69.cloudfront.net/js/clickstream.js",
+        "d10lpsik1i8c69.cloudfront.net/w.js"
+      ],
+      "script.hotjar.com": [
+        "script.hotjar.com/modules.1ead97d9cbfc02c8212d.js"
+      ],
+      "static.hotjar.com": [
+        "static.hotjar.com/c/hotjar-1436451.js"
+      ]
+    },
+    "third_party_trackers": [
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 433242851216452,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "rl": "",
+            "if": false,
+            "ts": 1634242830743,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 29,
+            "fbp": "fb.1.1634242818481.1744717003",
+            "it": 1634242828163,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=433242851216452&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242830743&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=29&fbp=fb.1.1634242818481.1744717003&it=1634242828163&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j93",
+            "a": 333840735,
+            "t": "event",
+            "ni": 1,
+            "_s": 1,
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Planned Parenthood Gulf Coast, Inc.",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "ec": "Debugging",
+            "ea": "optimize.callback",
+            "_utma": "34810208.821379171.1634242815.1634242817.1634242817.1",
+            "_utmz": "34810208.1634242817.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "_utmht": 1634242830438,
+            "_u": "SCCCAUADQ~",
+            "jid": "",
+            "gjid": "",
+            "cid": 821379171.1634243,
+            "tid": "UA-8867852-25",
+            "_gid": 1829447741.1634243,
+            "gtm": "2wgad0KHVLK6X",
+            "cd38": "UA - Event - Debugging str dLayer",
+            "z": 1769841989
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j93&a=333840735&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&ul=en-us&de=UTF-8&dt=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&sd=24-bit&sr=375x812&vp=375x812&je=0&ec=Debugging&ea=optimize.callback&_utma=34810208.821379171.1634242815.1634242817.1634242817.1&_utmz=34810208.1634242817.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1634242830438&_u=SCCCAUADQ~&jid=&gjid=&cid=821379171.1634242815&tid=UA-8867852-25&_gid=1829447741.1634242815&gtm=2wgad0KHVLK6X&cd38=UA%20-%20Event%20-%20Debugging%20str%20dLayer&z=1769841989"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 6
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://in.hotjar.com/api/v2/client/sites/1436451/visit-data?sv=6"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 342839232873627,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "rl": "",
+            "if": false,
+            "ts": 1634242830202,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 28,
+            "fbp": "fb.1.1634242818481.1744717003",
+            "it": 1634242828163,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=342839232873627&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242830202&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634242818481.1744717003&it=1634242828163&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/433242851216452?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/js-sha256-v1.min.js"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||tealiumiq.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://collect.tealiumiq.com/plannedparenthood/main/2/i.gif"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 1119126068252786,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "rl": "",
+            "if": false,
+            "ts": 1634242829618,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 28,
+            "fbp": "fb.1.1634242818481.1744717003",
+            "it": 1634242828163,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=1119126068252786&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242829618&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634242818481.1744717003&it=1634242828163&coo=false&dpo=&tm=1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/342839232873627?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/js-sha256-v1.min.js"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||d10lpsik1i8c69.cloudfront.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "6ea758b"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d10lpsik1i8c69.cloudfront.net/js/clickstream.js?v=6ea758b"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://vars.hotjar.com/box-acff0d328b74363875a0a6075e6c8439.html"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 5061699,
+            "tm": "gtm002",
+            "Ver": 2,
+            "mid": "747c97e5-621e-42c7-99f2-4933df922917",
+            "sid": "25c694d02d2c11ecab9479cef1c3ed5b",
+            "vid": "25c948602d2c11eca2c2e5217a240f03",
+            "vids": 0,
+            "pi": 0,
+            "lg": "en-US",
+            "sw": 375,
+            "sh": 812,
+            "sc": 24,
+            "tl": "Planned Parenthood Gulf Coast, Inc.",
+            "p": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "r": "",
+            "lt": 3067,
+            "evt": "pageLoad",
+            "msclkid": "N",
+            "sv": 1,
+            "rn": 367377
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/action/0?ti=5061699&tm=gtm002&Ver=2&mid=747c97e5-621e-42c7-99f2-4933df922917&sid=25c694d02d2c11ecab9479cef1c3ed5b&vid=25c948602d2c11eca2c2e5217a240f03&vids=0&pi=0&lg=en-US&sw=375&sh=812&sc=24&tl=Planned%20Parenthood%20Gulf%20Coast,%20Inc.&p=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&r=&lt=3067&evt=pageLoad&msclkid=N&sv=1&rn=367377"
+      },
+      {
+        "data": {
+          "filter": "/pippio.",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "it": 1,
+            "pid": 500040,
+            "iv": "8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pippio.com/api/sync?it=1&pid=500040&iv=8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25"
+      },
+      {
+        "data": {
+          "filter": "||bid.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d": "KAE"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bid.g.doubleclick.net/xbbe/pixel?d=KAE"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/js-sha256-v1.min.js"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/1119126068252786?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||luckyorange.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "u": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "s": 83480
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://settings.luckyorange.net/?u=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&s=83480"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "bidder_id": 200442,
+            "bidder_uuid": "8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25",
+            "pid": 500040,
+            "it": 1,
+            "iv": "8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://i.liadm.com/s/56409?bidder_id=200442&bidder_uuid=8345903b-3bf6-4277-bc15-9b8a3afb65a6%3A1634242819.25&pid=500040&it=1&iv=8345903b-3bf6-4277-bc15-9b8a3afb65a6%3A1634242819.25"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dsp_id": 93,
+            "user_group": 1,
+            "user_id": "b45df9a7-2740-47ff-8cc2-5bb8ae2fe470",
+            "expires": 30,
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=bidswitch"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/syncd?dsp_id=93&user_group=1&user_id=b45df9a7-2740-47ff-8cc2-5bb8ae2fe470&expires=30&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dbidswitch"
+      },
+      {
+        "data": {
+          "filter": "||callrail.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.callrail.com/group/629580986/6c39c9f2947171b095c6b447/12/swap.js"
+      },
+      {
+        "data": {
+          "filter": "/fbevents.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "data": {
+          "filter": "||d10lpsik1i8c69.cloudfront.net^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d10lpsik1i8c69.cloudfront.net/w.js"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/js-sha256-v1.min.js"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://p.rfihub.com/cm?in=1&pub=21653&userid=${TM_USER_ID}",
+            "_test": "YWiRCwAAAE2ZLgAR"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D&_test=YWiRCwAAAE2ZLgAR"
+      },
+      {
+        "data": {
+          "filter": "||eyeota.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "uid": 7235745084599158000,
+            "bid": "omt9pi0"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ps.eyeota.net/match?uid=7235745084599157301&bid=omt9pi0"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/api/v2/pixel"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/api/v2/pixel"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://p.rfihub.com/cm?in=1&pub=21653&userid=${TM_USER_ID}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dsp_id": 119,
+            "user_id": 7235745084599158000,
+            "expires": 30
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/sync?dsp_id=119&user_id=7235745084599157301&expires=30"
+      },
+      {
+        "data": {
+          "filter": "||krxd.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "partner_id": "rfuel",
+            "partner_user_id": 7235745084599158000
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://beacon.krxd.net/usermatch.gif?partner_id=rfuel&partner_user_id=7235745084599157301"
+      },
+      {
+        "data": {
+          "filter": "||agkn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sid": 9212192898,
+            "rf": 7235745084599158000
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://aa.agkn.com/adscores/g.pixel?sid=9212192898&rf=7235745084599157301"
+      },
+      {
+        "data": {
+          "filter": "||tremorhub.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "UIRF": 7235745084599158000,
+            "r": "r3EOl0Unk4Hq"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://partners.tremorhub.com/sync?UIRF=7235745084599157301&r=r3EOl0Unk4Hq"
+      },
+      {
+        "data": {
+          "filter": "||rlcdn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "partner_uid": 7235745084599158000
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://idsync.rlcdn.com/360947.gif?partner_uid=7235745084599157301"
+      },
+      {
+        "data": {
+          "filter": "||rezync.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "c": "bd8618c307ae9885a12561b7191e2cea",
+            "cid": 7235745084599158000,
+            "referrer": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://live.rezync.com/pixel?c=bd8618c307ae9885a12561b7191e2cea&cid=7235745084599157301&referrer=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast"
+      },
+      {
+        "data": {
+          "filter": "||serving-sys.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "cn": "um",
+            "dpid": 12,
+            "rtu": "https://p.rfihub.com/cm?in=1&pub=17945&userid=[%tp_UserID%]"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bs.serving-sys.com/serving?cn=um&dpid=12&rtu=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D17945%26userid%3D%5B%25tp_UserID%25%5D"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=7235745084599157301&redir="
+      },
+      {
+        "data": {
+          "filter": "||bluekai.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 7235745084599158000,
+            "redir": "https://p.rfihub.com/cm?bk_uuid=$_BK_UUID&forward="
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stags.bluekai.com/site/4722?id=7235745084599157301&redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fbk_uuid%3D%24_BK_UUID%26forward%3D"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "entity": 18,
+            "code": 7235745084599158000
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/setuid?entity=18&code=7235745084599157301"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "": null,
+            "in": 0,
+            "google_nid": "zeta_interactive",
+            "google_cm": "",
+            "google_sc": "",
+            "google_hm": "NzIzNTc0NTA4NDU5OTE1NzMwMQ==",
+            "forward": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?&in=0&google_nid=zeta_interactive&google_cm=&google_sc=&google_hm=NzIzNTc0NTA4NDU5OTE1NzMwMQ==&forward="
+      },
+      {
+        "data": {
+          "filter": "/track?*http$image",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "action": "pageView",
+            "env": "js-web",
+            "tag_version": "4.0.0_450e737",
+            "buyer_pixel_id": 1842,
+            "referer": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=4.0.0_450e737&buyer_pixel_id=1842&referer=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sdkid": "C25EUNFMU8Q03RAI4CE0",
+            "hostname": "www.plannedparenthood.org"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=C25EUNFMU8Q03RAI4CE0&hostname=www.plannedparenthood.org"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/identify.js"
+      },
+      {
+        "data": {
+          "filter": "||quantserve.com/pixel;",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pixel.quantserve.com/pixel;r=1430364141;source=gtm;event=refresh;labels=_fp.event.Default;rf=0;a=p-f83mnHGect3fW;url=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast;uht=2;fpan=0;fpa=P0-540050623-1634242818380;pbc=;ns=0;ce=1;qjs=1;qv=00a3769c-20210929173447;cm=;gdpr=0;ref=;d=plannedparenthood.org;je=0;sr=375x812x24;dst=0;et=1634242826840;tzo=0;ogl=url.https%3A%2F%2Fwww%252Eplannedparenthood%252Eorg%2Fplanned-parenthood-gulf-coast%2Ctitle.Planned%20Parenthood%20Gulf%20Coast%252C%20Inc%252E%2Cdescription.Get%20Care%252E%20No%20Matter%20What%252E%20Planned%20Parenthood%20Gulf%20Coast%20guarantees%20everyone%20can%20"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": 10000,
+            "b": "Planned Parenthood Gulf Coast, Inc.",
+            ".yp": 10095773,
+            "f": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "enc": "UTF-8",
+            "yv": "1.10.1",
+            "tagmgr": "gtm"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&b=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&.yp=10095773&f=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&enc=UTF-8&yv=1.10.1&tagmgr=gtm"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": 10000,
+            "d": "Thu, 14 Oct 2021 20:20:26 GMT",
+            "n": 0,
+            "b": "Planned Parenthood Gulf Coast, Inc.",
+            ".yp": 10015862,
+            "f": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "enc": "UTF-8",
+            "yv": "1.10.1",
+            "tagmgr": "gtm"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Thu%2C%2014%20Oct%202021%2020%3A20%3A26%20GMT&n=0&b=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&.yp=10015862&f=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&enc=UTF-8&yv=1.10.1&tagmgr=gtm"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/p/action/5061699.js"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://script.hotjar.com/modules.1ead97d9cbfc02c8212d.js"
+      },
+      {
+        "data": {
+          "filter": "||rfihub.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ver": 9,
+            "rb": 24009,
+            "ca": 20833821,
+            "_o": 24009,
+            "_t": 20833821,
+            "pe": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "pf": "",
+            "ra": 7031341492473866
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=7031341492473866"
+      },
+      {
+        "data": {
+          "filter": "||quantcount.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://rules.quantcount.com/rules-p-f83mnHGect3fW.js"
+      },
+      {
+        "data": {
+          "filter": "/__utm.gif",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "utmwv": "5.7.2",
+            "utms": 2,
+            "utmn": 413554824,
+            "utmhn": "www.plannedparenthood.org",
+            "utmcs": "UTF-8",
+            "utmsr": "375x812",
+            "utmvp": "375x812",
+            "utmsc": "24-bit",
+            "utmul": "en-us",
+            "utmje": 0,
+            "utmfl": "-",
+            "utmdt": "Planned Parenthood Gulf Coast, Inc.",
+            "utmhid": 333840735,
+            "utmr": "-",
+            "utmp": "/planned-parenthood-gulf-coast",
+            "utmht": 1634242826402,
+            "utmac": "UA-8867852-42",
+            "utmgtm": "2wgad0N62L8SB",
+            "utmcc": "__utma=34810208.821379171.1634242815.1634242817.1634242817.1;+__utmz=34810208.1634242817.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none);",
+            "utmjid": "",
+            "utmu": "qmAgAABAAAGBAAAAAgAAAAAE~"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ssl.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=2&utmn=413554824&utmhn=www.plannedparenthood.org&utmcs=UTF-8&utmsr=375x812&utmvp=375x812&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&utmhid=333840735&utmr=-&utmp=%2Fplanned-parenthood-gulf-coast&utmht=1634242826402&utmac=UA-8867852-42&utmgtm=2wgad0N62L8SB&utmcc=__utma%3D34810208.821379171.1634242815.1634242817.1634242817.1%3B%2B__utmz%3D34810208.1634242817.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qmAgAABAAAGBAAAAAgAAAAAE~"
+      },
+      {
+        "data": {
+          "filter": "||ariane.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ariane.abtasty.com/"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sdkid": "C25EUNFMU8Q03RAI4CE0",
+            "lib": "ttq"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C25EUNFMU8Q03RAI4CE0&lib=ttq"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/scevent.min.js"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 6
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://static.hotjar.com/c/hotjar-1436451.js?sv=6"
+      },
+      {
+        "data": {
+          "filter": "||yimg.com/wi/ytc.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://s.yimg.com/wi/ytc.js"
+      },
+      {
+        "data": {
+          "filter": "/quant.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://secure.quantserve.com/quant.js"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://4558437.fls.doubleclick.net/activityi;src=4558437;type=plann0;cat=pporg001;ord=5250064345402;gtm=2wgad0;auiddc=1313107708.1634242816;u20=%2Fplanned-parenthood-gulf-coast;~oref=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast?"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/bat.js"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/ga.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ssl.google-analytics.com/ga.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j93",
+            "a": 333840735,
+            "t": "event",
+            "ni": 1,
+            "_s": 1,
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Planned Parenthood Gulf Coast, Inc.",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "ec": "Debugging",
+            "ea": "gtm.js",
+            "el": {
+              "event": "dataLayer_initialized",
+              "siteEnvironment": "PROD",
+              "language": "English",
+              "pageCategory": "C3 Affiliate Page",
+              "affiliateId": "91650",
+              "affiliateName": "Planned Parenthood Gulf Coast, Inc.",
+              "pageType": "Affiliate Page",
+              "gtm.uniqueEventId": 11
+            },
+            "_utma": "34810208.821379171.1634242815.1634242817.1634242817.1",
+            "_utmz": "34810208.1634242817.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "_utmht": 1634242826047,
+            "_u": "SCCCAUADQ~",
+            "jid": "",
+            "gjid": "",
+            "cid": 821379171.1634243,
+            "tid": "UA-8867852-25",
+            "sf": 15,
+            "_gid": 1829447741.1634243,
+            "gtm": "2wgad0KHVLK6X",
+            "cd38": "UA - Event - Debugging - str dLayer b",
+            "z": 1034155936
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j93&a=333840735&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&ul=en-us&de=UTF-8&dt=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&sd=24-bit&sr=375x812&vp=375x812&je=0&ec=Debugging&ea=gtm.js&el=%7B%22event%22%3A%22dataLayer_initialized%22%2C%22siteEnvironment%22%3A%22PROD%22%2C%22language%22%3A%22English%22%2C%22pageCategory%22%3A%22C3%20Affiliate%20Page%22%2C%22affiliateId%22%3A%2291650%22%2C%22affiliateName%22%3A%22Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.%22%2C%22pageType%22%3A%22Affiliate%20Page%22%2C%22gtm.uniqueEventId%22%3A11%7D&_utma=34810208.821379171.1634242815.1634242817.1634242817.1&_utmz=34810208.1634242817.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1634242826047&_u=SCCCAUADQ~&jid=&gjid=&cid=821379171.1634242815&tid=UA-8867852-25&sf=15&_gid=1829447741.1634242815&gtm=2wgad0KHVLK6X&cd38=UA%20-%20Event%20-%20Debugging%20-%20str%20dLayer%20b&z=1034155936"
+      },
+      {
+        "data": {
+          "filter": "||tealiumiq.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "callback": "ABTasty.TealiumCallback",
+            "rnd": 1634242825758
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://visitor-service-us-east-1.tealiumiq.com/plannedparenthood/main/017c80766a9400144a19d2565fc000087003f07f004bb?callback=ABTasty.TealiumCallback&rnd=1634242825758"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/gtm/js?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-WW77R9R",
+            "cid": 821379171.1634243
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/gtm/js?id=GTM-WW77R9R&cid=821379171.1634242815"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-KHVLK6X",
+            "l": "dataLayer"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHVLK6X&l=dataLayer"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-N62L8SB",
+            "l": "dataLayer"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N62L8SB&l=dataLayer"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-MZJZ59"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MZJZ59"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "||try.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://try.abtasty.com/cross-domain-iframe.html"
+      },
+      {
+        "data": {
+          "filter": "||try.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://try.abtasty.com/4a5beb0972e219edcff0400029191b52.js"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 5061699,
+            "tm": "gtm002",
+            "Ver": 2,
+            "mid": "0ad2021a-c34e-4e9e-be29-babb6ba6ac44",
+            "sid": "25c694d02d2c11ecab9479cef1c3ed5b",
+            "vid": "25c948602d2c11eca2c2e5217a240f03",
+            "vids": 1,
+            "evt": "pageHide"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/actionp/0?ti=5061699&tm=gtm002&Ver=2&mid=0ad2021a-c34e-4e9e-be29-babb6ba6ac44&sid=25c694d02d2c11ecab9479cef1c3ed5b&vid=25c948602d2c11eca2c2e5217a240f03&vids=1&evt=pageHide"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "rand": 1634225927303,
+            "pnid": 140,
+            "pcid": "cee5015d-8886-4054-991e-8a3f44caca3e"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/cm/p?rand=1634225927303&pnid=140&pcid=cee5015d-8886-4054-991e-8a3f44caca3e"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/js-sha256-v1.min.js"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "/pippio.",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "it": 1,
+            "pid": 500040,
+            "iv": "8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pippio.com/api/sync?it=1&pid=500040&iv=8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "bidder_id": 200442,
+            "it": 1,
+            "bidder_uuid": "8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25",
+            "pid": 500040,
+            "_li_chk": true,
+            "iv": "8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25",
+            "previous_uuid": "e8e4855dc77c44d4bf76f542f8ac9457"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://i.liadm.com/s/56409?bidder_id=200442&it=1&bidder_uuid=8345903b-3bf6-4277-bc15-9b8a3afb65a6%3A1634242819.25&pid=500040&_li_chk=true&iv=8345903b-3bf6-4277-bc15-9b8a3afb65a6%3A1634242819.25&previous_uuid=e8e4855dc77c44d4bf76f542f8ac9457"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pnid": 140,
+            "cb": 1634242820141
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/cm/s?pnid=140&cb=1634242820141"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 433242851216452,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "rl": "",
+            "if": false,
+            "ts": 1634242820398,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 29,
+            "fbp": "fb.1.1634242818481.1744717003",
+            "it": 1634242817266,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "exp": "p1",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=433242851216452&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242820398&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=29&fbp=fb.1.1634242818481.1744717003&it=1634242817266&coo=false&dpo=&tm=1&exp=p1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/js-sha256-v1.min.js"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||liadm.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "bidder_id": 200442,
+            "bidder_uuid": "8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25",
+            "pid": 500040,
+            "it": 1,
+            "iv": "8345903b-3bf6-4277-bc15-9b8a3afb65a6:1634242819.25"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://i.liadm.com/s/56409?bidder_id=200442&bidder_uuid=8345903b-3bf6-4277-bc15-9b8a3afb65a6%3A1634242819.25&pid=500040&it=1&iv=8345903b-3bf6-4277-bc15-9b8a3afb65a6%3A1634242819.25"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://p.rfihub.com/cm?in=1&pub=21653&userid=${TM_USER_ID}",
+            "_test": "YWiRAwAJIhRxbQA6"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/ct/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D&_test=YWiRAwAJIhRxbQA6"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "TheTradeDesk",
+            "google_cm": null,
+            "google_sc": null,
+            "google_hm": "YjQ1ZGY5YTctMjc0MC00N2ZmLThjYzItNWJiOGFlMmZlNDcw",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "ttd_tdid": "b45df9a7-2740-47ff-8cc2-5bb8ae2fe470"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=YjQ1ZGY5YTctMjc0MC00N2ZmLThjYzItNWJiOGFlMmZlNDcw&gdpr=0&gdpr_consent=&ttd_tdid=b45df9a7-2740-47ff-8cc2-5bb8ae2fe470"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "TheTradeDesk",
+            "google_cm": null,
+            "google_sc": null,
+            "google_hm": "YjQ1ZGY5YTctMjc0MC00N2ZmLThjYzItNWJiOGFlMmZlNDcw",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "ttd_tdid": "b45df9a7-2740-47ff-8cc2-5bb8ae2fe470"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=YjQ1ZGY5YTctMjc0MC00N2ZmLThjYzItNWJiOGFlMmZlNDcw&gdpr=0&gdpr_consent=&ttd_tdid=b45df9a7-2740-47ff-8cc2-5bb8ae2fe470"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j93",
+            "a": 1823383650,
+            "t": "event",
+            "ni": 1,
+            "_s": 1,
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Planned Parenthood Gulf Coast, Inc.",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "ec": "Debugging",
+            "ea": "optimize.callback",
+            "_utma": "34810208.821379171.1634242815.1634242817.1634242817.1",
+            "_utmz": "34810208.1634242817.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "_utmht": 1634242819801,
+            "_u": "aGDCAUADQAAAAG~",
+            "jid": "",
+            "gjid": "",
+            "cid": 821379171.1634243,
+            "tid": "UA-8867852-25",
+            "_gid": 1829447741.1634243,
+            "gtm": "2wgad0KHVLK6X",
+            "cd38": "UA - Event - Debugging str dLayer",
+            "z": 1943499879
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j93&a=1823383650&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&ul=en-us&de=UTF-8&dt=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&sd=24-bit&sr=375x812&vp=375x812&je=0&ec=Debugging&ea=optimize.callback&_utma=34810208.821379171.1634242815.1634242817.1634242817.1&_utmz=34810208.1634242817.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1634242819801&_u=aGDCAUADQAAAAG~&jid=&gjid=&cid=821379171.1634242815&tid=UA-8867852-25&_gid=1829447741.1634242815&gtm=2wgad0KHVLK6X&cd38=UA%20-%20Event%20-%20Debugging%20str%20dLayer&z=1943499879"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 6
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://in.hotjar.com/api/v2/client/sites/1436451/visit-data?sv=6"
+      },
+      {
+        "data": {
+          "filter": "||eyeota.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "uid": 7235745084599158000,
+            "bid": "omt9pi0"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ps.eyeota.net/match?uid=7235745084599157301&bid=omt9pi0"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "et:ibs%7cdata:dpid": 1121,
+            "dpuuid": 7235745084599158000,
+            "redir": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=1121&dpuuid=7235745084599157301&redir="
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 342839232873627,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "rl": "",
+            "if": false,
+            "ts": 1634242819081,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 28,
+            "fbp": "fb.1.1634242818481.1744717003",
+            "it": 1634242817266,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "exp": "p1",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=342839232873627&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242819081&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634242818481.1744717003&it=1634242817266&coo=false&dpo=&tm=1&exp=p1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/433242851216452?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/js-sha256-v1.min.js"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/p"
+      },
+      {
+        "data": {
+          "filter": "||everesttech.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "redir": "https://p.rfihub.com/cm?in=1&pub=21653&userid=${TM_USER_ID}"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sync-tm.everesttech.net/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dsp_id": 119,
+            "user_id": 7235745084599158000,
+            "expires": 30
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/sync?dsp_id=119&user_id=7235745084599157301&expires=30"
+      },
+      {
+        "data": {
+          "filter": "||krxd.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "partner_id": "rfuel",
+            "partner_user_id": 7235745084599158000
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://beacon.krxd.net/usermatch.gif?partner_id=rfuel&partner_user_id=7235745084599157301"
+      },
+      {
+        "data": {
+          "filter": "||agkn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sid": 9212192898,
+            "rf": 7235745084599158000
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://aa.agkn.com/adscores/g.pixel?sid=9212192898&rf=7235745084599157301"
+      },
+      {
+        "data": {
+          "filter": "||tremorhub.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "UIRF": 7235745084599158000,
+            "r": "p7Bdj-FH-aYS"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://partners.tremorhub.com/sync?UIRF=7235745084599157301&r=p7Bdj-FH-aYS"
+      },
+      {
+        "data": {
+          "filter": "||rlcdn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "partner_uid": 7235745084599158000
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://idsync.rlcdn.com/360947.gif?partner_uid=7235745084599157301"
+      },
+      {
+        "data": {
+          "filter": "||rezync.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "c": "bd8618c307ae9885a12561b7191e2cea",
+            "cid": 7235745084599158000,
+            "referrer": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://live.rezync.com/pixel?c=bd8618c307ae9885a12561b7191e2cea&cid=7235745084599157301&referrer=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast"
+      },
+      {
+        "data": {
+          "filter": "||serving-sys.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "cn": "um",
+            "dpid": 12,
+            "rtu": "https://p.rfihub.com/cm?in=1&pub=17945&userid=[%tp_UserID%]"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bs.serving-sys.com/serving?cn=um&dpid=12&rtu=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D17945%26userid%3D%5B%25tp_UserID%25%5D"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=7235745084599157301&redir="
+      },
+      {
+        "data": {
+          "filter": "||bluekai.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 7235745084599158000,
+            "redir": "https://p.rfihub.com/cm?bk_uuid=$_BK_UUID&forward="
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stags.bluekai.com/site/4722?id=7235745084599157301&redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fbk_uuid%3D%24_BK_UUID%26forward%3D"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "entity": 18,
+            "code": 7235745084599158000
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/setuid?entity=18&code=7235745084599157301"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "": null,
+            "in": 0,
+            "google_nid": "zeta_interactive",
+            "google_cm": "",
+            "google_sc": "",
+            "google_hm": "NzIzNTc0NTA4NDU5OTE1NzMwMQ==",
+            "forward": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?&in=0&google_nid=zeta_interactive&google_cm=&google_sc=&google_hm=NzIzNTc0NTA4NDU5OTE1NzMwMQ==&forward="
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://tr.snapchat.com/cm/i?pid=e28abec5-490a-43ca-a207-2bb7cf6e0a47",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/scevent.min.js"
+      },
+      {
+        "data": {
+          "filter": "/track?*http$image",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "action": "pageView",
+            "env": "js-web",
+            "tag_version": "4.0.0_450e737",
+            "buyer_pixel_id": 1842,
+            "referer": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=4.0.0_450e737&buyer_pixel_id=1842&referer=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/api/v2/pixel"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/api/v2/pixel"
+      },
+      {
+        "data": {
+          "filter": "||tealiumiq.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://collect.tealiumiq.com/plannedparenthood/main/2/i.gif"
+      },
+      {
+        "data": {
+          "filter": "||d10lpsik1i8c69.cloudfront.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "6ea758b"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d10lpsik1i8c69.cloudfront.net/js/clickstream.js?v=6ea758b"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "uid": "b45df9a7-2740-47ff-8cc2-5bb8ae2fe470",
+            "_origin": 1,
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "verify": true
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ups.analytics.yahoo.com/ups/55953/sync?uid=b45df9a7-2740-47ff-8cc2-5bb8ae2fe470&_origin=1&gdpr=0&gdpr_consent=&verify=true"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 1119126068252786,
+            "ev": "PageView",
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "rl": "",
+            "if": false,
+            "ts": 1634242818497,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 28,
+            "fbp": "fb.1.1634242818481.1744717003",
+            "it": 1634242817266,
+            "coo": false,
+            "dpo": "",
+            "tm": 1,
+            "exp": "p1",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=1119126068252786&ev=PageView&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&rl=&if=false&ts=1634242818497&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=28&fbp=fb.1.1634242818481.1744717003&it=1634242817266&coo=false&dpo=&tm=1&exp=p1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/342839232873627?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||quantserve.com/pixel;",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pixel.quantserve.com/pixel;r=1580763124;source=gtm;event=refresh;labels=_fp.event.Default;rf=0;a=p-f83mnHGect3fW;url=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast;uht=2;fpan=1;fpa=P0-540050623-1634242818380;pbc=;ns=0;ce=1;qjs=1;qv=00a3769c-20210929173447;cm=;gdpr=0;ref=;d=plannedparenthood.org;je=0;sr=375x812x24;dst=0;et=1634242818380;tzo=0;ogl=url.https%3A%2F%2Fwww%252Eplannedparenthood%252Eorg%2Fplanned-parenthood-gulf-coast%2Ctitle.Planned%20Parenthood%20Gulf%20Coast%252C%20Inc%252E%2Cdescription.Get%20Care%252E%20No%20Matter%20What%252E%20Planned%20Parenthood%20Gulf%20Coast%20guarantees%20everyone%20can%20"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/js-sha256-v1.min.js"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "uid": "b45df9a7-2740-47ff-8cc2-5bb8ae2fe470",
+            "_origin": 1,
+            "gdpr": 0,
+            "gdpr_consent": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ups.analytics.yahoo.com/ups/55953/sync?uid=b45df9a7-2740-47ff-8cc2-5bb8ae2fe470&_origin=1&gdpr=0&gdpr_consent="
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://vars.hotjar.com/box-acff0d328b74363875a0a6075e6c8439.html"
+      },
+      {
+        "data": {
+          "filter": "||tr.snapchat.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pid": "e28abec5-490a-43ca-a207-2bb7cf6e0a47"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tr.snapchat.com/cm/i?pid=e28abec5-490a-43ca-a207-2bb7cf6e0a47"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": 10000,
+            "b": "Planned Parenthood Gulf Coast, Inc.",
+            ".yp": 10095773,
+            "f": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "enc": "UTF-8",
+            "yv": "1.10.1",
+            "tagmgr": "tealium,gtm"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&b=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&.yp=10095773&f=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&enc=UTF-8&yv=1.10.1&tagmgr=tealium%2Cgtm"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": 10000,
+            "d": "Thu, 14 Oct 2021 20:20:17 GMT",
+            "n": 0,
+            "b": "Planned Parenthood Gulf Coast, Inc.",
+            ".yp": 10015862,
+            "f": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "enc": "UTF-8",
+            "yv": "1.10.1",
+            "tagmgr": "tealium,gtm"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Thu%2C%2014%20Oct%202021%2020%3A20%3A17%20GMT&n=0&b=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&.yp=10015862&f=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&enc=UTF-8&yv=1.10.1&tagmgr=tealium%2Cgtm"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 5061699,
+            "tm": "gtm002",
+            "Ver": 2,
+            "mid": "0ad2021a-c34e-4e9e-be29-babb6ba6ac44",
+            "sid": "25c694d02d2c11ecab9479cef1c3ed5b",
+            "vid": "25c948602d2c11eca2c2e5217a240f03",
+            "vids": 1,
+            "pi": 0,
+            "lg": "en-US",
+            "sw": 375,
+            "sh": 812,
+            "sc": 24,
+            "tl": "Planned Parenthood Gulf Coast, Inc.",
+            "p": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "r": "",
+            "lt": 2438,
+            "evt": "pageLoad",
+            "msclkid": "N",
+            "sv": 1,
+            "rn": 42288
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/action/0?ti=5061699&tm=gtm002&Ver=2&mid=0ad2021a-c34e-4e9e-be29-babb6ba6ac44&sid=25c694d02d2c11ecab9479cef1c3ed5b&vid=25c948602d2c11eca2c2e5217a240f03&vids=1&pi=0&lg=en-US&sw=375&sh=812&sc=24&tl=Planned%20Parenthood%20Gulf%20Coast,%20Inc.&p=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&r=&lt=2438&evt=pageLoad&msclkid=N&sv=1&rn=42288"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/p/action/5061699.js"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sdkid": "C25EUNFMU8Q03RAI4CE0",
+            "hostname": "www.plannedparenthood.org"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=C25EUNFMU8Q03RAI4CE0&hostname=www.plannedparenthood.org"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/identify.js"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/1119126068252786?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||luckyorange.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "u": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "s": 83480
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://settings.luckyorange.net/?u=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&s=83480"
+      },
+      {
+        "data": {
+          "filter": "||quantcount.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://rules.quantcount.com/rules-p-f83mnHGect3fW.js"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://script.hotjar.com/modules.1ead97d9cbfc02c8212d.js"
+      },
+      {
+        "data": {
+          "filter": "||rfihub.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ver": 9,
+            "rb": 24009,
+            "ca": 20833821,
+            "_o": 24009,
+            "_t": 20833821,
+            "pe": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "pf": "",
+            "ra": "0709766440621793"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://20833821p.rfihub.com/ca.html?ver=9&rb=24009&ca=20833821&_o=24009&_t=20833821&pe=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&pf=&ra=0709766440621793"
+      },
+      {
+        "data": {
+          "filter": "||bid.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d": "KAE"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bid.g.doubleclick.net/xbbe/pixel?d=KAE"
+      },
+      {
+        "data": {
+          "filter": "/__utm.gif",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "utmwv": "5.7.2",
+            "utms": 1,
+            "utmn": 1097254154,
+            "utmhn": "www.plannedparenthood.org",
+            "utmcs": "UTF-8",
+            "utmsr": "375x812",
+            "utmvp": "375x812",
+            "utmsc": "24-bit",
+            "utmul": "en-us",
+            "utmje": 0,
+            "utmfl": "-",
+            "utmdt": "Planned Parenthood Gulf Coast, Inc.",
+            "utmhid": 1823383650,
+            "utmr": "-",
+            "utmp": "/planned-parenthood-gulf-coast",
+            "utmht": 1634242816764,
+            "utmac": "UA-8867852-42",
+            "utmgtm": "2wgad0N62L8SB",
+            "utmcc": "__utma=34810208.821379171.1634242815.1634242817.1634242817.1;+__utmz=34810208.1634242817.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none);",
+            "utmjid": 1652485888,
+            "utmredir": 1,
+            "utmu": "qmAgAABAAAGBAAAAAgABAAAE~"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ssl.google-analytics.com/j/__utm.gif?utmwv=5.7.2&utms=1&utmn=1097254154&utmhn=www.plannedparenthood.org&utmcs=UTF-8&utmsr=375x812&utmvp=375x812&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&utmhid=1823383650&utmr=-&utmp=%2Fplanned-parenthood-gulf-coast&utmht=1634242816764&utmac=UA-8867852-42&utmgtm=2wgad0N62L8SB&utmcc=__utma%3D34810208.821379171.1634242815.1634242817.1634242817.1%3B%2B__utmz%3D34810208.1634242817.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1652485888&utmredir=1&utmu=qmAgAABAAAGBAAAAAgABAAAE~"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3Db45df9a7-2740-47ff-8cc2-5bb8ae2fe470": null
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3Db45df9a7-2740-47ff-8cc2-5bb8ae2fe470"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID": null,
+            "ttd_tdid": "b45df9a7-2740-47ff-8cc2-5bb8ae2fe470"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=b45df9a7-2740-47ff-8cc2-5bb8ae2fe470"
+      },
+      {
+        "data": {
+          "filter": "||ariane.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ariane.abtasty.com/"
+      },
+      {
+        "data": {
+          "filter": "||stats.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "t": "dc",
+            "aip": 1,
+            "_r": 3,
+            "v": 1,
+            "_v": "j93",
+            "tid": "UA-8867852-25",
+            "cid": 821379171.1634243,
+            "jid": 605309863,
+            "gjid": 1621646762,
+            "_gid": 1829447741.1634243,
+            "_u": "aGDAAUADQAAAAG~",
+            "z": 692054747
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j93&tid=UA-8867852-25&cid=821379171.1634242815&jid=605309863&gjid=1621646762&_gid=1829447741.1634242815&_u=aGDAAUADQAAAAG~&z=692054747"
+      },
+      {
+        "data": {
+          "filter": "||callrail.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.callrail.com/group/629580986/6c39c9f2947171b095c6b447/12/swap.js"
+      },
+      {
+        "data": {
+          "filter": "/fbevents.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "data": {
+          "filter": "||d10lpsik1i8c69.cloudfront.net^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d10lpsik1i8c69.cloudfront.net/w.js"
+      },
+      {
+        "data": {
+          "filter": "/collect?*&cid=",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j93",
+            "a": 1823383650,
+            "t": "event",
+            "ni": 1,
+            "_s": 1,
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Planned Parenthood Gulf Coast, Inc.",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "ec": "Page Load Time",
+            "ea": "02 seconds",
+            "el": "/planned-parenthood-gulf-coast",
+            "ev": 2438,
+            "_u": "aGDAAUADQAAAAG~",
+            "jid": 587081566,
+            "gjid": 1158399313,
+            "cid": 821379171.1634243,
+            "tid": "UA-8867852-26",
+            "_gid": 1829447741.1634243,
+            "_r": 1,
+            "gtm": "2wgad0MZJZ59",
+            "cd4": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "cd5": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+            "cd7": 371,
+            "cd8": 1634242813196,
+            "cd1": 821379171.1634243,
+            "cd3": "",
+            "cd2": "Thu Oct 14 2021 20:20:15 GMT+0000 (Coordinated Universal Time)",
+            "cm1": 1473,
+            "cm2": 2438,
+            "cm3": 1,
+            "z": 878138372
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1823383650&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&ul=en-us&de=UTF-8&dt=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&sd=24-bit&sr=375x812&vp=375x812&je=0&ec=Page%20Load%20Time&ea=02%20seconds&el=%2Fplanned-parenthood-gulf-coast&ev=2438&_u=aGDAAUADQAAAAG~&jid=587081566&gjid=1158399313&cid=821379171.1634242815&tid=UA-8867852-26&_gid=1829447741.1634242815&_r=1&gtm=2wgad0MZJZ59&cd4=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&cd5=Mozilla%2F5.0%20(iPhone%3B%20CPU%20iPhone%20OS%2011_0%20like%20Mac%20OS%20X)%20AppleWebKit%2F604.1.38%20(KHTML%2C%20like%20Gecko)%20Version%2F11.0%20Mobile%2F15A372%20Safari%2F604.1&cd7=371&cd8=1634242813196&cd1=821379171.1634242815&cd3=&cd2=Thu%20Oct%2014%202021%2020%3A20%3A15%20GMT%2B0000%20(Coordinated%20Universal%20Time)&cm1=1473&cm2=2438&cm3=1&z=878138372"
+      },
+      {
+        "data": {
+          "filter": "||analytics.tiktok.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sdkid": "C25EUNFMU8Q03RAI4CE0",
+            "lib": "ttq"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C25EUNFMU8Q03RAI4CE0&lib=ttq"
+      },
+      {
+        "data": {
+          "filter": "||sc-static.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://sc-static.net/scevent.min.js"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 6
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://static.hotjar.com/c/hotjar-1436451.js?sv=6"
+      },
+      {
+        "data": {
+          "filter": "||yimg.com/wi/ytc.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://s.yimg.com/wi/ytc.js"
+      },
+      {
+        "data": {
+          "filter": "/quant.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://secure.quantserve.com/quant.js"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://4558437.fls.doubleclick.net/activityi;src=4558437;type=plann0;cat=pporg001;ord=6229863385561;gtm=2wgad0;auiddc=1313107708.1634242816;u20=%2Fplanned-parenthood-gulf-coast;~oref=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast?"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/bat.js"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/ga.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ssl.google-analytics.com/ga.js"
+      },
+      {
+        "data": {
+          "filter": "/collect?*&cid=",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j93",
+            "a": 1823383650,
+            "t": "event",
+            "ni": 1,
+            "_s": 1,
+            "dl": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Planned Parenthood Gulf Coast, Inc.",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "ec": "Debugging",
+            "ea": "gtm.js",
+            "el": {
+              "event": "dataLayer_initialized",
+              "siteEnvironment": "PROD",
+              "language": "English",
+              "pageCategory": "C3 Affiliate Page",
+              "affiliateId": "91650",
+              "affiliateName": "Planned Parenthood Gulf Coast, Inc.",
+              "pageType": "Affiliate Page",
+              "gtm.uniqueEventId": 11
+            },
+            "_u": "aGDAAUADQAAAAG~",
+            "jid": 605309863,
+            "gjid": 1621646762,
+            "cid": 821379171.1634243,
+            "tid": "UA-8867852-25",
+            "sf": 15,
+            "_gid": 1829447741.1634243,
+            "_r": 1,
+            "gtm": "2wgad0KHVLK6X",
+            "cd38": "UA - Event - Debugging - str dLayer b",
+            "z": 143663825
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1823383650&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.plannedparenthood.org%2Fplanned-parenthood-gulf-coast&ul=en-us&de=UTF-8&dt=Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.&sd=24-bit&sr=375x812&vp=375x812&je=0&ec=Debugging&ea=gtm.js&el=%7B%22event%22%3A%22dataLayer_initialized%22%2C%22siteEnvironment%22%3A%22PROD%22%2C%22language%22%3A%22English%22%2C%22pageCategory%22%3A%22C3%20Affiliate%20Page%22%2C%22affiliateId%22%3A%2291650%22%2C%22affiliateName%22%3A%22Planned%20Parenthood%20Gulf%20Coast%2C%20Inc.%22%2C%22pageType%22%3A%22Affiliate%20Page%22%2C%22gtm.uniqueEventId%22%3A11%7D&_u=aGDAAUADQAAAAG~&jid=605309863&gjid=1621646762&cid=821379171.1634242815&tid=UA-8867852-25&sf=15&_gid=1829447741.1634242815&_r=1&gtm=2wgad0KHVLK6X&cd38=UA%20-%20Event%20-%20Debugging%20-%20str%20dLayer%20b&z=143663825"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "||stats.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "t": "dc",
+            "aip": 1,
+            "_r": 3,
+            "v": 1,
+            "_v": "j93",
+            "tid": "UA-8867852-1",
+            "cid": 821379171.1634243,
+            "jid": 882951928,
+            "gjid": 2038739713,
+            "_gid": 1829447741.1634243,
+            "_u": "aGDAgUADQAAAAE~",
+            "z": 1941806716
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j93&tid=UA-8867852-1&cid=821379171.1634242815&jid=882951928&gjid=2038739713&_gid=1829447741.1634242815&_u=aGDAgUADQAAAAE~&z=1941806716"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-KHVLK6X",
+            "l": "dataLayer"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHVLK6X&l=dataLayer"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-N62L8SB",
+            "l": "dataLayer"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N62L8SB&l=dataLayer"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/gtm/js?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-WW77R9R",
+            "cid": 821379171.1634243
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/gtm/js?id=GTM-WW77R9R&cid=821379171.1634242815"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-MZJZ59"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MZJZ59"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "||try.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://try.abtasty.com/cross-domain-iframe.html"
+      },
+      {
+        "data": {
+          "filter": "||try.abtasty.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.plannedparenthood.org/planned-parenthood-gulf-coast",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://try.abtasty.com/4a5beb0972e219edcff0400029191b52.js"
+      }
+    ]
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "title": "Blacklight - API Request",
+  "uri_ins": "http://www.gatewayrehab.org",
+  "uri_dest": "https://www.gatewayrehab.org/",
+  "uri_redirects": [
+    "http://www.gatewayrehab.org/"
+  ],
+  "secure_connection": {},
+  "host": "www.gatewayrehab.org",
+  "config": {
+    "clearCache": true,
+    "captureHar": true,
+    "captureLinks": false,
+    "enableAdBlock": false,
+    "emulateDevice": "iPhone X",
+    "numPages": 1
+  },
+  "browser": {
+    "name": "Chromium",
+    "version": "HeadlessChrome/85.0.4182.0",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/85.0.4182.0 Safari/537.36",
+    "platform": {
+      "name": "Linux",
+      "version": "4.14.243-194.434.amzn2.x86_64"
+    }
+  },
+  "script": {
+    "host": "169.254.16.25",
+    "version": {
+      "npm": "2.1.10",
+      "commit": null
+    },
+    "node_version": "v12.22.4"
+  },
+  "start_time": "2021-10-20T14:37:15.870Z",
+  "end_time": "2021-10-20T14:37:25.299Z",
+  "deviceEmulated": {
+    "name": "iPhone X",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+    "viewport": {
+      "width": 375,
+      "height": 812,
+      "deviceScaleFactor": 3,
+      "isMobile": true,
+      "hasTouch": true,
+      "isLandscape": false
+    }
+  },
+  "browsing_history": [
+    "https://www.gatewayrehab.org/",
+    "https://www.gatewayrehab.org/services/adolescent-programs"
+  ],
+  "hosts": {
+    "requests": {
+      "first_party": [
+        "www.gatewayrehab.org"
+      ],
+      "third_party": [
+        "fonts.googleapis.com",
+        "storage.googleapis.com",
+        "ajax.googleapis.com",
+        "use.fontawesome.com",
+        "static.ctctcdn.com",
+        "www.googletagmanager.com",
+        "widgets.theglobalcdn.com",
+        "fonts.gstatic.com",
+        "cdnjs.cloudflare.com",
+        "www.google-analytics.com",
+        "static.hotjar.com",
+        "www.google.com",
+        "script.hotjar.com",
+        "www.gstatic.com",
+        "vars.hotjar.com",
+        "stats.g.doubleclick.net",
+        "listgrowth.ctctcdn.com",
+        "in.hotjar.com"
+      ]
+    }
+  },
+  "reports": {
+    "behaviour_event_listeners": {
+      "MOUSE": {
+        "https://storage.googleapis.com/treatspace-prod-cdn/New/BasicFramework/gz/accessibility-widget.min.js.gz": [
+          "click"
+        ],
+        "https://script.hotjar.com/modules.fe297aa05ddc2e3e1113.js": [
+          "scroll",
+          "mousemove",
+          "click"
+        ],
+        "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js": [
+          "click"
+        ],
+        "https://www.googletagmanager.com/gtm.js?id=GTM-MTKNFTG": [
+          "click"
+        ]
+      },
+      "KEYBOARD": {
+        "https://script.hotjar.com/modules.fe297aa05ddc2e3e1113.js": [
+          "keypress"
+        ],
+        "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js": [
+          "keyup",
+          "keydown"
+        ]
+      }
+    },
+    "canvas_fingerprinters": {
+      "data_url": {},
+      "fingerprinters": [],
+      "styles": {},
+      "texts": {}
+    },
+    "canvas_font_fingerprinters": {
+      "canvas_font": {},
+      "text_measure": {}
+    },
+    "cookies": [
+      {
+        "name": "_GRECAPTCHA",
+        "value": "09AINsHFfvpdphmKHNrPfZQJq8A95aa1VCDuTAA4_nXoQnEXNAkx-AB4G5tBXwbKcqhETSUUwgFImLgikScMmsB-o",
+        "domain": "www.google.com",
+        "path": "/recaptcha",
+        "expires": "2022-04-18T14:37:19.950Z",
+        "size": 100,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "High",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "csrftoken",
+        "value": "1Em0zJqfZ1JViLcENV3tqzTp1q1yCKPnZAUymB9PDyVVdYyYYdSZVe8pwdWoXylb",
+        "domain": "www.gatewayrehab.org",
+        "path": "/",
+        "expires": "2022-10-19T14:37:22.263Z",
+        "size": 73,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "_ga",
+        "value": "GA1.2.320756008.1634740638",
+        "domain": "gatewayrehab.org",
+        "path": "/",
+        "expires": "2023-10-20T14:37:22.000Z",
+        "size": 29,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_gid",
+        "value": "GA1.2.697333244.1634740638",
+        "domain": "gatewayrehab.org",
+        "path": "/",
+        "expires": "2021-10-21T14:37:22.000Z",
+        "size": 30,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_gat_UA-197998741-1",
+        "value": "1",
+        "domain": "gatewayrehab.org",
+        "path": "/",
+        "expires": "2021-10-20T14:38:18.000Z",
+        "size": 20,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_hjid",
+        "value": "a41929b6-e5b5-486a-82e7-385d900d4525",
+        "domain": "gatewayrehab.org",
+        "path": "/",
+        "expires": "2022-10-20T14:37:18.000Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_hjFirstSeen",
+        "value": "1",
+        "domain": "gatewayrehab.org",
+        "path": "/",
+        "expires": "2021-10-20T15:07:18.000Z",
+        "size": 13,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_hjIncludedInPageviewSample",
+        "value": "1",
+        "domain": "www.gatewayrehab.org",
+        "path": "/",
+        "expires": "2021-10-20T14:39:22.000Z",
+        "size": 28,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "_hjAbsoluteSessionInProgress",
+        "value": "0",
+        "domain": "gatewayrehab.org",
+        "path": "/",
+        "expires": "2021-10-20T15:07:22.000Z",
+        "size": 29,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      }
+    ],
+    "fb_pixel_events": [],
+    "key_logging": {},
+    "session_recorders": {
+      "script.hotjar.com": [
+        "script.hotjar.com/modules.fe297aa05ddc2e3e1113.js"
+      ],
+      "static.hotjar.com": [
+        "static.hotjar.com/c/hotjar-2455436.js"
+      ]
+    },
+    "third_party_trackers": [
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 7
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/services/adolescent-programs",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://in.hotjar.com/api/v2/client/sites/2455436/visit-data?sv=7"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://vars.hotjar.com/box-d09a446edefba0dcce5d5143e1840e9a.html"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/services/adolescent-programs",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://script.hotjar.com/modules.fe297aa05ddc2e3e1113.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j94",
+            "a": 787980861,
+            "t": "pageview",
+            "_s": 1,
+            "dl": "https://www.gatewayrehab.org/services/adolescent-programs",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Drug Treatment Centers - Pittsburgh, PA | Drug Rehab Near Me",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "_u": "QACAAEAB~",
+            "jid": "",
+            "gjid": "",
+            "cid": 320756008.1634741,
+            "tid": "UA-197998741-1",
+            "_gid": 697333244.1634741,
+            "gtm": "2wgai0MTKNFTG",
+            "z": 529253584
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/services/adolescent-programs",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j94&a=787980861&t=pageview&_s=1&dl=https%3A%2F%2Fwww.gatewayrehab.org%2Fservices%2Fadolescent-programs&ul=en-us&de=UTF-8&dt=Drug%20Treatment%20Centers%20-%20Pittsburgh%2C%20PA%20%7C%20Drug%20Rehab%20Near%20Me&sd=24-bit&sr=375x812&vp=375x812&je=0&_u=QACAAEAB~&jid=&gjid=&cid=320756008.1634740638&tid=UA-197998741-1&_gid=697333244.1634740638&gtm=2wgai0MTKNFTG&z=529253584"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 7
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/services/adolescent-programs",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://static.hotjar.com/c/hotjar-2455436.js?sv=7"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/services/adolescent-programs",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-MTKNFTG"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/services/adolescent-programs",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MTKNFTG"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 7
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://in.hotjar.com/api/v2/client/sites/2455436/visit-data?sv=7"
+      },
+      {
+        "data": {
+          "filter": "||stats.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "t": "dc",
+            "aip": 1,
+            "_r": 3,
+            "v": 1,
+            "_v": "j94",
+            "tid": "UA-197998741-1",
+            "cid": 320756008.1634741,
+            "jid": 1540128822,
+            "gjid": 622909487,
+            "_gid": 697333244.1634741,
+            "_u": "YEBAAEAAAAAAAC~",
+            "z": 821562524
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j94&tid=UA-197998741-1&cid=320756008.1634740638&jid=1540128822&gjid=622909487&_gid=697333244.1634740638&_u=YEBAAEAAAAAAAC~&z=821562524"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://vars.hotjar.com/box-d09a446edefba0dcce5d5143e1840e9a.html"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://script.hotjar.com/modules.fe297aa05ddc2e3e1113.js"
+      },
+      {
+        "data": {
+          "filter": "/collect?*&cid=",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j94",
+            "a": 1765291943,
+            "t": "pageview",
+            "_s": 1,
+            "dl": "https://www.gatewayrehab.org/",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Addiction Treatment Centers - Pittsburgh | Alcohol Rehab Near Me",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "_u": "YEBAAEABAAAAAC~",
+            "jid": 1540128822,
+            "gjid": 622909487,
+            "cid": 320756008.1634741,
+            "tid": "UA-197998741-1",
+            "_gid": 697333244.1634741,
+            "_r": 1,
+            "gtm": "2wgai0MTKNFTG",
+            "z": 1699612180
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j94&a=1765291943&t=pageview&_s=1&dl=https%3A%2F%2Fwww.gatewayrehab.org%2F&ul=en-us&de=UTF-8&dt=Addiction%20Treatment%20Centers%20-%20Pittsburgh%20%7C%20Alcohol%20Rehab%20Near%20Me&sd=24-bit&sr=375x812&vp=375x812&je=0&_u=YEBAAEABAAAAAC~&jid=1540128822&gjid=622909487&cid=320756008.1634740638&tid=UA-197998741-1&_gid=697333244.1634740638&_r=1&gtm=2wgai0MTKNFTG&z=1699612180"
+      },
+      {
+        "data": {
+          "filter": "||hotjar.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sv": 7
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://static.hotjar.com/c/hotjar-2455436.js?sv=7"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-MTKNFTG"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.gatewayrehab.org/",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MTKNFTG"
+      }
+    ]
+  }
+}

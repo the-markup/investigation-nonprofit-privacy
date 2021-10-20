@@ -1,0 +1,5039 @@
+{
+  "title": "Blacklight - API Request",
+  "uri_ins": "http://cityofhope.org",
+  "uri_dest": "https://www.cityofhope.org/homepage",
+  "uri_redirects": [
+    "http://cityofhope.org/",
+    "https://cityofhope.org/",
+    "https://www.cityofhope.org/"
+  ],
+  "secure_connection": {},
+  "host": "cityofhope.org",
+  "config": {
+    "clearCache": true,
+    "captureHar": true,
+    "captureLinks": false,
+    "enableAdBlock": false,
+    "emulateDevice": "iPhone X",
+    "numPages": 1
+  },
+  "browser": {
+    "name": "Chromium",
+    "version": "HeadlessChrome/85.0.4182.0",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/85.0.4182.0 Safari/537.36",
+    "platform": {
+      "name": "Linux",
+      "version": "4.14.243-194.434.amzn2.x86_64"
+    }
+  },
+  "script": {
+    "host": "169.254.16.25",
+    "version": {
+      "npm": "2.1.10",
+      "commit": null
+    },
+    "node_version": "v12.22.4"
+  },
+  "start_time": "2021-10-20T14:39:40.146Z",
+  "end_time": "2021-10-20T14:40:07.052Z",
+  "deviceEmulated": {
+    "name": "iPhone X",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+    "viewport": {
+      "width": 375,
+      "height": 812,
+      "deviceScaleFactor": 3,
+      "isMobile": true,
+      "hasTouch": true,
+      "isLandscape": false
+    }
+  },
+  "browsing_history": [
+    "https://www.cityofhope.org/homepage",
+    "https://www.cityofhope.org/patients/living-with-cancer/patient-education"
+  ],
+  "hosts": {
+    "requests": {
+      "first_party": [
+        "cityofhope.org",
+        "www.cityofhope.org",
+        "e.cityofhope.org"
+      ],
+      "third_party": [
+        "maxcdn.bootstrapcdn.com",
+        "ajax.googleapis.com",
+        "assets.adobedtm.com",
+        "players.brightcove.net",
+        "sadmin.brightcove.com",
+        "platform.twitter.com",
+        "s7.addthis.com",
+        "cdn.monsido.com",
+        "cdn.rawgit.com",
+        "cityofhope.tt.omtrdc.net",
+        "www.googletagmanager.com",
+        "fonts.googleapis.com",
+        "cdn.jsdelivr.net",
+        "tags.tiqcdn.com",
+        "tracking.monsido.com",
+        "z.moatads.com",
+        "fonts.gstatic.com",
+        "tags.wdsvc.net",
+        "secure.quantserve.com",
+        "connect.facebook.net",
+        "login.dotomi.com",
+        "acdn.adnxs.com",
+        "amplify.outbrain.com",
+        "media.msg.dotomi.com",
+        "secure.adnxs.com",
+        "ad.doubleclick.net",
+        "insight.adsrvr.org",
+        "s.amazon-adsystem.com",
+        "www.google-analytics.com",
+        "img04.en25.com",
+        "cm.g.doubleclick.net",
+        "adservice.google.com",
+        "ib.adnxs.com",
+        "stats.g.doubleclick.net",
+        "rules.quantcount.com",
+        "tr.outbrain.com",
+        "s1399701292.t.eloqua.com",
+        "match.adsrvr.org",
+        "pixel.mediaiqdigital.com",
+        "login-ds.dotomi.com",
+        "9630481.fls.doubleclick.net",
+        "www.google.com",
+        "www.medtargetsystem.com",
+        "www.facebook.com",
+        "syndication.twitter.com",
+        "pixel.quantserve.com",
+        "pixel.rubiconproject.com",
+        "ups.analytics.yahoo.com",
+        "secure-ds.serving-sys.com",
+        "bat.bing.com",
+        "static.ads-twitter.com",
+        "www.googleadservices.com",
+        "dpm.demdex.net",
+        "tags.bluekai.com",
+        "9082902.fls.doubleclick.net",
+        "analytics.twitter.com",
+        "t.co",
+        "bs.serving-sys.com",
+        "pixel.tapad.com",
+        "idpix.media6degrees.com",
+        "aa.agkn.com",
+        "googleads.g.doubleclick.net",
+        "d.agkn.com",
+        "action.dstillery.com",
+        "su.addthis.com",
+        "dsum-sec.casalemedia.com",
+        "action.media6degrees.com",
+        "simage2.pubmatic.com",
+        "x.bidswitch.net",
+        "px.ads.linkedin.com",
+        "match.deepintent.com",
+        "www.linkedin.com",
+        "p.adsymptotic.com",
+        "v1.addthisedge.com",
+        "m.addthis.com",
+        "bid.g.doubleclick.net",
+        "8129721.fls.doubleclick.net",
+        "api-public.addthis.com",
+        "widgets.pinterest.com",
+        "ads.scorecardresearch.com",
+        "uipglob.semasio.net",
+        "cs.adingo.jp",
+        "match.sync.ad.cpe.dotomi.com",
+        "mid.rkdms.com",
+        "tags.rd.linksynergy.com",
+        "loadm.exelator.com",
+        "load77.exelator.com"
+      ]
+    }
+  },
+  "reports": {
+    "behaviour_event_listeners": {
+      "MOUSE": {
+        "https://www.googletagmanager.com/gtm.js?id=GTM-P9HRSH": [
+          "scroll",
+          "click"
+        ],
+        "https://www.cityofhope.org/static/js/102.f82d548a.chunk.js": [
+          "click"
+        ],
+        "https://www.cityofhope.org/static/js/138.070de51b.chunk.js": [
+          "click"
+        ],
+        "https://www.cityofhope.org/static/js/80.9e28dddd.chunk.js": [
+          "scroll",
+          "click"
+        ],
+        "https://connect.facebook.net/signals/config/1660607454217829?v=2.9.47&r=stable": [
+          "click"
+        ],
+        "https://www.cityofhope.org/coh2static/js/sp.2.13.0.js": [
+          "scroll",
+          "mousemove",
+          "mousedown",
+          "mouseup",
+          "click"
+        ],
+        "https://www.google-analytics.com/analytics.js": [
+          "mousedown"
+        ],
+        "https://s7.addthis.com/js/300/addthis_widget.js": [
+          "scroll",
+          "click"
+        ],
+        "https://platform.twitter.com/widgets.js": [
+          "click"
+        ],
+        "https://s7.addthis.com/static/layers.fa6cd1947ce26e890d3d.js": [
+          "scroll"
+        ],
+        "https://www.cityofhope.org/static/js/39.581b3d17.chunk.js": [
+          "mousedown"
+        ]
+      },
+      "TOUCH": {
+        "https://www.cityofhope.org/static/js/80.9e28dddd.chunk.js": [
+          "touchend",
+          "touchmove",
+          "touchstart"
+        ]
+      },
+      "KEYBOARD": {
+        "https://www.cityofhope.org/static/js/80.9e28dddd.chunk.js": [
+          "keypress",
+          "keyup",
+          "input",
+          "keydown"
+        ],
+        "https://www.cityofhope.org/coh2static/js/sp.2.13.0.js": [
+          "keyup",
+          "keydown",
+          "keypress"
+        ],
+        "https://www.google-analytics.com/analytics.js": [
+          "keyup"
+        ],
+        "https://s7.addthis.com/static/layers.fa6cd1947ce26e890d3d.js": [
+          "keydown"
+        ]
+      },
+      "SENSOR": {
+        "https://s7.addthis.com/static/layers.fa6cd1947ce26e890d3d.js": [
+          "orientationchange"
+        ]
+      }
+    },
+    "canvas_fingerprinters": {
+      "data_url": {},
+      "fingerprinters": [],
+      "styles": {},
+      "texts": {}
+    },
+    "canvas_font_fingerprinters": {
+      "canvas_font": {},
+      "text_measure": {}
+    },
+    "cookies": [
+      {
+        "name": "ARRAffinity",
+        "value": "edca44e941c60794dbd7d271786386095d7f4b7fb04f97871481495710143df6",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": -1,
+        "size": 75,
+        "httpOnly": true,
+        "secure": true,
+        "session": true,
+        "priority": "Medium",
+        "type": "http",
+        "third_party": false
+      },
+      {
+        "name": "ARRAffinitySameSite",
+        "value": "edca44e941c60794dbd7d271786386095d7f4b7fb04f97871481495710143df6",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": -1,
+        "size": 83,
+        "httpOnly": true,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "http",
+        "third_party": false
+      },
+      {
+        "name": "check",
+        "value": "true",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": -1,
+        "size": 9,
+        "httpOnly": false,
+        "secure": false,
+        "session": true,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "monsido",
+        "value": "4A11634740782839",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2021-11-19T14:39:57.000Z",
+        "size": 23,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.1823467109.1634740783",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2022-01-18T14:39:43.000Z",
+        "size": 32,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_wdTest",
+        "value": "accept",
+        "domain": "wdsvc.net",
+        "path": "/",
+        "expires": "2021-10-20T14:40:27.322Z",
+        "size": 13,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "wds_random",
+        "value": "2021-10-20T14:39:43.408Z~2021-10-20T14:39:43.408Z|9791399210115012|14|",
+        "domain": "wdsvc.net",
+        "path": "/",
+        "expires": "2024-10-19T14:40:00.614Z",
+        "size": 80,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TDID",
+        "value": "ff042b34-2771-4568-867b-7bd7251e21f9",
+        "domain": "adsrvr.org",
+        "path": "/",
+        "expires": "2022-10-20T14:40:02.039Z",
+        "size": 40,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "uuid2",
+        "value": "4058063744166823042",
+        "domain": "adnxs.com",
+        "path": "/",
+        "expires": "2022-01-18T14:39:57.602Z",
+        "size": 24,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "test_cookie",
+        "value": "CheckForPermission",
+        "domain": "doubleclick.net",
+        "path": "/",
+        "expires": "2021-10-20T14:54:43.582Z",
+        "size": 29,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "locale",
+        "value": "en_US",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": -1,
+        "size": 11,
+        "httpOnly": false,
+        "secure": false,
+        "session": true,
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "_sp_ses.229c",
+        "value": "*",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-20T15:09:57.000Z",
+        "size": 13,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "_ga",
+        "value": "GA1.2.1645339269.1634740784",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2023-10-20T14:40:02.000Z",
+        "size": 30,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_gid",
+        "value": "GA1.2.534745785.1634740784",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-21T14:40:02.000Z",
+        "size": 30,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_dc_gtm_UA-3289688-1",
+        "value": "1",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-20T14:40:44.000Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "ELOQUA",
+        "value": "GUID=331177F547B745569A389B1E7DD44BE8",
+        "domain": "eloqua.com",
+        "path": "/",
+        "expires": "2022-11-20T15:39:44.479Z",
+        "size": 43,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ELQSTATUS",
+        "value": "OK",
+        "domain": "eloqua.com",
+        "path": "/",
+        "expires": "2022-11-20T15:39:44.480Z",
+        "size": 11,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "sp",
+        "value": "68c54079-7ac3-43ad-9edc-8e90cb073197",
+        "domain": "e.cityofhope.org",
+        "path": "/",
+        "expires": "2022-10-20T14:39:58.096Z",
+        "size": 38,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "_fbp",
+        "value": "fb.1.1634740785123.1493408342",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2022-01-18T14:40:02.000Z",
+        "size": 33,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "outbrain_cid_fetch",
+        "value": "true",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-20T14:44:45.000Z",
+        "size": 22,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "__qca",
+        "value": "P0-1270904215-1634740785280",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2022-11-16T14:39:45.000Z",
+        "size": 32,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "khaos",
+        "value": "KUZMGEYL-1G-KPCJ",
+        "domain": "rubiconproject.com",
+        "path": "/",
+        "expires": "2022-10-20T14:39:45.608Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "audit",
+        "value": "1|ftwtXGXMheH6Q+NSm3Q7AVSPDk/2bnZF122HpbOb51mjJ9UCfvSsgGXY3A8eTBXUGPjoyNOfGJ9w0S94mtzOH0pB9H8pjytykCdHvyxZSdZ+W1ceWO0OZW8D63JYwkj1lAj3F6ZFM5gXBpY5ydIU7gHbyRO0i4aIi8N7BAmaQgdJt49mPrPRUFyo1mMSXCQ85kHVXO4iITS/uI9Aj+Yjkr7KKI+4mJy3oGirqm5gUhh8KMm0j6uXBGY3KwFBcKEE94+z9/eToJrLtHkR71fkUv/JTzblBZm7jOq1oSpaE+yma+WVcS1g3g==",
+        "domain": "rubiconproject.com",
+        "path": "/",
+        "expires": "2022-10-20T14:39:45.608Z",
+        "size": 319,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_sess",
+        "value": "39614adc-d0b3-4644-97d7-fd057f7b327d.12ba7f5b-c174-4ea4-8796-884a64901b67.1634740785.1",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-20T15:09:45.000Z",
+        "size": 91,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "dmd-vid",
+        "value": "12ba7f5b-c174-4ea4-8796-884a64901b67",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-20T15:09:45.000Z",
+        "size": 43,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "dmd-sid",
+        "value": "39614adc-d0b3-4644-97d7-fd057f7b327d",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-20T15:09:45.000Z",
+        "size": 43,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "A3",
+        "value": "d=AQABBDIqcGECEJ-ibMaM4WAbWdMKc7qGUPAFEgEBAQF7cWF6YQAAAAAA_eMAAA&S=AQAAAumAHiIWz6fqjGqg0QNHDO8",
+        "domain": "yahoo.com",
+        "path": "/",
+        "expires": "2022-10-20T20:39:46.396Z",
+        "size": 96,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "IDSYNC",
+        "value": "1769~212e",
+        "domain": "analytics.yahoo.com",
+        "path": "/",
+        "expires": "2022-10-21T14:39:46.396Z",
+        "size": 15,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "MUID",
+        "value": "2CAEDB1FFC066C66181ECBC9FDFB6D17",
+        "domain": "bing.com",
+        "path": "/",
+        "expires": "2022-11-14T14:39:46.660Z",
+        "size": 36,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "High",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "MR",
+        "value": "0",
+        "domain": "bat.bing.com",
+        "path": "/",
+        "expires": "2021-10-27T14:39:46.660Z",
+        "size": 3,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "wds_random",
+        "value": "2021-10-20T14:39:43.408Z~2021-10-20T14:39:43.408Z|9791399210115012|14|",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2024-10-19T14:39:46.000Z",
+        "size": 80,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "__WDS1",
+        "value": "%7B%22da_100046%22%3A%7B%22hu%22%3A%222021-10-20T14%3A39%3A47.006Z%22%7D%7D",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2024-10-19T14:39:47.000Z",
+        "size": 81,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "demdex",
+        "value": "39870162190922083482089532292339845104",
+        "domain": "demdex.net",
+        "path": "/",
+        "expires": "2022-04-18T14:39:48.137Z",
+        "size": 44,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "bkdc",
+        "value": "phx",
+        "domain": "bluekai.com",
+        "path": "/",
+        "expires": "2022-04-18T14:39:48.097Z",
+        "size": 7,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "bkpa",
+        "value": "KJy5iaLvy09x9W2MdLheA8CIuYZDUYmGr0qu8Lsbf4AgCVWsoLZJLH76BBTEtOMqU775utP1Jd+C7mx6siIBObmsekDUq2Dva27t70VzHXSeqDD/iKps4sVCc6nBC5NhtsGcZq8D7fuVhKEY3pELLUMa90AaGV5ZVvTWxMd2IT1FklbQOMO5",
+        "domain": "bluekai.com",
+        "path": "/",
+        "expires": "2022-04-18T14:39:48.097Z",
+        "size": 184,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "bku",
+        "value": "ylT99ex3zsaZPCTo",
+        "domain": "bluekai.com",
+        "path": "/",
+        "expires": "2022-04-18T14:39:48.097Z",
+        "size": 19,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "dpm",
+        "value": "39870162190922083482089532292339845104",
+        "domain": "dpm.demdex.net",
+        "path": "/",
+        "expires": "2022-04-18T14:39:48.136Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "personalization_id",
+        "value": "\"v1_H/T51aP0iZz1NrMz5+skFA==\"",
+        "domain": "twitter.com",
+        "path": "/",
+        "expires": "2023-10-20T14:39:49.241Z",
+        "size": 47,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TapAd_TS",
+        "value": "1634740789397",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-19T14:39:50.441Z",
+        "size": 21,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TapAd_DID",
+        "value": "874e41d6-262e-4b98-8ebd-8483dafa1475",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-19T14:39:50.441Z",
+        "size": 45,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "clid",
+        "value": "2r1a62d01170nl6rhl5fjh7a0000000185011701a01",
+        "domain": "media6degrees.com",
+        "path": "/",
+        "expires": "2022-04-18T14:39:49.540Z",
+        "size": 47,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "acs",
+        "value": "012020k1r1a62dxzt10",
+        "domain": "media6degrees.com",
+        "path": "/",
+        "expires": "2022-04-18T14:39:49.540Z",
+        "size": 22,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ab",
+        "value": "0001%3AqFnHw%2BEGOCh20OmfRtMGTTF7dtGO5HMZ",
+        "domain": "agkn.com",
+        "path": "/",
+        "expires": "2022-10-20T14:39:50.101Z",
+        "size": 43,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TapAd_3WAY_SYNCS",
+        "value": "2!7046",
+        "domain": "tapad.com",
+        "path": "/",
+        "expires": "2021-12-19T14:39:50.441Z",
+        "size": 22,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "u",
+        "value": "C|0AAAAAAAAKQLmtgAAAAAB",
+        "domain": "agkn.com",
+        "path": "/",
+        "expires": "2022-10-20T14:39:50.101Z",
+        "size": 24,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ouid",
+        "value": "61702a360001fcbeb85f6b69615b39e5abb50bb1d95c7d5428af",
+        "domain": "addthis.com",
+        "path": "/",
+        "expires": "2022-11-14T14:39:51.636Z",
+        "size": 56,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "uid",
+        "value": "61702a363994200c",
+        "domain": "addthis.com",
+        "path": "/",
+        "expires": "2022-11-14T14:39:51.636Z",
+        "size": 19,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "tuuid",
+        "value": "fda6b1b8-7764-4e0f-8c4d-89e74458903c",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-20T14:39:50.965Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "c",
+        "value": "1634740790",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-20T14:39:50.965Z",
+        "size": 11,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "tuuid_lu",
+        "value": "1634740790",
+        "domain": "bidswitch.net",
+        "path": "/",
+        "expires": "2022-10-20T14:39:50.965Z",
+        "size": 18,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "li_sugr",
+        "value": "aaaa96b0-6d7a-4148-8cca-92340330088b",
+        "domain": "linkedin.com",
+        "path": "/",
+        "expires": "2022-01-18T14:39:51.347Z",
+        "size": 43,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "lang",
+        "value": "v=2&lang=en-us",
+        "domain": "ads.linkedin.com",
+        "path": "/",
+        "expires": -1,
+        "size": 18,
+        "httpOnly": false,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "bcookie",
+        "value": "\"v=2&7ee3c036-01b9-4cf2-87ee-3ef585d23236\"",
+        "domain": "linkedin.com",
+        "path": "/",
+        "expires": "2023-10-21T02:17:22.980Z",
+        "size": 49,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "lidc",
+        "value": "\"b=VGST02:s=V:r=V:a=V:p=V:g=2470:u=1:x=1:i=1634740790:t=1634827190:v=2:sig=AQGzu1Bs1Tk6KW5shHk7iz7DULg9mes1\"",
+        "domain": "linkedin.com",
+        "path": "/",
+        "expires": "2021-10-21T14:39:50.980Z",
+        "size": 112,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "UserMatchHistory",
+        "value": "AQJwabvr29zVvAAAAXyeJOcjHF3jyUe2HKHtVse4Tog_XXJp2CS0Ft3U608d8jdTw9IxyhwuWjbWhQ",
+        "domain": "linkedin.com",
+        "path": "/",
+        "expires": "2021-11-19T14:39:51.097Z",
+        "size": 94,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "AnalyticsSyncHistory",
+        "value": "AQJeldKaPugyZQAAAXyeJOcjbW102DMr6Buu_-yLzUEVITiu3gVPvRIIYKmIuI0xpfMeFpIzbFcsGmx3zoM1-g",
+        "domain": "linkedin.com",
+        "path": "/",
+        "expires": "2021-11-19T14:39:51.097Z",
+        "size": 106,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "dmd-ahk",
+        "value": "e2da323dc4",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-20T15:09:58.000Z",
+        "size": 17,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "dmd-signal-177-2810-BB0DD0BA-39614adc-d0b3-4644-97d7-fd057f7b327d",
+        "value": "e30=",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-20T15:09:58.000Z",
+        "size": 69,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "sameSite": "Lax",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "lang",
+        "value": "v=2&lang=en-us",
+        "domain": "linkedin.com",
+        "path": "/",
+        "expires": -1,
+        "size": 18,
+        "httpOnly": false,
+        "secure": true,
+        "session": true,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "bscookie",
+        "value": "\"v=1&20211020143951c082d7d0-d177-419c-8fc4-c4f47b456ca0AQH63qttwWuajl5ukCYZ1zACGSZ0fAI0\"",
+        "domain": "www.linkedin.com",
+        "path": "/",
+        "expires": "2023-10-21T02:17:23.317Z",
+        "size": 96,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "__atuvc",
+        "value": "1%7C42",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2022-11-20T14:39:51.000Z",
+        "size": 13,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "__atuvs",
+        "value": "61702a2e607dbd95000",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-20T15:09:51.000Z",
+        "size": 26,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "mus",
+        "value": "0",
+        "domain": "addthis.com",
+        "path": "/",
+        "expires": "2022-11-14T14:39:51.636Z",
+        "size": 4,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "na_id",
+        "value": "2021102014395159300637805549",
+        "domain": "addthis.com",
+        "path": "/",
+        "expires": "2022-11-14T14:39:51.636Z",
+        "size": 33,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_gat_UA-3289688-1",
+        "value": "1",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-20T14:40:51.000Z",
+        "size": 18,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "uvc",
+        "value": "1%7C42",
+        "domain": "addthis.com",
+        "path": "/",
+        "expires": "2022-11-20T14:39:52.000Z",
+        "size": 9,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "loc",
+        "value": "NDMyMzBOQVVTT0gyMjAwMDk3MTUzNTAwMDBDSA==",
+        "domain": "addthis.com",
+        "path": "/",
+        "expires": "2022-11-20T14:39:52.000Z",
+        "size": 43,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "mbox",
+        "value": "session#7a3d639130c045d0859acf3042b55934#1634742657|PC#7a3d639130c045d0859acf3042b55934.34_0#1697985583",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2023-10-22T14:39:43.000Z",
+        "size": 107,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "anj",
+        "value": "dTM7k!M4/8D>6NRF']wIg2E>@:L<N5NP?V@n^VG_D$25ADb6_:!7Nl8j/XMO",
+        "domain": "adnxs.com",
+        "path": "/",
+        "expires": "2022-01-18T14:39:57.322Z",
+        "size": 63,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "utag_main",
+        "value": "v_id:017c9e24c9280003237a809a58cb00087002307f004bb$_sn:1$_se:2$_ss:0$_st:1634742597401$ses_id:1634740783423%3Bexp-session$_pn:2%3Bexp-session",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2022-10-20T14:39:57.000Z",
+        "size": 150,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_sp_id.229c",
+        "value": "6c6c11df-b686-4d75-bce5-6f9d13729b01.1634740784.1.1634740798.1634740784.2ffa1bb8-74c8-489a-8734-2f2bc8fa7e9c",
+        "domain": "www.cityofhope.org",
+        "path": "/",
+        "expires": "2023-10-20T14:39:57.000Z",
+        "size": 119,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": false
+      },
+      {
+        "name": "ID",
+        "value": "b646141e4683098219431c8d25514ccc",
+        "domain": "adingo.jp",
+        "path": "/",
+        "expires": "2021-11-19T14:40:01.101Z",
+        "size": 34,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "tdid",
+        "value": "ff042b34-2771-4568-867b-7bd7251e21f9",
+        "domain": "adingo.jp",
+        "path": "/",
+        "expires": "2021-11-03T14:40:01.862Z",
+        "size": 40,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "SEUNCY",
+        "value": "F1661C9E356498E",
+        "domain": "semasio.net",
+        "path": "/",
+        "expires": "2022-10-20T14:40:01.862Z",
+        "size": 21,
+        "httpOnly": true,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "_uetsid",
+        "value": "934fdb7031b311ecbcec4993a3243d5b",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2021-10-21T14:40:01.000Z",
+        "size": 39,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "_uetvid",
+        "value": "93565ea031b311ecb7a46b651149cbc6",
+        "domain": "cityofhope.org",
+        "path": "/",
+        "expires": "2022-11-14T14:40:01.000Z",
+        "size": 39,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "type": "js",
+        "third_party": false
+      },
+      {
+        "name": "sc",
+        "value": "11%3A94694",
+        "domain": "rkdms.com",
+        "path": "/",
+        "expires": "2022-10-20T20:28:47.740Z",
+        "size": 12,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "sessionid",
+        "value": "h-c3430e9ea5406ab0d1786dcad9729f27_t-1634740801",
+        "domain": "rkdms.com",
+        "path": "/",
+        "expires": "2022-10-20T20:28:47.740Z",
+        "size": 56,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "rmuid",
+        "value": "6d154ab1-b4c5-4756-80bb-84aecb6705cc",
+        "domain": "linksynergy.com",
+        "path": "/",
+        "expires": "2022-10-20T14:40:02.017Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "icts",
+        "value": "2021-10-20T14:40:02Z",
+        "domain": "linksynergy.com",
+        "path": "/",
+        "expires": "2022-10-20T14:40:02.017Z",
+        "size": 24,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "TDCPM",
+        "value": "CAESFQoGZ29vZ2xlEgsIwsCT8c_KhzoQBRIXCghhcHBuZXh1cxILCLy1x96v-Ik6EAUSFgoHcnViaWNvbhILCLy1x96v-Ik6EAUSGQoKcmlnaHRtZWRpYRILCIadluWv-Ik6EAUSEgoDYWFtEgsIpOWTjvbF_jkQBRIWCgdibHVla2FpEgsIkuqF86_4iToQBRIUCgV0YXBhZBILCJCPyISw-Ik6EAUSFgoHeWpuMGd1cBILCLjgx4Ww-Ik6EAUSGAoJYWRhZHZpc29yEgsI5sz-hbD4iToQBRIWCgdhZGR0aGlzEgsI6OLti7D4iToQBRIVCgZjYXNhbGUSCwjewcyNsPiJOhAFEhcKCHB1Ym1hdGljEgsIsra6l7D4iToQBRIYCgliaWRzd2l0Y2gSCwicy5KUsPiJOhAFEhYKB3gyZTd0cTgSCwjA07LysPiJOhAFEhYKBzZzemhpdGoSCwjS5pHzsPiJOhAFEhYKBzRoM3luMWYSCwiAgv_7sPiJOhAFEhYKB2M2OXQzamsSCwj6jZ39sPiJOhAFEhYKBzFpMDcxbmMSCwiO4Jf_sPiJOhAFEhYKB2V4ZWxhdGUSCwiy_vb_sPiJOhAFGAU4AUIEIgIIAQ..",
+        "domain": "adsrvr.org",
+        "path": "/",
+        "expires": "2022-10-20T14:40:02.039Z",
+        "size": 633,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "EE",
+        "value": "\"f5d4bae9fe4d2763538bbc9f8f1fe726\"",
+        "domain": "exelator.com",
+        "path": "/",
+        "expires": "2022-02-17T14:40:02.220Z",
+        "size": 36,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      },
+      {
+        "name": "ud",
+        "value": "\"eJxrXxzq6XKLQSHNNMUkKTHVMi3VJMXI3MzY1NgiKSnZMs0izTAt1dzIbHFZatGCpaXFqSlJh5ZU5JTkNK0uiw91jHdz9PX0iVzrm5%252BUmZOqEJyYlliUuQIsE%252BYatMjQcEl%252BUWb6otDgxUUpaQyLSopPBe%252FzFwYA3YEsvA%253D%253D\"",
+        "domain": "exelator.com",
+        "path": "/",
+        "expires": "2022-02-17T14:40:02.221Z",
+        "size": 196,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "sameSite": "None",
+        "priority": "Medium",
+        "type": "unknown",
+        "third_party": true
+      }
+    ],
+    "fb_pixel_events": [
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+        "raw": "https://www.facebook.com/tr/?id=842993943099472&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&rl=&if=false&ts=1634740802060&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740797461&coo=false&eid=31f113d679dabd875cc40316f359c651&tm=1&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+        "raw": "https://www.facebook.com/tr/?id=188223545697311&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&rl=&if=false&ts=1634740801763&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740797461&coo=false&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+        "raw": "https://www.facebook.com/tr/?id=616904678765230&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&rl=&if=false&ts=1634740801425&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740797461&coo=false&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+        "raw": "https://www.facebook.com/tr/?id=336051463521992&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&rl=&if=false&ts=1634740798876&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740797461&coo=false&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+        "raw": "https://www.facebook.com/tr/?id=1660607454217829&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&rl=&if=false&ts=1634740798182&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740797461&coo=false&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.cityofhope.org/homepage",
+        "raw": "https://www.facebook.com/tr/?id=842993943099472&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&rl=&if=false&ts=1634740790241&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740783921&coo=false&eid=72fac759f50bac6f55c1d18277e1b10a&tm=1&exp=p0&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.cityofhope.org/homepage",
+        "raw": "https://www.facebook.com/tr/?id=188223545697311&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&rl=&if=false&ts=1634740789343&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740783921&coo=false&exp=p0&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.cityofhope.org/homepage",
+        "raw": "https://www.facebook.com/tr/?id=616904678765230&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&rl=&if=false&ts=1634740787502&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740783921&coo=false&exp=p0&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.cityofhope.org/homepage",
+        "raw": "https://www.facebook.com/tr/?id=336051463521992&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&rl=&if=false&ts=1634740785943&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740783921&coo=false&exp=p0&rqm=GET"
+      },
+      {
+        "advancedMatchingParams": [],
+        "dataParams": [],
+        "eventDescription": "This is the default pixel tracking page visits. For example - A person lands on your website pages.",
+        "eventName": "PageView",
+        "isStandardEvent": true,
+        "pageUrl": "https://www.cityofhope.org/homepage",
+        "raw": "https://www.facebook.com/tr/?id=1660607454217829&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&rl=&if=false&ts=1634740785139&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740783921&coo=false&exp=p0&rqm=GET"
+      }
+    ],
+    "key_logging": {},
+    "session_recorders": {},
+    "third_party_trackers": [
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j94",
+            "a": 291641643,
+            "t": "event",
+            "ni": 1,
+            "_s": 1,
+            "dl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Patient Education & Resources for Cancer Patients | City of Hope cancer center",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "ec": "data_collection",
+            "ea": "dimension_collected",
+            "el": "clientID_collected",
+            "ev": 0,
+            "_u": "SDCACEABB~",
+            "jid": "",
+            "gjid": "",
+            "cid": 1645339269.163474,
+            "tid": "UA-3289688-1",
+            "_gid": 534745785.1634741,
+            "gtm": "2wgai0P9HRSH",
+            "tc": "x",
+            "cd7": 1645339269.163474,
+            "z": 122346105
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j94&a=291641643&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&ul=en-us&de=UTF-8&dt=Patient%20Education%20%26%20Resources%20for%20Cancer%20Patients%20%7C%20City%20of%20Hope%20cancer%20center&sd=24-bit&sr=375x812&vp=375x812&je=0&ec=data_collection&ea=dimension_collected&el=clientID_collected&ev=0&_u=SDCACEABB~&jid=&gjid=&cid=1645339269.1634740784&tid=UA-3289688-1&_gid=534745785.1634740784&gtm=2wgai0P9HRSH&tc=x&cd7=1645339269.1634740784&z=122346105"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://8129721.fls.doubleclick.net/activityi;src=8129721;type=pagev0;cat=00_si0;ord=1331201891;gtm=2wgai0;auiddc=1823467109.1634740783;u5=undefined;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education?"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/"
+      },
+      {
+        "data": {
+          "filter": "||exelator.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://load77.exelator.com/pixel.gif"
+      },
+      {
+        "data": {
+          "filter": "||exelator.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://load77.exelator.com/pixel.gif"
+      },
+      {
+        "data": {
+          "filter": "||exelator.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "p": 204,
+            "g": 461,
+            "buid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "j": 0,
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=exelate",
+            "xl8blockcheck": 1
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://loadm.exelator.com/load/?p=204&g=461&buid=ff042b34-2771-4568-867b-7bd7251e21f9&j=0&redir=https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fgeneric%3fttd_pid%3dexelate&xl8blockcheck=1"
+      },
+      {
+        "data": {
+          "filter": "||exelator.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "p": 204,
+            "g": 461,
+            "buid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "j": 0,
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=exelate",
+            "xl8blockcheck": 1
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://loadm.exelator.com/load/?p=204&g=461&buid=ff042b34-2771-4568-867b-7bd7251e21f9&j=0&redir=https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fgeneric%3fttd_pid%3dexelate&xl8blockcheck=1"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 842993943099472,
+            "ev": "PageView",
+            "dl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "rl": "",
+            "if": false,
+            "ts": 1634740802060,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "fbp": "fb.1.1634740785123.1493408342",
+            "it": 1634740797461,
+            "coo": false,
+            "eid": "31f113d679dabd875cc40316f359c651",
+            "tm": 1,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=842993943099472&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&rl=&if=false&ts=1634740802060&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740797461&coo=false&eid=31f113d679dabd875cc40316f359c651&tm=1&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/"
+      },
+      {
+        "data": {
+          "filter": "||exelator.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "p": 204,
+            "g": 461,
+            "buid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "j": 0,
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=exelate"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://loadm.exelator.com/load/?p=204&g=461&buid=ff042b34-2771-4568-867b-7bd7251e21f9&j=0&redir=https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fgeneric%3fttd_pid%3dexelate"
+      },
+      {
+        "data": {
+          "filter": "||exelator.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "p": 204,
+            "g": 461,
+            "buid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "j": 0,
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=exelate"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://loadm.exelator.com/load/?p=204&g=461&buid=ff042b34-2771-4568-867b-7bd7251e21f9&j=0&redir=https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fgeneric%3fttd_pid%3dexelate"
+      },
+      {
+        "data": {
+          "filter": "||linksynergy.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ns": "ttd",
+            "uid3": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=1i071nc"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tags.rd.linksynergy.com/rcs?ns=ttd&uid3=ff042b34-2771-4568-867b-7bd7251e21f9&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3D1i071nc"
+      },
+      {
+        "data": {
+          "filter": "||semasio.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sType": "sync",
+            "sExtCookieId": "",
+            "sInitiator": "internal",
+            "google_cver": 1,
+            "google_error": 3
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://uipglob.semasio.net/dbm/1/info?sType=sync&sExtCookieId=&sInitiator=internal&google_cver=1&google_error=3"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 188223545697311,
+            "ev": "PageView",
+            "dl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "rl": "",
+            "if": false,
+            "ts": 1634740801763,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "fbp": "fb.1.1634740785123.1493408342",
+            "it": 1634740797461,
+            "coo": false,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=188223545697311&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&rl=&if=false&ts=1634740801763&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740797461&coo=false&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/842993943099472?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "semasio_ddp",
+            "google_cm": null
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=semasio_ddp&google_cm"
+      },
+      {
+        "data": {
+          "filter": "||rkdms.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pid": "211f5e71-10d4-4933-8c11-c9798f096adc",
+            "_ct": "img",
+            "puid": "ff042b34-2771-4568-867b-7bd7251e21f9"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://mid.rkdms.com/bct?pid=211f5e71-10d4-4933-8c11-c9798f096adc&_ct=img&puid=ff042b34-2771-4568-867b-7bd7251e21f9"
+      },
+      {
+        "data": {
+          "filter": "||rkdms.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pid": "02760a75-50e3-4c64-b77b-fb5fcd04e437",
+            "_ct": "img",
+            "puid": "ff042b34-2771-4568-867b-7bd7251e21f9"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://mid.rkdms.com/bct?pid=02760a75-50e3-4c64-b77b-fb5fcd04e437&_ct=img&puid=ff042b34-2771-4568-867b-7bd7251e21f9"
+      },
+      {
+        "data": {
+          "filter": "/adsct?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "type": "javascript",
+            "version": "2.0.4",
+            "p_id": "Twitter",
+            "p_user_id": 0,
+            "txn_id": "nvd6c",
+            "events": [
+              [
+                "pageview",
+                {}
+              ]
+            ],
+            "tw_sale_amount": 0,
+            "tw_order_quantity": 0,
+            "tw_iframe_status": 0,
+            "event_id": "718db044-0832-4bf2-9561-64a3c14a329f",
+            "tw_document_href": "https://www.cityofhope.org/patients/living-with-cancer/patient-education"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://t.co/i/adsct?type=javascript&version=2.0.4&p_id=Twitter&p_user_id=0&txn_id=nvd6c&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&event_id=718db044-0832-4bf2-9561-64a3c14a329f&tw_document_href=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education"
+      },
+      {
+        "data": {
+          "filter": "||analytics.twitter.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "type": "javascript",
+            "version": "2.0.4",
+            "p_id": "Twitter",
+            "p_user_id": 0,
+            "txn_id": "nvd6c",
+            "events": [
+              [
+                "pageview",
+                {}
+              ]
+            ],
+            "tw_sale_amount": 0,
+            "tw_order_quantity": 0,
+            "tw_iframe_status": 0,
+            "event_id": "718db044-0832-4bf2-9561-64a3c14a329f",
+            "tw_document_href": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "tpx_cb": "twttr.conversion.loadPixels"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.4&p_id=Twitter&p_user_id=0&txn_id=nvd6c&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&event_id=718db044-0832-4bf2-9561-64a3c14a329f&tw_document_href=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&tpx_cb=twttr.conversion.loadPixels"
+      },
+      {
+        "data": {
+          "filter": "||scorecardresearch.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "c1": 9,
+            "c2": 18896682,
+            "c3": 2,
+            "cs_xi": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "r": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=0aic4ij"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ads.scorecardresearch.com/p2?c1=9&c2=18896682&c3=2&cs_xi=ff042b34-2771-4568-867b-7bd7251e21f9&r=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3D0aic4ij"
+      },
+      {
+        "data": {
+          "filter": "||semasio.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "semasio_ddp",
+            "google_cm": null
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://uipglob.semasio.net/tradedesk/1/get2?sType=sync&sExtCookieId=ff042b34-2771-4568-867b-7bd7251e21f9&sInitiator=external&_url=https://cm.g.doubleclick.net/pixel?google_nid=semasio_ddp&google_cm"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 616904678765230,
+            "ev": "PageView",
+            "dl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "rl": "",
+            "if": false,
+            "ts": 1634740801425,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "fbp": "fb.1.1634740785123.1493408342",
+            "it": 1634740797461,
+            "coo": false,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=616904678765230&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&rl=&if=false&ts=1634740801425&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740797461&coo=false&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/188223545697311?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 15233284,
+            "Ver": 2,
+            "mid": "85cf9fbb-add9-4c0c-b8b0-dd2a2cab156b",
+            "sid": "934fdb7031b311ecbcec4993a3243d5b",
+            "vid": "93565ea031b311ecb7a46b651149cbc6",
+            "vids": 0,
+            "pi": 0,
+            "lg": "en-US",
+            "sw": 375,
+            "sh": 812,
+            "sc": 24,
+            "tl": "Patient Education & Resources for Cancer Patients | City of Hope cancer center",
+            "kw": "patient education, patient education materials, gvhd resources, living with cancer resources, chemotherapy education, drain care, educational materials for cancer patients",
+            "p": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "r": "",
+            "lt": 1261,
+            "evt": "pageLoad",
+            "msclkid": "N",
+            "sv": 1,
+            "rn": 895858
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/action/0?ti=15233284&Ver=2&mid=85cf9fbb-add9-4c0c-b8b0-dd2a2cab156b&sid=934fdb7031b311ecbcec4993a3243d5b&vid=93565ea031b311ecb7a46b651149cbc6&vids=0&pi=0&lg=en-US&sw=375&sh=812&sc=24&tl=Patient%20Education%20%26%20Resources%20for%20Cancer%20Patients%20%7C%20City%20of%20Hope%20cancer%20center&kw=patient%20education,%20patient%20education%20materials,%20gvhd%20resources,%20living%20with%20cancer%20resources,%20chemotherapy%20education,%20drain%20care,%20educational%20materials%20for%20cancer%20patients&p=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&r=&lt=1261&evt=pageLoad&msclkid=N&sv=1&rn=895858"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/p/action/15233284.js"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 5063020,
+            "Ver": 2,
+            "mid": "2146f5d8-7759-4015-a8e6-2a7c5e594a9c",
+            "sid": "934fdb7031b311ecbcec4993a3243d5b",
+            "vid": "93565ea031b311ecb7a46b651149cbc6",
+            "vids": 0,
+            "pi": 0,
+            "lg": "en-US",
+            "sw": 375,
+            "sh": 812,
+            "sc": 24,
+            "tl": "Patient Education & Resources for Cancer Patients | City of Hope cancer center",
+            "kw": "patient education, patient education materials, gvhd resources, living with cancer resources, chemotherapy education, drain care, educational materials for cancer patients",
+            "p": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "r": "",
+            "lt": 1261,
+            "evt": "pageLoad",
+            "msclkid": "N",
+            "sv": 1,
+            "rn": 974251
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/action/0?ti=5063020&Ver=2&mid=2146f5d8-7759-4015-a8e6-2a7c5e594a9c&sid=934fdb7031b311ecbcec4993a3243d5b&vid=93565ea031b311ecb7a46b651149cbc6&vids=0&pi=0&lg=en-US&sw=375&sh=812&sc=24&tl=Patient%20Education%20%26%20Resources%20for%20Cancer%20Patients%20%7C%20City%20of%20Hope%20cancer%20center&kw=patient%20education,%20patient%20education%20materials,%20gvhd%20resources,%20living%20with%20cancer%20resources,%20chemotherapy%20education,%20drain%20care,%20educational%20materials%20for%20cancer%20patients&p=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&r=&lt=1261&evt=pageLoad&msclkid=N&sv=1&rn=974251"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/p/action/5063020.js"
+      },
+      {
+        "data": {
+          "filter": "||dotomi.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ptrid": 13,
+            "gdpr": 0,
+            "userid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "redirect": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=6szhitj"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://match.sync.ad.cpe.dotomi.com/w/user.sync?ptrid=13&gdpr=0&userid=ff042b34-2771-4568-867b-7bd7251e21f9&redirect=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3D6szhitj"
+      },
+      {
+        "data": {
+          "filter": "||semasio.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "semasio_ddp",
+            "google_cm": null
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://uipglob.semasio.net/tradedesk/1/get?sType=sync&sExtCookieId=ff042b34-2771-4568-867b-7bd7251e21f9&sInitiator=external&_url=https://cm.g.doubleclick.net/pixel?google_nid=semasio_ddp&google_cm"
+      },
+      {
+        "data": {
+          "filter": "||scorecardresearch.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "c1": 9,
+            "c2": 18896682,
+            "c3": 2,
+            "cs_xi": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "r": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=0aic4ij"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ads.scorecardresearch.com/p?c1=9&c2=18896682&c3=2&cs_xi=ff042b34-2771-4568-867b-7bd7251e21f9&r=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3D0aic4ij"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://9082902.fls.doubleclick.net/activityi;src=9082902;type=coh200;cat=unive0;ord=838410593452;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education?"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://9082902.fls.doubleclick.net/activityi;src=9082902;type=coh200;cat=patie0;ord=8319097572803;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education?"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "AW-405492523",
+            "l": "dataLayer",
+            "cx": "c"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-405492523&l=dataLayer&cx=c"
+      },
+      {
+        "data": {
+          "filter": "/fbevents.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/bat.js"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "AW-677291143",
+            "l": "dataLayer",
+            "cx": "c"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-677291143&l=dataLayer&cx=c"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "DC-8453338",
+            "l": "dataLayer",
+            "cx": "c"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=DC-8453338&l=dataLayer&cx=c"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/616904678765230?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "DC-9082902"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=DC-9082902"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "DC-9082902",
+            "l": "dataLayer",
+            "cx": "c"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=DC-9082902&l=dataLayer&cx=c"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "random": 1634740799757,
+            "cv": 9,
+            "fst": 1634740799757,
+            "num": 1,
+            "npa": 1,
+            "label": "WOILCOC6n9QCENG0vdIC",
+            "guid": "ON",
+            "resp": "GooglemKTybQhCsO",
+            "eid": 375603261,
+            "u_h": 812,
+            "u_w": 375,
+            "u_ah": 812,
+            "u_aw": 375,
+            "u_cd": 24,
+            "u_his": 3,
+            "u_tz": 0,
+            "u_java": false,
+            "u_nplug": 0,
+            "u_nmime": 0,
+            "sendb": 1,
+            "ig": 1,
+            "frm": 2,
+            "url": "https://9630481.fls.doubleclick.net/ddm/fls/r/src=9630481;type=invmedia;cat=cityo003;ord=7286802463800;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education",
+            "ref": "https://9630481.fls.doubleclick.net/activityi;src=9630481;type=invmedia;cat=cityo003;ord=7286802463800;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education?",
+            "hn": "www.googleadservices.com",
+            "rfmt": 3,
+            "fmt": 4
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://9630481.fls.doubleclick.net/ddm/fls/r/src=9630481;type=invmedia;cat=cityo003;ord=7286802463800;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion/709843537/?random=1634740799757&cv=9&fst=1634740799757&num=1&npa=1&label=WOILCOC6n9QCENG0vdIC&guid=ON&resp=GooglemKTybQhCsO&eid=375603261&u_h=812&u_w=375&u_ah=812&u_aw=375&u_cd=24&u_his=3&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&ig=1&frm=2&url=https%3A%2F%2F9630481.fls.doubleclick.net%2Fddm%2Ffls%2Fr%2Fsrc%3D9630481%3Btype%3Dinvmedia%3Bcat%3Dcityo003%3Bord%3D7286802463800%3Bgtm%3D2odai0%3Bauiddc%3D1823467109.1634740783%3B~oref%3Dhttps%253A%252F%252Fwww.cityofhope.org%252Fpatients%252Fliving-with-cancer%252Fpatient-education&ref=https%3A%2F%2F9630481.fls.doubleclick.net%2Factivityi%3Bsrc%3D9630481%3Btype%3Dinvmedia%3Bcat%3Dcityo003%3Bord%3D7286802463800%3Bgtm%3D2odai0%3Bauiddc%3D1823467109.1634740783%3B~oref%3Dhttps%253A%252F%252Fwww.cityofhope.org%252Fpatients%252Fliving-with-cancer%252Fpatient-education%3F&hn=www.googleadservices.com&rfmt=3&fmt=4"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://9630481.fls.doubleclick.net/ddm/fls/r/src=9630481;type=invmedia;cat=cityo003;ord=7286802463800;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion.js"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/"
+      },
+      {
+        "data": {
+          "filter": "/collect.gif?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "e": 1,
+            "aid": "",
+            "vid": "12ba7f5b-c174-4ea4-8796-884a64901b67",
+            "sid": "39614adc-d0b3-4644-97d7-fd057f7b327d",
+            "vh": 2,
+            "vt": 1634740785,
+            "pt": 1634740799,
+            "u": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "r": "",
+            "t": "Patient Education & Resources for Cancer Patients | City of Hope cancer center",
+            "p": 3489.49,
+            "pm": "",
+            "ab": "",
+            "ak": "177-2810-BB0DD0BA"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.medtargetsystem.com/analytics/collect.gif?e=1&aid=&vid=12ba7f5b-c174-4ea4-8796-884a64901b67&sid=39614adc-d0b3-4644-97d7-fd057f7b327d&vh=2&vt=1634740785&pt=1634740799&u=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&r=&t=Patient%20Education%20%26%20Resources%20for%20Cancer%20Patients%20%7C%20City%20of%20Hope%20cancer%20center&p=3489.49&pm=&ab=&ak=177-2810-BB0DD0BA"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 336051463521992,
+            "ev": "PageView",
+            "dl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "rl": "",
+            "if": false,
+            "ts": 1634740798876,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "fbp": "fb.1.1634740785123.1493408342",
+            "it": 1634740797461,
+            "coo": false,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=336051463521992&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&rl=&if=false&ts=1634740798876&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740797461&coo=false&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://9630481.fls.doubleclick.net/activityi;src=9630481;type=invmedia;cat=cityo003;ord=7286802463800;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education?"
+      },
+      {
+        "data": {
+          "filter": "||dotomi.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "data_object_type_code": 0,
+            "canonical_url": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "dtmc_ref": "",
+            "dtmc_loc": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "dtm_cid": 62513,
+            "dtm_fid": 1561,
+            "method": "img",
+            "dtm_country_code": "US",
+            "wl_domains_key": "",
+            "dtm_form_uid": 464706221654097200,
+            "dtm_cid_original": 62513,
+            "dtm_cmagic": "0d8a6e",
+            "cachebuster": 1818906813,
+            "tcflag": true,
+            "dtm_consent": true,
+            "cid": 9999,
+            "dtm_items": "%22%22",
+            "dtmc_coupons": "%22%22",
+            "dtmc_bypass_channel": "%22%22"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://login-ds.dotomi.com/profile/visit/final/js?data_object_type_code=0&canonical_url=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&dtmc_ref=&dtmc_loc=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&dtm_cid=62513&dtm_fid=1561&method=img&dtm_country_code=US&wl_domains_key=&dtm_form_uid=464706221654097236&dtm_cid_original=62513&dtm_cmagic=0d8a6e&cachebuster=1818906813&tcflag=true&dtm_consent=true&cid=9999&dtm_items=%2522%2522&dtmc_coupons=%2522%2522&dtmc_bypass_channel=%2522%2522"
+      },
+      {
+        "data": {
+          "filter": "/beacon.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "1634740798423": null
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.medtargetsystem.com/javascript/beacon.js?1634740798423"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 1660607454217829,
+            "ev": "PageView",
+            "dl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "rl": "",
+            "if": false,
+            "ts": 1634740798182,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "fbp": "fb.1.1634740785123.1493408342",
+            "it": 1634740797461,
+            "coo": false,
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=1660607454217829&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&rl=&if=false&ts=1634740798182&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740797461&coo=false&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/336051463521992?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j94",
+            "a": 291641643,
+            "t": "pageview",
+            "_s": 1,
+            "dl": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Patient Education & Resources for Cancer Patients | City of Hope cancer center",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "_u": "QCCAiEABB~",
+            "jid": "",
+            "gjid": "",
+            "cid": 1645339269.163474,
+            "tid": "UA-3289688-1",
+            "_gid": 534745785.1634741,
+            "gtm": "2wgai0P9HRSH",
+            "cd6": "static",
+            "cd9": "not_given",
+            "tc": "x",
+            "z": 395201063
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j94&a=291641643&t=pageview&_s=1&dl=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&ul=en-us&de=UTF-8&dt=Patient%20Education%20%26%20Resources%20for%20Cancer%20Patients%20%7C%20City%20of%20Hope%20cancer%20center&sd=24-bit&sr=375x812&vp=375x812&je=0&_u=QCCAiEABB~&jid=&gjid=&cid=1645339269.1634740784&tid=UA-3289688-1&_gid=534745785.1634740784&gtm=2wgai0P9HRSH&cd6=static&cd9=not_given&tc=x&z=395201063"
+      },
+      {
+        "data": {
+          "filter": "||quantserve.com/pixel;",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pixel.quantserve.com/pixel;r=745347979;labels=_fp.event.Default;rf=0;a=p-U6PhkdyyMdTbY;url=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education;uht=2;fpan=0;fpa=P0-1270904215-1634740785280;pbc=;ns=0;ce=1;qjs=1;qv=00a3769c-20210929173447;cm=;gdpr=0;ref=;d=cityofhope.org;je=0;sr=375x812x24;dst=0;et=1634740797765;tzo=0;ogl=description.City%20of%20Hope's%20Department%20of%20Supportive%20Care%20Medicine%20partners%20with%20clinicians%20a"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "e": "PageView",
+            "pi": "19661fcf-fd23-4249-9d52-81c618e4489d",
+            "it": 1634740797719,
+            "v": "0.0.20",
+            "u": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "st": 1634740797719,
+            "et": 1634740797720,
+            "if": 0
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/pixie?e=PageView&pi=19661fcf-fd23-4249-9d52-81c618e4489d&it=1634740797719&v=0.0.20&u=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&st=1634740797719&et=1634740797720&if=0"
+      },
+      {
+        "data": {
+          "filter": "||eloqua.com^$~stylesheet,third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pps": 3,
+            "siteid": 1399701292,
+            "ref2": "elqNone",
+            "tzo": 0,
+            "ms": 701,
+            "optin": "disabled"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://s1399701292.t.eloqua.com/visitor/v200/svrGP?pps=3&siteid=1399701292&ref2=elqNone&tzo=0&ms=701&optin=disabled"
+      },
+      {
+        "data": {
+          "filter": "||dotomi.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ad_id": 62513,
+            "evt": 32958,
+            "cat1": 43170,
+            "cat2": 43171,
+            "rand": 1989278205
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://login.dotomi.com/w/tre?ad_id=62513&evt=32958&cat1=43170&cat2=43171&rand=1989278205"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/1660607454217829?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||quantcount.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://rules.quantcount.com/rules-p-U6PhkdyyMdTbY.js"
+      },
+      {
+        "data": {
+          "filter": "/elqcfg.min.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://img04.en25.com/i/elqCfg.min.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "||dotomi.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ad_id": 62513,
+            "evt": 32958,
+            "cat1": 43170,
+            "cat2": 43171,
+            "rand": 1989278205
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://media.msg.dotomi.com/w/tre?ad_id=62513&evt=32958&cat1=43170&cat2=43171&rand=1989278205"
+      },
+      {
+        "data": {
+          "filter": "||amplify.outbrain.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://amplify.outbrain.com/cp/obtp.js"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "DC-9630481"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=DC-9630481"
+      },
+      {
+        "data": {
+          "filter": "||dotomi.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dtm_cid": 62513,
+            "dtm_cmagic": "0d8a6e",
+            "dtm_fid": 1561,
+            "cachebuster": 1818906813
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://login.dotomi.com/profile/visit/js/1_0?dtm_cid=62513&dtm_cmagic=0d8a6e&dtm_fid=1561&cachebuster=1818906813"
+      },
+      {
+        "data": {
+          "filter": "/fbevents.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "data": {
+          "filter": "||quantserve.com/aquant.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": "p-U6PhkdyyMdTbY"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://secure.quantserve.com/aquant.js?a=p-U6PhkdyyMdTbY"
+      },
+      {
+        "data": {
+          "filter": "||tracking.monsido.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": "BqhG9A9h_92V95YhXD7KMA",
+            "b": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "c": "4A11634740782839",
+            "d": "375x812",
+            "e": "",
+            "f": 9611634740797058,
+            "g": 1261,
+            "h": 2
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tracking.monsido.com/?a=BqhG9A9h_92V95YhXD7KMA&b=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&c=4A11634740782839&d=375x812&e=&f=9611634740797058&g=1261&h=2"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-P9HRSH"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-P9HRSH"
+      },
+      {
+        "data": {
+          "filter": "||omtrdc.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "mbox": "target-global-mbox",
+            "mboxSession": "7a3d639130c045d0859acf3042b55934",
+            "mboxPC": "7a3d639130c045d0859acf3042b55934.34_0",
+            "mboxPage": "03d3476b335f4c2daf1111b3f0a1c9fc",
+            "mboxRid": "1cb7730d45be452895ad4472dfaa4649",
+            "mboxVersion": "1.7.1",
+            "mboxCount": 1,
+            "mboxTime": 1634740796222,
+            "mboxHost": "www.cityofhope.org",
+            "mboxURL": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "mboxReferrer": "",
+            "browserHeight": 812,
+            "browserWidth": 375,
+            "browserTimeOffset": 0,
+            "screenHeight": 812,
+            "screenWidth": 375,
+            "colorDepth": 24,
+            "devicePixelRatio": 3,
+            "screenOrientation": "portrait",
+            "webGLRenderer": "Google SwiftShader"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cityofhope.tt.omtrdc.net/m2/cityofhope/mbox/json?mbox=target-global-mbox&mboxSession=7a3d639130c045d0859acf3042b55934&mboxPC=7a3d639130c045d0859acf3042b55934.34_0&mboxPage=03d3476b335f4c2daf1111b3f0a1c9fc&mboxRid=1cb7730d45be452895ad4472dfaa4649&mboxVersion=1.7.1&mboxCount=1&mboxTime=1634740796222&mboxHost=www.cityofhope.org&mboxURL=https%3A%2F%2Fwww.cityofhope.org%2Fpatients%2Fliving-with-cancer%2Fpatient-education&mboxReferrer=&browserHeight=812&browserWidth=375&browserTimeOffset=0&screenHeight=812&screenWidth=375&colorDepth=24&devicePixelRatio=3&screenOrientation=portrait&webGLRenderer=Google%20SwiftShader"
+      },
+      {
+        "data": {
+          "filter": "/monsido.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/patients/living-with-cancer/patient-education",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.monsido.com/tool/javascripts/monsido.js"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 15233284,
+            "Ver": 2,
+            "mid": "5487c5c2-a0a5-4209-bb0d-558398191bf8",
+            "sid": "934fdb7031b311ecbcec4993a3243d5b",
+            "vid": "93565ea031b311ecb7a46b651149cbc6",
+            "vids": 0,
+            "evt": "pageHide"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/actionp/0?ti=15233284&Ver=2&mid=5487c5c2-a0a5-4209-bb0d-558398191bf8&sid=934fdb7031b311ecbcec4993a3243d5b&vid=93565ea031b311ecb7a46b651149cbc6&vids=0&evt=pageHide"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 5063020,
+            "Ver": 2,
+            "mid": "8a0d741d-824c-48b7-aa17-2e1940e44b70",
+            "sid": "934fdb7031b311ecbcec4993a3243d5b",
+            "vid": "93565ea031b311ecb7a46b651149cbc6",
+            "vids": 1,
+            "evt": "pageHide"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/actionp/0?ti=5063020&Ver=2&mid=8a0d741d-824c-48b7-aa17-2e1940e44b70&sid=934fdb7031b311ecbcec4993a3243d5b&vid=93565ea031b311ecb7a46b651149cbc6&vids=1&evt=pageHide"
+      },
+      {
+        "data": {
+          "filter": "||addthis.com/live/",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sh": 2818,
+            "ph": 8760,
+            "ivh": 812,
+            "dt": 12122,
+            "pdt": 1401,
+            "ict": "",
+            "pct": 0,
+            "perf": "widget|1402|554,lojson|11162|114,sh|11220|256",
+            "rndr": "render_toolbox|11596,render_layers_thankyou|11878,render_layers_sharedock|11939",
+            "cmenu": null,
+            "ppd": 0,
+            "ppl": 0,
+            "fbe": "-1|2",
+            "xmv": 0,
+            "xms": 0,
+            "xmlc": 0,
+            "jsfw": "jquery,googleanalytics",
+            "jsfwv": "jquery-3.4.1,googleanalytics-analytics.js",
+            "al": "men,smlty,msd",
+            "scr": 4,
+            "scv": 0,
+            "apiu": 1,
+            "ba": 7,
+            "sid": "61702a2e7b6553e9",
+            "rev": "v8.28.8-wp",
+            "pub": "cityofhope",
+            "dp": "www.cityofhope.org",
+            "fp": "homepage",
+            "pfm": 0,
+            "icns": "print,facebook,twitter,pinterest_share,flipboard,wechat,linkedin,gmail"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://m.addthis.com/live/red_lojson/100eng.json?sh=2818&ph=8760&ivh=812&dt=12122&pdt=1401&ict=&pct=0&perf=widget%7C1402%7C554%2Clojson%7C11162%7C114%2Csh%7C11220%7C256&rndr=render_toolbox%7C11596%2Crender_layers_thankyou%7C11878%2Crender_layers_sharedock%7C11939&cmenu=null&ppd=0&ppl=0&fbe=-1%7C2&xmv=0&xms=0&xmlc=0&jsfw=jquery%2Cgoogleanalytics&jsfwv=jquery-3.4.1%2Cgoogleanalytics-analytics.js&al=men%2Csmlty%2Cmsd&scr=4&scv=0&apiu=1&ba=7&sid=61702a2e7b6553e9&rev=v8.28.8-wp&pub=cityofhope&dp=www.cityofhope.org&fp=homepage&pfm=0&icns=print%2Cfacebook%2Ctwitter%2Cpinterest_share%2Cflipboard%2Cwechat%2Clinkedin%2Cgmail"
+      },
+      {
+        "data": {
+          "filter": "||stats.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "t": "dc",
+            "aip": 1,
+            "_r": 3,
+            "v": 1,
+            "_v": "j94",
+            "tid": "UA-3289688-1",
+            "cid": 1645339269.163474,
+            "jid": 1146529946,
+            "gjid": 2051150093,
+            "_gid": 534745785.1634741,
+            "_u": "aHDACEABBAAAAG~",
+            "z": 509792577
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j94&tid=UA-3289688-1&cid=1645339269.1634740784&jid=1146529946&gjid=2051150093&_gid=534745785.1634740784&_u=aHDACEABBAAAAG~&z=509792577"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://8129721.fls.doubleclick.net/activityi;src=8129721;type=pagev0;cat=00_si0;ord=1331201891;gtm=2wgai0;auiddc=1823467109.1634740783;u5=undefined;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage?"
+      },
+      {
+        "data": {
+          "filter": "/collect?*&cid=",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j94",
+            "a": 295525849,
+            "t": "event",
+            "ni": 1,
+            "_s": 1,
+            "dl": "https://www.cityofhope.org/homepage",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Top Cancer Treatment and Research Center | City of Hope | California",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "ec": "data_collection",
+            "ea": "dimension_collected",
+            "el": "clientID_collected",
+            "ev": 0,
+            "_u": "aHDACEABBAAAAG~",
+            "jid": 1146529946,
+            "gjid": 2051150093,
+            "cid": 1645339269.163474,
+            "tid": "UA-3289688-1",
+            "_gid": 534745785.1634741,
+            "_r": 1,
+            "gtm": "2wgai0P9HRSH",
+            "tc": "x",
+            "cd7": 1645339269.163474,
+            "z": 2109493666
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j94&a=295525849&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&ul=en-us&de=UTF-8&dt=Top%20Cancer%20Treatment%20and%20Research%20Center%20%7C%20City%20of%20Hope%20%7C%20California&sd=24-bit&sr=375x812&vp=375x812&je=0&ec=data_collection&ea=dimension_collected&el=clientID_collected&ev=0&_u=aHDACEABBAAAAG~&jid=1146529946&gjid=2051150093&cid=1645339269.1634740784&tid=UA-3289688-1&_gid=534745785.1634740784&_r=1&gtm=2wgai0P9HRSH&tc=x&cd7=1645339269.1634740784&z=2109493666"
+      },
+      {
+        "data": {
+          "filter": "||bid.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "d": "KAE"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bid.g.doubleclick.net/xbbe/pixel?d=KAE"
+      },
+      {
+        "data": {
+          "filter": "||addthis.com/live/",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "si": "61702a2e7b6553e9",
+            "bkl": 0,
+            "bl": 1,
+            "pdt": 1401,
+            "sid": "61702a2e7b6553e9",
+            "pub": "cityofhope",
+            "rev": "v8.28.8-wp",
+            "ln": "en",
+            "pc": "men",
+            "cb": 0,
+            "ab": "-",
+            "dp": "www.cityofhope.org",
+            "fp": "homepage",
+            "fr": "",
+            "of": 0,
+            "pd": 0,
+            "irt": 0,
+            "vcl": 0,
+            "md": 0,
+            "ct": 1,
+            "tct": 0,
+            "abt": 0,
+            "cdn": 0,
+            "pi": 1,
+            "rb": 0,
+            "gen": 100,
+            "chr": "UTF-8",
+            "mk": "cancer,diabetes,HIV,hospital,clinics,research,science,california,socal,So. California,Duarte,scientific breakthroughs,cancer center,top cancer hospital in california,top cancer doctors,cancer,diabetes,HIV,hospital,clinics,research,science,california,socal,So. California,Duarte,scientific breakthroughs,cancer center,top cancer hospital in california,top cancer doctors",
+            "colc": 1634740791516,
+            "jsl": 12289,
+            "uvs": "61702a2e607dbd95000",
+            "skipb": 1,
+            "callback": "addthis.cbs.jsonp__36949021865647570"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://m.addthis.com/live/red_lojson/300lo.json?si=61702a2e7b6553e9&bkl=0&bl=1&pdt=1401&sid=61702a2e7b6553e9&pub=cityofhope&rev=v8.28.8-wp&ln=en&pc=men&cb=0&ab=-&dp=www.cityofhope.org&fp=homepage&fr=&of=0&pd=0&irt=0&vcl=0&md=0&ct=1&tct=0&abt=0&cdn=0&pi=1&rb=0&gen=100&chr=UTF-8&mk=cancer%2Cdiabetes%2CHIV%2Chospital%2Cclinics%2Cresearch%2Cscience%2Ccalifornia%2Csocal%2CSo.%20California%2CDuarte%2Cscientific%20breakthroughs%2Ccancer%20center%2Ctop%20cancer%20hospital%20in%20california%2Ctop%20cancer%20doctors%2Ccancer%2Cdiabetes%2CHIV%2Chospital%2Cclinics%2Cresearch%2Cscience%2Ccalifornia%2Csocal%2CSo.%20California%2CDuarte%2Cscientific%20breakthroughs%2Ccancer%20center%2Ctop%20cancer%20hospital%20in%20california%2Ctop%20cancer%20doctors&colc=1634740791516&jsl=12289&uvs=61702a2e607dbd95000&skipb=1&callback=addthis.cbs.jsonp__36949021865647570"
+      },
+      {
+        "data": {
+          "filter": "||addthisedge.com/live/",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://v1.addthisedge.com/live/boost/cityofhope/_ate.track.config_resp"
+      },
+      {
+        "data": {
+          "filter": "||adsymptotic.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "_pid": 16218,
+            "_psign": "0aa5badf92527f7732e22463d6fa4dbc",
+            "coopa": 0,
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "_puuid": "aaaa96b0-6d7a-4148-8cca-92340330088b",
+            "_expected_cookie": "ee61431450562c37dc7c96e5f01c66f3"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://9082902.fls.doubleclick.net/ddm/fls/r/src=9082902;type=coh200;cat=homep0;ord=9563155142909;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://p.adsymptotic.com/d/px/?_pid=16218&_psign=0aa5badf92527f7732e22463d6fa4dbc&coopa=0&gdpr=0&gdpr_consent=&_puuid=aaaa96b0-6d7a-4148-8cca-92340330088b&_expected_cookie=ee61431450562c37dc7c96e5f01c66f3"
+      },
+      {
+        "data": {
+          "filter": "||adsymptotic.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "_pid": 16218,
+            "_psign": "0aa5badf92527f7732e22463d6fa4dbc",
+            "coopa": 0,
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "_puuid": "aaaa96b0-6d7a-4148-8cca-92340330088b"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://9082902.fls.doubleclick.net/ddm/fls/r/src=9082902;type=coh200;cat=homep0;ord=9563155142909;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://p.adsymptotic.com/d/px/?_pid=16218&_psign=0aa5badf92527f7732e22463d6fa4dbc&coopa=0&gdpr=0&gdpr_consent=&_puuid=aaaa96b0-6d7a-4148-8cca-92340330088b"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/"
+      },
+      {
+        "data": {
+          "filter": "||bidswitch.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dsp_id": 93,
+            "user_group": 1,
+            "user_id": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "expires": 30,
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=bidswitch"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://x.bidswitch.net/syncd?dsp_id=93&user_group=1&user_id=ff042b34-2771-4568-867b-7bd7251e21f9&expires=30&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dbidswitch"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 842993943099472,
+            "ev": "PageView",
+            "dl": "https://www.cityofhope.org/homepage",
+            "rl": "",
+            "if": false,
+            "ts": 1634740790241,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "fbp": "fb.1.1634740785123.1493408342",
+            "it": 1634740783921,
+            "coo": false,
+            "eid": "72fac759f50bac6f55c1d18277e1b10a",
+            "tm": 1,
+            "exp": "p0",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=842993943099472&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&rl=&if=false&ts=1634740790241&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740783921&coo=false&eid=72fac759f50bac6f55c1d18277e1b10a&tm=1&exp=p0&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/"
+      },
+      {
+        "data": {
+          "filter": "||su.addthis.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pid": 11124,
+            "puid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=addthis"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://su.addthis.com/red/usync?pid=11124&puid=ff042b34-2771-4568-867b-7bd7251e21f9&url=https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fgeneric%3fttd_pid%3daddthis"
+      },
+      {
+        "data": {
+          "filter": "||agkn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "che": 1634740789693,
+            "ip": "3.144.136.104"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d.agkn.com/pixel/10751/?che=1634740789693&ip=3.144.136.104"
+      },
+      {
+        "data": {
+          "filter": "||agkn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "che": 1634740789577,
+            "ip": "3.144.136.104"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://d.agkn.com/pixel/10751/?che=1634740789577&ip=3.144.136.104"
+      },
+      {
+        "data": {
+          "filter": "||agkn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sid": 9211946648,
+            "tdid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "_redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=adadvisor&ttd_tpi=1&gdpr=1&gdpr_consent="
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://aa.agkn.com/adscores/g.pixel?sid=9211946648&tdid=ff042b34-2771-4568-867b-7bd7251e21f9&_redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dadadvisor%26ttd_tpi%3D1%26gdpr%3D1%26gdpr_consent%3D"
+      },
+      {
+        "data": {
+          "filter": "||agkn.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "sid": 9211946648,
+            "tdid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "_redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=adadvisor&ttd_tpi=1&gdpr=1&gdpr_consent="
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://aa.agkn.com/adscores/g.pixel?sid=9211946648&tdid=ff042b34-2771-4568-867b-7bd7251e21f9&_redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dadadvisor%26ttd_tpi%3D1%26gdpr%3D1%26gdpr_consent%3D"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 188223545697311,
+            "ev": "PageView",
+            "dl": "https://www.cityofhope.org/homepage",
+            "rl": "",
+            "if": false,
+            "ts": 1634740789343,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "fbp": "fb.1.1634740785123.1493408342",
+            "it": 1634740783921,
+            "coo": false,
+            "exp": "p0",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=188223545697311&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&rl=&if=false&ts=1634740789343&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740783921&coo=false&exp=p0&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/842993943099472?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||serving-sys.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "cn": "ot",
+            "onetagid": 7283,
+            "dispType": "js",
+            "sync": 0,
+            "sessionid": 8947151975941815000,
+            "pageurl": "$$https://www.cityofhope.org/homepage$$",
+            "activityValues": "$$Session=1634740783423$$",
+            "ns": 0,
+            "rnd": 9141674017296946
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bs.serving-sys.com/Serving?cn=ot&onetagid=7283&dispType=js&sync=0&sessionid=8947151975941815489&pageurl=$$https%3A%2F%2Fwww.cityofhope.org%2Fhomepage$$&activityValues=$$Session%3D1634740783423$$&ns=0&rnd=9141674017296946"
+      },
+      {
+        "data": {
+          "filter": "/adsct?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "type": "javascript",
+            "version": "2.0.4",
+            "p_id": "Twitter",
+            "p_user_id": 0,
+            "txn_id": "nvd6c",
+            "events": [
+              [
+                "pageview",
+                {}
+              ]
+            ],
+            "tw_sale_amount": 0,
+            "tw_order_quantity": 0,
+            "tw_iframe_status": 0,
+            "event_id": "7a0a7b1b-249b-4874-a88e-11268dd79b16",
+            "tw_document_href": "https://www.cityofhope.org/homepage"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://t.co/i/adsct?type=javascript&version=2.0.4&p_id=Twitter&p_user_id=0&txn_id=nvd6c&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&event_id=7a0a7b1b-249b-4874-a88e-11268dd79b16&tw_document_href=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage"
+      },
+      {
+        "data": {
+          "filter": "||analytics.twitter.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "type": "javascript",
+            "version": "2.0.4",
+            "p_id": "Twitter",
+            "p_user_id": 0,
+            "txn_id": "nvd6c",
+            "events": [
+              [
+                "pageview",
+                {}
+              ]
+            ],
+            "tw_sale_amount": 0,
+            "tw_order_quantity": 0,
+            "tw_iframe_status": 0,
+            "event_id": "7a0a7b1b-249b-4874-a88e-11268dd79b16",
+            "tw_document_href": "https://www.cityofhope.org/homepage",
+            "tpx_cb": "twttr.conversion.loadPixels"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.4&p_id=Twitter&p_user_id=0&txn_id=nvd6c&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&event_id=7a0a7b1b-249b-4874-a88e-11268dd79b16&tw_document_href=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&tpx_cb=twttr.conversion.loadPixels"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 15233284,
+            "Ver": 2,
+            "mid": "5487c5c2-a0a5-4209-bb0d-558398191bf8",
+            "sid": "934fdb7031b311ecbcec4993a3243d5b",
+            "vid": "93565ea031b311ecb7a46b651149cbc6",
+            "vids": 0,
+            "pi": 0,
+            "lg": "en-US",
+            "sw": 375,
+            "sh": 812,
+            "sc": 24,
+            "tl": "Top Cancer Treatment and Research Center | City of Hope | California",
+            "kw": "cancer, diabetes, HIV, hospital, clinics, research, science, california, socal, So. California, Duarte, scientific breakthroughs, cancer center, top cancer hospital in california, top cancer doctors, top cancer hospital los angeles, best cancer hospital los angeles, cancer treatment los angeles, cancer diagnosis los angeles, cancer research, top cancer hospital in california",
+            "p": "https://www.cityofhope.org/homepage",
+            "r": "",
+            "lt": 2406,
+            "evt": "pageLoad",
+            "msclkid": "N",
+            "sv": 1,
+            "rn": 651880
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/action/0?ti=15233284&Ver=2&mid=5487c5c2-a0a5-4209-bb0d-558398191bf8&sid=934fdb7031b311ecbcec4993a3243d5b&vid=93565ea031b311ecb7a46b651149cbc6&vids=0&pi=0&lg=en-US&sw=375&sh=812&sc=24&tl=Top%20Cancer%20Treatment%20and%20Research%20Center%20%7C%20City%20of%20Hope%20%7C%20California&kw=cancer,%20diabetes,%20HIV,%20hospital,%20clinics,%20research,%20science,%20california,%20socal,%20So.%20California,%20Duarte,%20scientific%20breakthroughs,%20cancer%20center,%20top%20cancer%20hospital%20in%20california,%20top%20cancer%20doctors,%20top%20cancer%20hospital%20los%20angeles,%20best%20cancer%20hospital%20los%20angeles,%20cancer%20treatment%20los%20angeles,%20cancer%20diagnosis%20los%20angeles,%20cancer%20research,%20top%20cancer%20hospital%20in%20california&p=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&r=&lt=2406&evt=pageLoad&msclkid=N&sv=1&rn=651880"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/p/action/15233284.js"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ti": 5063020,
+            "Ver": 2,
+            "mid": "8a0d741d-824c-48b7-aa17-2e1940e44b70",
+            "sid": "934fdb7031b311ecbcec4993a3243d5b",
+            "vid": "93565ea031b311ecb7a46b651149cbc6",
+            "vids": 1,
+            "pi": 0,
+            "lg": "en-US",
+            "sw": 375,
+            "sh": 812,
+            "sc": 24,
+            "tl": "Top Cancer Treatment and Research Center | City of Hope | California",
+            "kw": "cancer, diabetes, HIV, hospital, clinics, research, science, california, socal, So. California, Duarte, scientific breakthroughs, cancer center, top cancer hospital in california, top cancer doctors, top cancer hospital los angeles, best cancer hospital los angeles, cancer treatment los angeles, cancer diagnosis los angeles, cancer research, top cancer hospital in california",
+            "p": "https://www.cityofhope.org/homepage",
+            "r": "",
+            "lt": 2406,
+            "evt": "pageLoad",
+            "msclkid": "N",
+            "sv": 1,
+            "rn": 313758
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/action/0?ti=5063020&Ver=2&mid=8a0d741d-824c-48b7-aa17-2e1940e44b70&sid=934fdb7031b311ecbcec4993a3243d5b&vid=93565ea031b311ecb7a46b651149cbc6&vids=1&pi=0&lg=en-US&sw=375&sh=812&sc=24&tl=Top%20Cancer%20Treatment%20and%20Research%20Center%20%7C%20City%20of%20Hope%20%7C%20California&kw=cancer,%20diabetes,%20HIV,%20hospital,%20clinics,%20research,%20science,%20california,%20socal,%20So.%20California,%20Duarte,%20scientific%20breakthroughs,%20cancer%20center,%20top%20cancer%20hospital%20in%20california,%20top%20cancer%20doctors,%20top%20cancer%20hospital%20los%20angeles,%20best%20cancer%20hospital%20los%20angeles,%20cancer%20treatment%20los%20angeles,%20cancer%20diagnosis%20los%20angeles,%20cancer%20research,%20top%20cancer%20hospital%20in%20california&p=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&r=&lt=2406&evt=pageLoad&msclkid=N&sv=1&rn=313758"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/p/action/5063020.js"
+      },
+      {
+        "data": {
+          "filter": "||serving-sys.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://secure-ds.serving-sys.com/adServingData/PROD/TMClient/3/7283"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "et:ibs%7cdata:dpid": 903,
+            "dpuuid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=aam"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=903&dpuuid=ff042b34-2771-4568-867b-7bd7251e21f9&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "et:ibs%7cdata:dpid": 903,
+            "dpuuid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=aam"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=903&dpuuid=ff042b34-2771-4568-867b-7bd7251e21f9&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://9082902.fls.doubleclick.net/activityi;src=9082902;type=coh200;cat=unive0;ord=1149467566572;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage?"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://9082902.fls.doubleclick.net/activityi;src=9082902;type=coh200;cat=homep0;ord=9563155142909;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage?"
+      },
+      {
+        "data": {
+          "filter": "||bluekai.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=bluekai"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tags.bluekai.com/site/5386?id=ff042b34-2771-4568-867b-7bd7251e21f9&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dbluekai"
+      },
+      {
+        "data": {
+          "filter": "||bluekai.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=bluekai"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tags.bluekai.com/site/5386?id=ff042b34-2771-4568-867b-7bd7251e21f9&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dbluekai"
+      },
+      {
+        "data": {
+          "filter": "||bluekai.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "redir": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=bluekai"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tags.bluekai.com/site/5386?id=ff042b34-2771-4568-867b-7bd7251e21f9&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dbluekai"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "random": 1634740787721,
+            "cv": 9,
+            "fst": 1634740787721,
+            "num": 1,
+            "npa": 1,
+            "label": "WOILCOC6n9QCENG0vdIC",
+            "guid": "ON",
+            "resp": "GooglemKTybQhCsO",
+            "eid": 375603260,
+            "u_h": 812,
+            "u_w": 375,
+            "u_ah": 812,
+            "u_aw": 375,
+            "u_cd": 24,
+            "u_his": 2,
+            "u_tz": 0,
+            "u_java": false,
+            "u_nplug": 0,
+            "u_nmime": 0,
+            "sendb": 1,
+            "ig": 1,
+            "frm": 2,
+            "url": "https://9630481.fls.doubleclick.net/ddm/fls/r/src=9630481;type=invmedia;cat=cityo003;ord=1892220909251;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage",
+            "ref": "https://9630481.fls.doubleclick.net/activityi;src=9630481;type=invmedia;cat=cityo003;ord=1892220909251;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage?",
+            "hn": "www.googleadservices.com",
+            "rfmt": 3,
+            "fmt": 4
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://9630481.fls.doubleclick.net/ddm/fls/r/src=9630481;type=invmedia;cat=cityo003;ord=1892220909251;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion/709843537/?random=1634740787721&cv=9&fst=1634740787721&num=1&npa=1&label=WOILCOC6n9QCENG0vdIC&guid=ON&resp=GooglemKTybQhCsO&eid=375603260&u_h=812&u_w=375&u_ah=812&u_aw=375&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&ig=1&frm=2&url=https%3A%2F%2F9630481.fls.doubleclick.net%2Fddm%2Ffls%2Fr%2Fsrc%3D9630481%3Btype%3Dinvmedia%3Bcat%3Dcityo003%3Bord%3D1892220909251%3Bgtm%3D2odai0%3Bauiddc%3D1823467109.1634740783%3B~oref%3Dhttps%253A%252F%252Fwww.cityofhope.org%252Fhomepage&ref=https%3A%2F%2F9630481.fls.doubleclick.net%2Factivityi%3Bsrc%3D9630481%3Btype%3Dinvmedia%3Bcat%3Dcityo003%3Bord%3D1892220909251%3Bgtm%3D2odai0%3Bauiddc%3D1823467109.1634740783%3B~oref%3Dhttps%253A%252F%252Fwww.cityofhope.org%252Fhomepage%3F&hn=www.googleadservices.com&rfmt=3&fmt=4"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 616904678765230,
+            "ev": "PageView",
+            "dl": "https://www.cityofhope.org/homepage",
+            "rl": "",
+            "if": false,
+            "ts": 1634740787502,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "fbp": "fb.1.1634740785123.1493408342",
+            "it": 1634740783921,
+            "coo": false,
+            "exp": "p0",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=616904678765230&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&rl=&if=false&ts=1634740787502&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740783921&coo=false&exp=p0&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/188223545697311?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=ff042b34-2771-4568-867b-7bd7251e21f9&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam"
+      },
+      {
+        "data": {
+          "filter": "||demdex.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=ff042b34-2771-4568-867b-7bd7251e21f9&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam"
+      },
+      {
+        "data": {
+          "filter": "||googleadservices.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://9630481.fls.doubleclick.net/ddm/fls/r/src=9630481;type=invmedia;cat=cityo003;ord=1892220909251;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googleadservices.com/pagead/conversion.js"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "AW-405492523",
+            "l": "dataLayer",
+            "cx": "c"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-405492523&l=dataLayer&cx=c"
+      },
+      {
+        "data": {
+          "filter": "||bat.bing.com^",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://bat.bing.com/bat.js"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "AW-677291143",
+            "l": "dataLayer",
+            "cx": "c"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-677291143&l=dataLayer&cx=c"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "DC-8453338",
+            "l": "dataLayer",
+            "cx": "c"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=DC-8453338&l=dataLayer&cx=c"
+      },
+      {
+        "data": {
+          "filter": "||serving-sys.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/616904678765230?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "DC-9082902"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=DC-9082902"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "DC-9082902",
+            "l": "dataLayer",
+            "cx": "c"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=DC-9082902&l=dataLayer&cx=c"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "uid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "_origin": 1,
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "verify": true
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ups.analytics.yahoo.com/ups/55953/sync?uid=ff042b34-2771-4568-867b-7bd7251e21f9&_origin=1&gdpr=0&gdpr_consent=&verify=true"
+      },
+      {
+        "data": {
+          "filter": "||analytics.yahoo.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "uid": "ff042b34-2771-4568-867b-7bd7251e21f9",
+            "_origin": 1,
+            "gdpr": 0,
+            "gdpr_consent": ""
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ups.analytics.yahoo.com/ups/55953/sync?uid=ff042b34-2771-4568-867b-7bd7251e21f9&_origin=1&gdpr=0&gdpr_consent="
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 336051463521992,
+            "ev": "PageView",
+            "dl": "https://www.cityofhope.org/homepage",
+            "rl": "",
+            "if": false,
+            "ts": 1634740785943,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "fbp": "fb.1.1634740785123.1493408342",
+            "it": 1634740783921,
+            "coo": false,
+            "exp": "p0",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=336051463521992&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&rl=&if=false&ts=1634740785943&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740783921&coo=false&exp=p0&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/"
+      },
+      {
+        "data": {
+          "filter": "/collect.gif?",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "e": 1,
+            "aid": "",
+            "vid": "12ba7f5b-c174-4ea4-8796-884a64901b67",
+            "sid": "39614adc-d0b3-4644-97d7-fd057f7b327d",
+            "vh": 1,
+            "vt": 1634740785,
+            "pt": 1634740785,
+            "u": "https://www.cityofhope.org/homepage",
+            "r": "",
+            "t": "Top Cancer Treatment and Research Center | City of Hope | California",
+            "p": 5316.42,
+            "pm": "",
+            "ab": "",
+            "ak": "177-2810-BB0DD0BA"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.medtargetsystem.com/analytics/collect.gif?e=1&aid=&vid=12ba7f5b-c174-4ea4-8796-884a64901b67&sid=39614adc-d0b3-4644-97d7-fd057f7b327d&vh=1&vt=1634740785&pt=1634740785&u=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&r=&t=Top%20Cancer%20Treatment%20and%20Research%20Center%20%7C%20City%20of%20Hope%20%7C%20California&p=5316.42&pm=&ab=&ak=177-2810-BB0DD0BA"
+      },
+      {
+        "data": {
+          "filter": "||quantserve.com/pixel;",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://pixel.quantserve.com/pixel;r=1499086506;labels=_fp.event.Default;rf=0;a=p-U6PhkdyyMdTbY;url=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage;uht=2;fpan=1;fpa=P0-1270904215-1634740785280;pbc=;ns=0;ce=1;qjs=1;qv=00a3769c-20210929173447;cm=;gdpr=0;ref=;d=cityofhope.org;je=0;sr=375x812x24;dst=0;et=1634740785279;tzo=0;ogl=image.https%3A%2F%2Fwww%252Ecityofhope%252Eorg%2Fimage%2Fcoh-home-fountain-link2%252Ejpg%2Cdescription.City%20of%20Hope%20has%20been%20deemed%20one%20of%20the%20nation's%20elite%20cancer%20hospitals%20by%20U%252ES%252E%20"
+      },
+      {
+        "data": {
+          "filter": "||facebook.com/tr$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": 1660607454217829,
+            "ev": "PageView",
+            "dl": "https://www.cityofhope.org/homepage",
+            "rl": "",
+            "if": false,
+            "ts": 1634740785139,
+            "sw": 375,
+            "sh": 812,
+            "v": "2.9.47",
+            "r": "stable",
+            "ec": 0,
+            "o": 30,
+            "fbp": "fb.1.1634740785123.1493408342",
+            "it": 1634740783921,
+            "coo": false,
+            "exp": "p0",
+            "rqm": "GET"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.facebook.com/tr/?id=1660607454217829&ev=PageView&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&rl=&if=false&ts=1634740785139&sw=375&sh=812&v=2.9.47&r=stable&ec=0&o=30&fbp=fb.1.1634740785123.1493408342&it=1634740783921&coo=false&exp=p0&rqm=GET"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/336051463521992?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "/beacon.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "1634740784900": null
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.medtargetsystem.com/javascript/beacon.js?1634740784900"
+      },
+      {
+        "data": {
+          "filter": "||eloqua.com^$~stylesheet,third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pps": 3,
+            "siteid": 1399701292,
+            "ref2": "elqNone",
+            "tzo": 0,
+            "ms": 318,
+            "optin": "disabled",
+            "elqCookie": 1
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://s1399701292.t.eloqua.com/visitor/v200/svrGP.aspx?pps=3&siteid=1399701292&ref2=elqNone&tzo=0&ms=318&optin=disabled&elqCookie=1"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID": null,
+            "ttd_tdid": "ff042b34-2771-4568-867b-7bd7251e21f9"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=ff042b34-2771-4568-867b-7bd7251e21f9"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/activity$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "about:blank",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://9630481.fls.doubleclick.net/activityi;src=9630481;type=invmedia;cat=cityo003;ord=1892220909251;gtm=2odai0;auiddc=1823467109.1634740783;~oref=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage?"
+      },
+      {
+        "data": {
+          "filter": "||dotomi.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "data_object_type_code": 0,
+            "canonical_url": "https://www.cityofhope.org/homepage",
+            "dtmc_ref": "",
+            "dtmc_loc": "https://www.cityofhope.org/homepage",
+            "dtm_cid": 62513,
+            "dtm_fid": 1561,
+            "method": "img",
+            "dtm_country_code": "US",
+            "wl_domains_key": "",
+            "dtm_form_uid": 464606221655094100,
+            "dtm_cid_original": 62513,
+            "dtm_cmagic": "0d8a6e",
+            "cachebuster": 328816560,
+            "tcflag": true,
+            "dtm_consent": true,
+            "cid": 9999,
+            "dtm_items": "%22%22",
+            "dtmc_coupons": "%22%22",
+            "dtmc_bypass_channel": "%22%22"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://login-ds.dotomi.com/profile/visit/final/js?data_object_type_code=0&canonical_url=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&dtmc_ref=&dtmc_loc=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&dtm_cid=62513&dtm_fid=1561&method=img&dtm_country_code=US&wl_domains_key=&dtm_form_uid=464606221655094068&dtm_cid_original=62513&dtm_cmagic=0d8a6e&cachebuster=328816560&tcflag=true&dtm_consent=true&cid=9999&dtm_items=%2522%2522&dtmc_coupons=%2522%2522&dtmc_bypass_channel=%2522%2522"
+      },
+      {
+        "data": {
+          "filter": "||eloqua.com^$~stylesheet,third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "pps": 3,
+            "siteid": 1399701292,
+            "ref2": "elqNone",
+            "tzo": 0,
+            "ms": 318,
+            "optin": "disabled"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://s1399701292.t.eloqua.com/visitor/v200/svrGP?pps=3&siteid=1399701292&ref2=elqNone&tzo=0&ms=318&optin=disabled"
+      },
+      {
+        "data": {
+          "filter": "||quantcount.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://rules.quantcount.com/rules-p-U6PhkdyyMdTbY.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/collect",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": 1,
+            "_v": "j94",
+            "a": 295525849,
+            "t": "pageview",
+            "_s": 1,
+            "dl": "https://www.cityofhope.org/homepage",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Top Cancer Treatment and Research Center | City of Hope | California",
+            "sd": "24-bit",
+            "sr": "375x812",
+            "vp": "375x812",
+            "je": 0,
+            "_u": "YGBAiEABB~",
+            "jid": 1349635492,
+            "gjid": 544827075,
+            "cid": 1645339269.163474,
+            "tid": "UA-3289688-1",
+            "_gid": 534745785.1634741,
+            "gtm": "2wgai0P9HRSH",
+            "cd6": "static",
+            "cd9": "not_given",
+            "tc": "x",
+            "z": 1470145531
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j94&a=295525849&t=pageview&_s=1&dl=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&ul=en-us&de=UTF-8&dt=Top%20Cancer%20Treatment%20and%20Research%20Center%20%7C%20City%20of%20Hope%20%7C%20California&sd=24-bit&sr=375x812&vp=375x812&je=0&_u=YGBAiEABB~&jid=1349635492&gjid=544827075&cid=1645339269.1634740784&tid=UA-3289688-1&_gid=534745785.1634740784&gtm=2wgai0P9HRSH&cd6=static&cd9=not_given&tc=x&z=1470145531"
+      },
+      {
+        "data": {
+          "filter": "||stats.g.doubleclick.net^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "t": "dc",
+            "aip": 1,
+            "_r": 3,
+            "v": 1,
+            "_v": "j94",
+            "tid": "UA-3289688-1",
+            "cid": 1645339269.163474,
+            "jid": 1349635492,
+            "gjid": 544827075,
+            "_gid": 534745785.1634741,
+            "_u": "YGBAiEABBAAAAE~",
+            "z": 1113499748
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j94&tid=UA-3289688-1&cid=1645339269.1634740784&jid=1349635492&gjid=544827075&_gid=534745785.1634740784&_u=YGBAiEABBAAAAE~&z=1113499748"
+      },
+      {
+        "data": {
+          "filter": "||ib.adnxs.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "e": "PageView",
+            "pi": "19661fcf-fd23-4249-9d52-81c618e4489d",
+            "it": 1634740783940,
+            "v": "0.0.20",
+            "u": "https://www.cityofhope.org/homepage",
+            "st": 1634740783939,
+            "et": 1634740783941,
+            "if": 0
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ib.adnxs.com/pixie?e=PageView&pi=19661fcf-fd23-4249-9d52-81c618e4489d&it=1634740783940&v=0.0.20&u=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&st=1634740783939&et=1634740783941&if=0"
+      },
+      {
+        "data": {
+          "filter": "||connect.facebook.net/signals/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "v": "2.9.47",
+            "r": "stable"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/signals/config/1660607454217829?v=2.9.47&r=stable"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net/pixel?$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "google_nid": "TheTradeDesk",
+            "google_cm": null,
+            "google_sc": null,
+            "google_hm": "ZmYwNDJiMzQtMjc3MS00NTY4LTg2N2ItN2JkNzI1MWUyMWY5",
+            "gdpr": 0,
+            "gdpr_consent": "",
+            "ttd_tdid": "ff042b34-2771-4568-867b-7bd7251e21f9"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=ZmYwNDJiMzQtMjc3MS00NTY4LTg2N2ItN2JkNzI1MWUyMWY5&gdpr=0&gdpr_consent=&ttd_tdid=ff042b34-2771-4568-867b-7bd7251e21f9"
+      },
+      {
+        "data": {
+          "filter": "||dotomi.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ad_id": 62513,
+            "evt": 32958,
+            "cat1": 43170,
+            "cat2": 43171,
+            "rand": 79694700
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://login.dotomi.com/w/tre?ad_id=62513&evt=32958&cat1=43170&cat2=43171&rand=79694700"
+      },
+      {
+        "data": {
+          "filter": "/elqcfg.min.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://img04.en25.com/i/elqCfg.min.js"
+      },
+      {
+        "data": {
+          "filter": "||google-analytics.com/analytics.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "data": {
+          "filter": "||doubleclick.net^$image,third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://ad.doubleclick.net/ddm/activity/src=9630481;type=invmedia;cat=cityo00;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?"
+      },
+      {
+        "data": {
+          "filter": "||dotomi.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "ad_id": 62513,
+            "evt": 32958,
+            "cat1": 43170,
+            "cat2": 43171,
+            "rand": 79694700
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://media.msg.dotomi.com/w/tre?ad_id=62513&evt=32958&cat1=43170&cat2=43171&rand=79694700"
+      },
+      {
+        "data": {
+          "filter": "||amplify.outbrain.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://amplify.outbrain.com/cp/obtp.js"
+      },
+      {
+        "data": {
+          "filter": "||googletagmanager.com/gtag/$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "DC-9630481"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtag/js?id=DC-9630481"
+      },
+      {
+        "data": {
+          "filter": "||dotomi.com^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "dtm_cid": 62513,
+            "dtm_cmagic": "0d8a6e",
+            "dtm_fid": 1561,
+            "cachebuster": 328816560
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://login.dotomi.com/profile/visit/js/1_0?dtm_cid=62513&dtm_cmagic=0d8a6e&dtm_fid=1561&cachebuster=328816560"
+      },
+      {
+        "data": {
+          "filter": "/fbevents.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "data": {
+          "filter": "||quantserve.com/aquant.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": "p-U6PhkdyyMdTbY"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://secure.quantserve.com/aquant.js?a=p-U6PhkdyyMdTbY"
+      },
+      {
+        "data": {
+          "filter": "||tracking.monsido.com^",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "a": "BqhG9A9h_92V95YhXD7KMA",
+            "b": "https://www.cityofhope.org/homepage",
+            "c": "4A11634740782839",
+            "d": "375x812",
+            "e": "",
+            "f": "C431634740782839",
+            "g": 2406,
+            "h": 2
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://tracking.monsido.com/?a=BqhG9A9h_92V95YhXD7KMA&b=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&c=4A11634740782839&d=375x812&e=&f=C431634740782839&g=2406&h=2"
+      },
+      {
+        "data": {
+          "filter": "/gtm.js",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "id": "GTM-P9HRSH"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-P9HRSH"
+      },
+      {
+        "data": {
+          "filter": "||omtrdc.net^$third-party",
+          "listName": "easyprivacy.txt",
+          "query": {
+            "mbox": "target-global-mbox",
+            "mboxSession": "7a3d639130c045d0859acf3042b55934",
+            "mboxPC": "",
+            "mboxPage": "36dd07fede1849948d1fd0119001c89a",
+            "mboxRid": "42c890ea429f45fe82fba0dd353129d9",
+            "mboxVersion": "1.7.1",
+            "mboxCount": 1,
+            "mboxTime": 1634740782064,
+            "mboxHost": "www.cityofhope.org",
+            "mboxURL": "https://www.cityofhope.org/homepage",
+            "mboxReferrer": "",
+            "browserHeight": 812,
+            "browserWidth": 375,
+            "browserTimeOffset": 0,
+            "screenHeight": 812,
+            "screenWidth": 375,
+            "colorDepth": 24,
+            "devicePixelRatio": 3,
+            "screenOrientation": "portrait",
+            "webGLRenderer": "Google SwiftShader"
+          }
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cityofhope.tt.omtrdc.net/m2/cityofhope/mbox/json?mbox=target-global-mbox&mboxSession=7a3d639130c045d0859acf3042b55934&mboxPC=&mboxPage=36dd07fede1849948d1fd0119001c89a&mboxRid=42c890ea429f45fe82fba0dd353129d9&mboxVersion=1.7.1&mboxCount=1&mboxTime=1634740782064&mboxHost=www.cityofhope.org&mboxURL=https%3A%2F%2Fwww.cityofhope.org%2Fhomepage&mboxReferrer=&browserHeight=812&browserWidth=375&browserTimeOffset=0&screenHeight=812&screenWidth=375&colorDepth=24&devicePixelRatio=3&screenOrientation=portrait&webGLRenderer=Google%20SwiftShader"
+      },
+      {
+        "data": {
+          "filter": "/monsido.js",
+          "listName": "easyprivacy.txt",
+          "query": null
+        },
+        "stack": [
+          {
+            "fileName": "https://www.cityofhope.org/homepage",
+            "source": "ThirdPartyTracker RequestHandler"
+          }
+        ],
+        "type": "TrackingRequest",
+        "url": "https://cdn.monsido.com/tool/javascripts/monsido.js"
+      }
+    ]
+  }
+}
