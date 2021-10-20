@@ -10,7 +10,7 @@ The data folder is organized as follows:<br>
 
 | Folder                                               | Description                                                                                                                                                                                              |
 | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `data/nonprofit-websites.csv`                          | A list of nonprofits along with their websites, as publicly listed on [Charity Navigator](https://www.charitynavigator.org/).                                                                                           |
+| `data/nonprofit-websites.csv`                          | A list of nonprofits along with their websites, as publicly listed on [GuideStar](https://www.guidestar.org/).                                                                                           |
 | `data/oct-13-summary.csv`                          | The summary file generated from our bulk Blacklight scan of nonprofit websites on Oct. 13, 2021.                                                                                           |
 | `data/story-inspections`                             | The `blacklight-collector` inspections for the websites mentioned in our [story](TK). |
 
