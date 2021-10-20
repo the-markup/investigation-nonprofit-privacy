@@ -6,7 +6,7 @@ This repository contains the data described in our story, "[Nonprofit Websites A
 
 All reports generated for this analysis were done so using the `blacklight-reporter`. Please refer to its [README](https://github.com/the-markup/blacklight-reporter) for more information about the indivudual reports. Summary statistics used in the story were calculated using the [original Blacklight analysis code](https://github.com/the-markup/investigation-blacklight-the-high-cost-of-free/blob/master/0-100k-scan.ipynb).
 
-The data folder is organzied as follows:<br>
+The data folder is organized as follows:<br>
 
 | Folder                                               | Description                                                                                                                                                                                              |
 | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ The data folder is organzied as follows:<br>
 
 ### Which IRS Categories We Looked At
 
-We chose to look at nonprofits labelled with certain IRS Activity Codes in the IRS master file. Below are the codes we looked at, and a description as taken from [a table maintained by the Urban Institute](https://nccs.urban.org/publication/irs-activity-codes).
+We chose to look at nonprofits labeled with certain IRS Activity Codes in the IRS master file. Below are the codes we looked at, and a description as taken from [a table maintained by the Urban Institute](https://nccs.urban.org/publication/irs-activity-codes).
 
 | NTEE Code | Description |
 |----|----|
